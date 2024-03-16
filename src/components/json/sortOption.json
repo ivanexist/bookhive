@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Best Seller",
+    "sortedBy": "sold",
+    "reverse": true,
+    "current": true
+  },
+  {
+    "name": "High Rate",
+    "sortedBy": "average_rating",
+    "reverse": true,
+    "current": false
+  },
+  {
+    "name": "Newest",
+    "sortedBy": "publish_year",
+    "reverse": true,
+    "current": false
+  },
+  {
+    "name": "Price: Low to High",
+    "sortedBy": "price",
+    "reverse": false,
+    "current": false
+  },
+  {
+    "name": "Price: High to Low",
+    "sortedBy": "price",
+    "reverse": true,
+    "current": false
+  }
+]
