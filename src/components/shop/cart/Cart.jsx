@@ -4,7 +4,7 @@ import CartContent from "./CartContent";
 import Footer from "../../Footer";
 import ScrollUpButton from "../../ScrollUpButton";
 import { ToastContainer } from "react-toastify";
-import Breadcrumb from "../../BreadCrumb";
+import Breadcrumb from "../../Breadcrumb";
 const Cart = () => {
   return (
     <div>

@@ -1,4 +1,4 @@
-import Breadcrumb from "../BreadCrumb";
+import Breadcrumb from "../Breadcrumb";
 import Footer from "../Footer";
 import ScrollUpButton from "../ScrollUpButton";
 import AboutContent from "./AboutContent";

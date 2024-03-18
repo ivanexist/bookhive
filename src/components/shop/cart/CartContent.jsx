@@ -207,14 +207,14 @@ const CartContent = () => {
           </div>
         </div>
       </Modal>
-      <div className="grid sm:grid-cols-1 md:grid-cols-6">
+      <div className="grid sm:grid-cols-1 lg:grid-cols-6">
         <div className="flex justify-between items-center col-span-4 border-b border-b-blumine-200 mx-4 pb-4">
           <div className="font-bold ml-2 mb-4">
             <h1 className="mt-4 text-blumine-500">Shopping Cart</h1>
           </div>
         </div>
       </div>
-      <div className="grid sm:grid-cols-1 md:grid-cols-6">
+      <div className="grid sm:grid-cols-1 lg:grid-cols-6">
         <div className="flex justify-between col-span-4">
           <div className="text-blumine-500">
             <label>

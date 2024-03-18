@@ -4,10 +4,9 @@ import FilterMobile from "./filter/FilterMobile";
 import Category from "./filter/Category";
 import FilterNavbar from "./filter/FilterNavbar";
 import Footer from "../Footer";
-import Navbar2 from "../Navbar2";
 import ScrollUpButton from "../ScrollUpButton";
 import { motion } from "framer-motion";
-import Breadcrumb2 from "../Breadcrumb";
+import Breadcrumb from "../Breadcrumb";
 import { useContext, useEffect, useState } from "react";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -167,7 +166,7 @@ const Shop = () => {
             // transition={{ duration: 0.7 }}
             >
               <FilterMobile />
-              <Breadcrumb2 />
+              <Breadcrumb />
             </motion.div>
             <main className="mx-auto max-w-screen-xl">
               <div

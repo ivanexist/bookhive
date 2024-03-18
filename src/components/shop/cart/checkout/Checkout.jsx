@@ -3,7 +3,7 @@ import FilterMobile from "../../filter/FilterMobile";
 import Footer from "../../../Footer";
 import ScrollUpButton from "../../../ScrollUpButton";
 import CheckoutContent from "./CheckoutContent";
-import Breadcrumb from "../../../BreadCrumb";
+import Breadcrumb from "../../../Breadcrumb";
 
 const Checkout = () => {
   return (
