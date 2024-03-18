@@ -11,7 +11,7 @@ const HomeProductCard = ({ book }) => {
         <a href="#">
           <img
             className="w-24 h-32 transition duration-300 ease-in-out"
-            src={`../../../public/bookhive/${book.book_cover}`}
+            src={`https://raw.githubusercontent.com/ivanexist/bookhive/main/public/bookhive/${book.book_cover}`}
             onClick={scrollToTop}
           />
         </a>

@@ -95,7 +95,7 @@ const ProductDetailsCard = ({
         <div className=" px-4 py-8 mx-auto">
           <div className="sm:w-full lg:w-11/12 flex flex-wrap">
             <img
-              src={`../../../public/bookhive/${selectedBook.book_cover}`}
+              src={`https://raw.githubusercontent.com/ivanexist/bookhive/main/public/bookhive/${selectedBook.book_cover}`}
               alt="ecommerce"
               className="lg:w-1/2 w-full object-center border border-blumine-100 p-8"
             />

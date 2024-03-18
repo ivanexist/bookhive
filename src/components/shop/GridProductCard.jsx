@@ -132,7 +132,7 @@ const GridProductCard = ({ book, bookId }) => {
             </div>
           ) : (
             <img
-              src={`../../../public/bookhive/${book.book_cover}`}
+              src={`https://raw.githubusercontent.com/ivanexist/bookhive/main/public/bookhive/${book.book_cover}`}
               alt={book.caption}
               onClick={scrollToTop}
               className={` h-full w-full object-center border border-blumine-100 lg:h-full lg:w-full transition duration-300 ease-in-out ${
