@@ -30,24 +30,6 @@ const ReviewCustomer = () => (
       <div className="ml-6">
         <p className="flex items-baseline">
           <span className="text-blumine-500 font-bold">Mary T.</span>
-          {/* <span className="mx-1 mt-2">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="1em"
-              height="1em"
-              viewBox="0 0 24 24"
-              className="fill-current text-blumine-500 bg-white 
-            "
-            >
-              <path
-                fill="currentColor"
-                d="m8.6 22.5l-1.9-3.2l-3.6-.8l.35-3.7L1 12l2.45-2.8l-.35-3.7l3.6-.8l1.9-3.2L12 2.95l3.4-1.45l1.9 3.2l3.6.8l-.35 3.7L23 12l-2.45 2.8l.35 3.7l-3.6.8l-1.9 3.2l-3.4-1.45zm2.35-6.95L16.6 9.9l-1.4-1.45l-4.25 4.25l-2.15-2.1L7.4 12z"
-              ></path>
-            </svg>
-          </span> */}
-          {/* <span className="ml-2 text-blumine-500 text-xs font-semibold">
-            Verified Buyer
-          </span> */}
         </p>
         <div className="flex items-center mt-1">
           <svg
@@ -99,7 +81,7 @@ const ReviewCustomer = () => (
           </p>
         </div>
         <div className="flex items-center justify-between mt-4 text-sm fill-current">
-          <button className="flex items-center text-gray-950 hover:text-blumine-500 ">
+          <button className="flex items-center text-gray-800 hover:text-blumine-500 ">
             <svg
               className="w-3 h-3"
               xmlns="http://www.w3.org/2000/svg"
@@ -107,10 +89,10 @@ const ReviewCustomer = () => (
             >
               <path d="M5.08 12.16A2.99 2.99 0 0 1 0 10a3 3 0 0 1 5.08-2.16l8.94-4.47a3 3 0 1 1 .9 1.79L5.98 9.63a3.03 3.03 0 0 1 0 .74l8.94 4.47A2.99 2.99 0 0 1 20 17a3 3 0 1 1-5.98-.37l-8.94-4.47z" />
             </svg>
-            <span className="ml-2">Share</span>
+            <span className="ml-2 text-gray-800">Share</span>
           </button>
           <div className="flex items-center">
-            <span className="text-gray-950">Was this review helplful?</span>
+            <span className="text-gray-800">Was this review helplful?</span>
             <button className="flex items-center ml-6 text-blumine-500">
               <svg
                 className="w-3 h-3"
@@ -141,7 +123,7 @@ const ReviewCustomer = () => (
       </div>
       <div className="ml-6">
         <p className="flex items-baseline">
-          <span className="text-gray-950 font-bold">Evelyn R.</span>
+          <span className="text-gray-800 font-bold">Evelyn R.</span>
         </p>
         <div className="flex items-center mt-1">
           <svg
@@ -180,8 +162,8 @@ const ReviewCustomer = () => (
             <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z" />
           </svg>
         </div>
-        <div className="flex items-center mt-4 text-gray-950"></div>
-        <div className="text-gray-950">
+        <div className="flex items-center mt-4 text-gray-800"></div>
+        <div className="text-gray-800">
           <span className="font-bold">Sapien consequat eleifend!</span>
           <p className="mt-1 text-gray-500">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
@@ -193,7 +175,7 @@ const ReviewCustomer = () => (
           </p>
         </div>
         <div className="flex items-center justify-between mt-4 text-sm  fill-current">
-          <button className="flex items-center text-gray-950 hover:text-blumine-500 ">
+          <button className="flex items-center text-gray-800 hover:text-blumine-500 ">
             <svg
               className="w-3 h-3"
               xmlns="http://www.w3.org/2000/svg"
@@ -204,7 +186,7 @@ const ReviewCustomer = () => (
             <span className="ml-2">Share</span>
           </button>
           <div className="flex items-center">
-            <span className="text-gray-950">Was this review helplful?</span>
+            <span className="text-gray-800">Was this review helplful?</span>
             <button className="flex items-center ml-6 text-gray-600 hover:text-blumine-500">
               <svg
                 className="w-3 h-3"
@@ -235,7 +217,7 @@ const ReviewCustomer = () => (
       </div>
       <div className="ml-6">
         <p className="flex items-baseline">
-          <span className="text-gray-950 font-bold">Carlo S.</span>
+          <span className="text-gray-800 font-bold">Carlo S.</span>
         </p>
         <div className="flex items-center mt-1">
           <svg
@@ -274,8 +256,8 @@ const ReviewCustomer = () => (
             <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z" />
           </svg>
         </div>
-        <div className="flex items-center mt-4 text-gray-950"></div>
-        <div className="text-gray-950">
+        <div className="flex items-center mt-4 text-gray-800"></div>
+        <div className="text-gray-800">
           <span className="font-bold">Sapien consequat eleifend!</span>
           <p className="mt-1 text-gray-500">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
@@ -286,8 +268,8 @@ const ReviewCustomer = () => (
             pariatur.
           </p>
         </div>
-        <div className="flex items-center justify-between mt-4 text-sm  fill-current">
-          <button className="flex items-center text-gray-950 hover:text-blumine-500 ">
+        <div className="flex items-center justify-between mt-4 text-sm fill-current">
+          <button className="flex items-center text-gray-800 hover:text-blumine-500 ">
             <svg
               className="w-3 h-3"
               xmlns="http://www.w3.org/2000/svg"

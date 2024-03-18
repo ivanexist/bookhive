@@ -58,7 +58,7 @@ const CheckoutContent = () => {
           <div className="font-medium mx-2 text-blumine-500">Shipping Fee</div>
           <div className="font-medium mx-2">FREE</div>
         </div>
-        <div className="flex justify-between border-b border-b-blumine-200 pt-4 pb-6 bg-blumine-200 text-gray-950">
+        <div className="flex justify-between border-b border-b-blumine-200 pt-4 pb-6 bg-blumine-100 text-gray-950">
           <div className="font-bold mx-2 text-blumine-600">Grand Total</div>
           <div className="font-bold mx-2">${calculateTotalPayment()}</div>
         </div>

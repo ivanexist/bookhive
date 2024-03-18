@@ -71,7 +71,7 @@ const FilterNavbar = ({
                     Show
                   </label>
                   <select
-                    className="cursor-pointer font-semibold focus:outline-none text-gray-950"
+                    className="cursor-pointer font-semibold focus:outline-none text-gray-700"
                     value={onItemsPerPage}
                     onChange={onHandleItemsPerPageChange}
                   >
@@ -87,7 +87,7 @@ const FilterNavbar = ({
                     Sort by
                   </label>
                   <select
-                    className="cursor-pointer font-semibold focus:outline-none text-gray-950"
+                    className="cursor-pointer font-semibold focus:outline-none text-gray-700"
                     onChange={handleSelectSortingChange}
                   >
                     <option value="bestSeller" selected>

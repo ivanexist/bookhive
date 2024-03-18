@@ -111,7 +111,7 @@ const ProductDetailsCard = ({
                   </div>
                 )}
               </div>
-              <h1 className="text-gray-950 text-3xl title-font font-medium mb-1 sm:my-4 lg:my-0 ">
+              <h1 className="text-gray-800 text-3xl title-font font-medium mb-1 sm:my-4 lg:my-0 ">
                 {selectedBook.title}
               </h1>
               <div className="text-gray-400 my-1">{selectedBook.caption}</div>
@@ -119,7 +119,7 @@ const ProductDetailsCard = ({
                 <div className="flex items-center">
                   <div className="text-gray-400">
                     By
-                    <span className="font-medium text-gray-950 ml-1">
+                    <span className="font-medium text-gray-800 ml-1">
                       {selectedBook.author[0]}{" "}
                     </span>
                   </div>
@@ -131,7 +131,7 @@ const ProductDetailsCard = ({
                     <FaStar className="w-4 h-4 text-yellow-400" />
                     <FaStar className="w-4 h-4 text-yellow-400" />
                     <FaStar className="w-4 h-4 text-yellow-400" />
-                    <span className="ml-2 text-gray-950">
+                    <span className="ml-2 text-gray-800">
                       <b>{selectedBook.average_rating}</b>{" "}
                       <span className="text-gray-500">(24 Reviews)</span>
                     </span>
@@ -139,7 +139,7 @@ const ProductDetailsCard = ({
                 </div>
               </div>
               <div className="flex">
-                <span className="title-font font-bold text-2xl text-gray-950 my-4">
+                <span className="title-font font-bold text-2xl text-gray-800 my-4">
                   ${selectedBook.price}
                 </span>
               </div>
@@ -311,17 +311,17 @@ const ProductDetailsCard = ({
               <div className="grid grid-cols-3 gap-4 my-8">
                 <div className="flex flex-col border border-blumine-200 p-2 px-4 items-center">
                   <div className="text-gray-500">Publisher</div>
-                  <div className="my-2 justify-center items-center font-semibold text-gray-950">
+                  <div className="my-2 justify-center items-center font-semibold text-gray-800">
                     {selectedBook.publish[0].publisher_name}
                   </div>
                 </div>
-                <div className="flex flex-col border border-blumine-200 p-2 items-center text-gray-950">
+                <div className="flex flex-col border border-blumine-200 p-2 items-center text-gray-800">
                   <div className="text-gray-500">Published Year</div>
                   <div className="my-2 font-semibold">
                     {selectedBook.publish[0].published_year}
                   </div>
                 </div>
-                <div className="flex flex-col border border-blumine-200 p-2 items-center text-gray-950">
+                <div className="flex flex-col border border-blumine-200 p-2 items-center text-gray-700">
                   <div className="text-gray-500">Total pages</div>
                   <div className="my-2 font-semibold">
                     {selectedBook.total_page}
@@ -331,7 +331,7 @@ const ProductDetailsCard = ({
               <div>
                 <div className="flex ">
                   <span className="text-gray-500 mr-2">Category: </span>
-                  <span className="text-gray-950 font-semibold">
+                  <span className="text-gray-800 font-semibold">
                     {selectedBook.categories_title.join(", ")}
                   </span>
                 </div>

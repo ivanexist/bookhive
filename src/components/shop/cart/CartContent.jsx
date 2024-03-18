@@ -284,7 +284,7 @@ const CartContent = () => {
               </div>
             </div>
             <Link to={`/shop/cart/checkout`} onClick={scrollToTop}>
-              <button className="mt-6 w-full bg-blumine-500 py-2 font-semibold text-blumine-50 hover:bg-blumine-600">
+              <button className="sm:hidden lg:block mt-6 w-full bg-blumine-500 py-2 font-semibold text-blumine-50 hover:bg-blumine-600">
                 Checkout (
                 {cartItems.reduce((total, cartItem) => {
                   return total + (cartItem.isChecked ? cartItem.quantity : 0);
@@ -293,11 +293,36 @@ const CartContent = () => {
               </button>
             </Link>
             <Link to={`/shop`}>
-              <button className=" w-full bg-blumine-50 my-4 py-2 font-semibold text-blumine-600 hover:bg-blumine-100">
+              <button className="sm:hidden lg:block w-full bg-blumine-50 my-4 py-2 font-semibold text-blumine-600 hover:bg-blumine-100">
                 Continue to Shopping
               </button>
             </Link>
           </div>
+        </div>
+      </div>
+      {/* Bottom Navigation */}
+      <div className="block lg:hidden fixed bottom-0 left-0 w-full bg-white p-4 z-20">
+        <div className="flex flex-col justify-between">
+          <div className="flex justify-between">
+            <p className="text-lg font-bold text-gray-950">Total Payment:</p>
+            <p className="mb-1 text-lg font-bold text-gray-950">
+              ${calculateTotalPayment()}
+            </p>
+          </div>
+          <Link to={`/shop/cart/checkout`} onClick={scrollToTop}>
+            <button className="mt-4 w-full bg-blumine-500 py-2 font-semibold text-blumine-50 hover:bg-blumine-600">
+              Checkout (
+              {cartItems.reduce((total, cartItem) => {
+                return total + (cartItem.isChecked ? cartItem.quantity : 0);
+              }, 0)}
+              )
+            </button>
+          </Link>
+          <Link to={`/shop`}>
+            <button className=" w-full bg-blumine-100 my-2 py-2 font-semibold text-blumine-600 hover:bg-blumine-100">
+              Continue to Shopping
+            </button>
+          </Link>
         </div>
       </div>
     </div>

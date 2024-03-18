@@ -79,8 +79,8 @@ const Breadcrumb = () => {
                   to={match.pathname}
                   className={
                     match.pathname === location.pathname
-                      ? "text-gray-950 inline-flex items-center text-base font-semibold mr-1"
-                      : "text-gray-400  inline-flex items-center text-base font-medium hover:text-gray-950  mr-2"
+                      ? "text-gray-800 inline-flex items-center text-base font-semibold mr-1"
+                      : "text-gray-400  inline-flex items-center text-base font-medium hover:text-gray-800  mr-2"
                   }
                 >
                   {breadcrumb.key === "/" ? (

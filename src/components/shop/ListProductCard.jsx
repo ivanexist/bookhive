@@ -50,7 +50,7 @@ const ListProductCard = ({ book, bookId }) => {
         <div className="px-4 flex flex-col justify-between">
           <div>
             <div className="flex flex-wrap flex-col justify-start items-start">
-              <h3 className="text-base font-bold text-blumine-950 mb-1">
+              <h3 className="text-base font-bold text-gray-950 mb-1">
                 <Link key={book.book_id} to={`/shop/${book.book_id}`}>
                   {book.title}
                 </Link>
@@ -63,7 +63,7 @@ const ListProductCard = ({ book, bookId }) => {
             </div>
             <div className="flex flex-row my-4">
               <div>
-                <span className="text-base font-bold text-blumine-950 my-4 pr-2 border-r-2">
+                <span className="text-base font-bold text-gray-950 my-4 pr-2 border-r-2">
                   ${book.price}
                 </span>
               </div>
@@ -96,10 +96,10 @@ const ListProductCard = ({ book, bookId }) => {
                   ></path>
                 </svg>
               </a>
-              <span className="ml-1 text-blumine-950">
+              <span className="ml-1 text-gray-500">
                 {book.average_rating} |
               </span>
-              <span className="ml-1 text-blumine-950">
+              <span className="ml-1 text-gray-500">
                 {book.stock[0].sold} Sold
               </span>
             </div>

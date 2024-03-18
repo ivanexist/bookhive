@@ -54,13 +54,13 @@ const GridProductCard = ({ book, bookId }) => {
         )}
         {isHovering && (
           <motion.div
-            initial={{ x: 200, opacity: 0 }}
+            initial={{ x: -100, opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
             transition={{ duration: 0.2 }}
-            className="absolute flex justify-end items-end flex-col top-4 ml-8"
+            className="absolute flex justify-end items-end flex-col top-4 ml-4"
           >
             {/* add to cart */}
-            <div className="flex items-center border border-transparent justify-center p-3 mb-3 transition-all translate-x-20 bg-white text-blumine-950 hover:text-blumine-50 hover:bg-blumine-600 hover:border-blumine-600 cursor-pointer">
+            <div className="flex items-center border border-transparent justify-center md:p-3 md:mb-3 sm:p-4 sm:mb-4 transition-all  bg-white text-blumine-500 hover:text-white hover:bg-blumine-600 hover:border-blumine-600 cursor-pointer">
               {console.log(bookId)}
               <button
                 className="cursor-pointer"
@@ -92,7 +92,7 @@ const GridProductCard = ({ book, bookId }) => {
               </button>
             </div>
             {/* add to wishlist */}
-            <div className=" flex items-center border border-transparent p-3 mb-3 transition-all translate-x-20 bg-white duration-300 cursor-pointer">
+            <div className=" flex items-center border border-transparent md:p-3 md:mb-3 sm:p-4 sm:mb-4 transition-all  bg-white duration-300 cursor-pointer">
               <button className="cursor-pointer" onClick={handleToggleWishlist}>
                 {isItemInWishlists ? (
                   <svg
@@ -113,7 +113,7 @@ const GridProductCard = ({ book, bookId }) => {
                     width="1em"
                     height="1em"
                     viewBox="0 0 24 24"
-                    className="h-6 w-6 text-blumine-950 hover:text-blumine-500"
+                    className="h-6 w-6 text-blumine-500 hover:text-blumine-600"
                   >
                     <path
                       fill="currentColor"
@@ -153,7 +153,7 @@ const GridProductCard = ({ book, bookId }) => {
         <div className="mt-1 p-2 flex flex-col justify-between">
           <div>
             <h3
-              className="text-sm font-medium mb-2 text-blumine-950"
+              className="text-sm font-medium mb-2 text-gray-800"
               title={book.title}
             >
               {book.title.length > 20
@@ -162,7 +162,7 @@ const GridProductCard = ({ book, bookId }) => {
             </h3>
           </div>
           <div className="flex flex-col justify-between">
-            <p className="text-base font-semibold text-blumine-950">
+            <p className="text-base font-semibold text-gray-800">
               ${book.price}
             </p>
             <div className="flex items-center text-sm text-gray-400 mt-2 -ml-1">

@@ -33,7 +33,7 @@ const GridProduct = ({
             ))
           ) : (
             <div className="grid col-span-5 h-screen place-content-center bg-white px-4">
-              <h1 className="uppercase tracking-widest font-bold text-4xl text-roti-900">
+              <h1 className="uppercase tracking-widest font-bold text-4xl text-blumine-900">
                 Product Not Found
               </h1>
             </div>
@@ -52,7 +52,7 @@ const GridProduct = ({
             pageRangeDisplayed={3}
             marginPagesDisplayed={1}
             onPageChange={onHandlePageChange}
-            containerClassName="flex items-center justify-center mt-12 mb-4 text-gray-950"
+            containerClassName="flex items-center justify-center mt-12 mb-4 text-gray-600"
             activeClassName="bg-blumine-500 text-white"
             nextLabel={
               showNextButton ? (
@@ -68,7 +68,7 @@ const GridProduct = ({
                 </button>
               ) : null
             }
-            breakLabel={<span className="mr-4">...</span>}
+            breakLabel={<span className="mr-4 text-gray-600s">...</span>}
             pageClassName="block hover:border hover:border-solid hover:border-blumine-200 hover:bg-blumine-500 w-10 h-10 flex justify-center items-center hover:text-white cursor-pointer mx-1"
           />
         )}
