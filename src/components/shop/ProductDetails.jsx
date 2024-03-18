@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 import { useContext } from "react";
 import { CartContext } from "./cart/context/CartContext";
 import Footer from "../Footer";
-import Breadcrumb from "../BreadCrumb";
+import Breadcrumb from "../Breadcrumb";
 import RelatedProducts from "./RelatedProducts";
 
 const ProductDetails = () => {

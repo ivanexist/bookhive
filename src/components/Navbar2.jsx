@@ -1,4 +1,4 @@
-import { Link, useLocation, useNavigate, useParams } from "react-router-dom";
+import { Link, useNavigate, useParams } from "react-router-dom";
 import Notification from "./Notification";
 import NavbarMobile from "./NavbarMobile";
 import { useContext, useEffect, useRef, useState } from "react";
