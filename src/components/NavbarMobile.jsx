@@ -21,7 +21,7 @@ const NavbarMobile = () => {
 
   return (
     <div ref={ref} className="md:hidden">
-      <Hamburger toggled={isOpen} size={20} toggle={setOpen} color="#249fd3" />
+      <Hamburger toggled={isOpen}  toggle={setOpen} color="#249fd3" />
       {isOpen && (
         <motion.div
           initial={{ opacity: 0 }}
