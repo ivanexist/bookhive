@@ -140,7 +140,7 @@ const CartItemsCard = ({ cartItem, onCartItemChange, onRemoveItemCart }) => {
         </div>
         <div className="flex flex-col justify-center items-center">
           <Image
-            src={`../../../../public/bookhive/${cartItem.book_cover}`}
+            src={`https://raw.githubusercontent.com/ivanexist/bookhive/main/public/bookhive/${cartItem.book_cover}`}
             preview={true}
             width={100}
             className="object-cover object-center"

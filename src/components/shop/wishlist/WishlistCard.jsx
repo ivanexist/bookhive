@@ -136,7 +136,7 @@ const WishlistCard = ({
       <div className="flex my-4 bg-white p-2 justify-between">
         <div className="flex flex-col justify-center items-center">
           <Image
-            src={`../../../../public/bookhive/${wishlist.book_cover}`}
+            src={`https://raw.githubusercontent.com/ivanexist/bookhive/main/public/bookhive/${wishlist.book_cover}`}
             preview={true}
             width={100}
             className="object-cover object-center"

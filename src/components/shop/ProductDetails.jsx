@@ -79,7 +79,7 @@ const ProductDetails = () => {
             />
           ) : (
             <div className="grid h-screen place-content-center bg-white px-4">
-              <h1 className="uppercase tracking-widest font-bold text-4xl text-roti-500">
+              <h1 className="uppercase tracking-widest font-bold text-4xl text-blumine-900">
                 Product Not Found
               </h1>
             </div>

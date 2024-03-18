@@ -6,7 +6,7 @@ const CheckoutItem = ({ cartItem }) => {
           <span>
             <img
               className="h-16 w-12"
-              src={`../../../../../public/bookhive/${cartItem.book_cover}`}
+              src={`https://raw.githubusercontent.com/ivanexist/bookhive/main/public/bookhive/${cartItem.book_cover}`}
               alt=""
             />
           </span>

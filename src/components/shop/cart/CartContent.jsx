@@ -79,15 +79,6 @@ const CartContent = () => {
     setCartItems(updatedCartItems);
   };
 
-  // Toggle individual checkbox
-  const toggleCheckbox = (index) => {
-    // Update the isChecked property of the item at the given index
-    const updatedCartItems = [...cartItems];
-    updatedCartItems[index].isChecked = !updatedCartItems[index].isChecked;
-    setCartItems(updatedCartItems);
-  };
-  console.log(cartItems);
-
   const handleCartItemChange = (updatedCartItem) => {
     const updatedCartItems = cartItems.map((cartItem) =>
       cartItem.book_id === updatedCartItem.book_id ? updatedCartItem : cartItem
@@ -259,7 +250,7 @@ const CartContent = () => {
               ))
             ) : (
               <div className="grid h-screen place-content-center bg-white px-4">
-                <h1 className="uppercase tracking-widest font-bold text-4xl text-roti-500">
+                <h1 className="uppercase tracking-widest font-bold text-4xl text-blumine-900">
                   No Items in your cart
                 </h1>
               </div>

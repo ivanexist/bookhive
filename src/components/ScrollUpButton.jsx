@@ -18,7 +18,7 @@ const ScrollUpButton = () => {
     <button
       onClick={scrollToTopSmooth}
       style={{ display: visible ? "inline" : "none" }}
-      className="fixed w-12 right-10 bottom-10 h-12 z-0 text-5xl cursor-pointer p-2 text-blumine-600 "
+      className=" fixed w-12 right-16 bottom-10 h-12 z-0 text-5xl cursor-pointer p-2 text-blumine-600 "
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"

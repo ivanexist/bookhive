@@ -44,7 +44,7 @@ const CartPopover = () => {
               <div className="flex mx-2 my-1">
                 <Image
                   width={50}
-                  src={`../../../../public/bookhive/${cartItem.book_cover}`}
+                  src={`https://raw.githubusercontent.com/ivanexist/bookhive/main/public/bookhive/${cartItem.book_cover}`}
                   preview={true}
                 />
                 <div className="flex flex-col justify-center items-center px-2 text-gray-950">
