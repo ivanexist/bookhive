@@ -3,7 +3,7 @@ import FilterMobile from "../filter/FilterMobile";
 import Footer from "../../Footer";
 import ScrollUpButton from "../../ScrollUpButton";
 import WishlistContent from "./WishlistContent";
-import Breadcrumb from "../../BreadCrumb";
+import Breadcrumb from "../../Breadcrumb";
 import { ToastContainer } from "react-toastify";
 
 const Wishlist = () => (
