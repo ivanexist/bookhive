@@ -17,7 +17,7 @@ const Testimonial = () => {
           <img
             src="https://cdn.pixabay.com/photo/2018/01/12/13/01/sale-3078216_1280.jpg"
             alt=""
-            className="sm:h-52 md:h-[28rem]"
+            className="sm:h-52 md:h-[28rem] w-full mx-auto"
           />
         </motion.div>
         <div className="mx-auto max-w-screen-xl px-4 py-4 sm:px-6 lg:px-8">
