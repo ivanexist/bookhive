@@ -151,16 +151,16 @@ const Feature = () => {
         </div>
       </motion.div>
       <motion.div
-        initial={{ x: -100, opacity: 0 }}
-        whileInView={{ x: 0, opacity: 1 }}
+        initial={{ y: -50, opacity: 0 }}
+        whileInView={{ y: 0, opacity: 1 }}
         viewport={{ once: true }}
         transition={{ duration: 0.5 }}
         className=" flex justify-between items-center py-4 px-4 mr-6 sm:ml-4 lg:ml-0 bg-white max-w-screen-xl"
       >
         <div className="grid sm:w-full sm:grid-cols-2 lg:grid-cols-4 gap-8">
           <motion.div
-            initial={{ x: -50, opacity: 0 }}
-            whileInView={{ x: 0, opacity: 1 }}
+            initial={{ y: -50, opacity: 0 }}
+            whileInView={{ y: 0, opacity: 1 }}
             viewport={{ once: true }}
             transition={{ delay: 0.5, duration: 0.5 }}
             className="col-span-2"
@@ -172,8 +172,8 @@ const Feature = () => {
             />
           </motion.div>
           <motion.div
-            initial={{ x: 50, opacity: 0 }}
-            whileInView={{ x: 0, opacity: 1 }}
+            initial={{ y: 50, opacity: 0 }}
+            whileInView={{ y: 0, opacity: 1 }}
             viewport={{ once: true }}
             transition={{ delay: 0.9, duration: 0.5 }}
             className="col-span-2"

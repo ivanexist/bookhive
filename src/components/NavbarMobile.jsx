@@ -31,6 +31,8 @@ const NavbarMobile = () => {
           className="fixed z-80 left-0 shadow-4xl right-0 top-20 p-6 pt-0 bg-white border-b border-b-white/20"
         >
           <ul className="grid gap-2 my-2">
+            <li>Cart</li>
+            <li>Wishlist</li>
             {routesMobile.map((route, idx) => {
               return (
                 <motion.li

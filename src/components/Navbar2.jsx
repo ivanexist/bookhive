@@ -61,11 +61,8 @@ const Navbar2 = () => {
               </span>
             </Link>
           </div>
-          <div className="flex mx-12">
-            <div
-              id="navbar-search"
-              className="items-center justify-between hidden w-full md:flex md:w-auto "
-            >
+          <div className="md:flex sm:hidden  mx-12">
+            <div className="items-center justify-between sm:hidden sm:w-full md:flex md:w-auto ">
               <ul className="flex flex-col p-4 md:p-0 mt-4 font-medium border border-blumine-100 rounded-lg bg-blumine-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white ">
                 <li>
                   <Link

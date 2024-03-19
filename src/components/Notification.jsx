@@ -1,3 +1,4 @@
+import NavbarMobile from "./NavbarMobile";
 import CartPopover from "./shop/cart/CartPopover";
 import WishlistPopover from "./shop/wishlist/WishlistPopover";
 
@@ -6,7 +7,8 @@ const Notification = () => {
     <div className="flex justify-between">
       <CartPopover />
       <WishlistPopover />
-      <button className="ml-2">
+      {/* Account icon */}
+      <button className="ml-2 sm:hidden md:block">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="1em"

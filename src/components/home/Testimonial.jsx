@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 const Testimonial = () => {
   const variant = {
-    hidden: { x: 50, opacity: 0 },
-    visible: { x: 0, opacity: 1 },
+    hidden: { y: 50, opacity: 0 },
+    visible: { y: 0, opacity: 1 },
   };
   return (
     <>

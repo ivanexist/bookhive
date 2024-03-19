@@ -306,7 +306,7 @@ const CartItemsCard = ({ cartItem, onCartItemChange, onRemoveItemCart }) => {
             </div>
           </div>
         </div>
-        <div className="mx-4 sm:flex sm:justify-end w-40">
+        <div className="mx-4 sm:hidden md:flex md:justify-end w-40">
           <div className="flex flex-col justify-between ">
             <div className="flex justify-end text-blumine-500 font-semibold">
               <span>${totalPaymentPerItems()}</span>

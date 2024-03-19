@@ -182,7 +182,7 @@ const FilterNavbar = ({
                     </h2>
                     <button
                       type="button"
-                      className="-mr-2 flex h-10 w-10 items-center justify-center rounded-md bg-white p-2 text-blumine-400"
+                      className="-mr-2 flex h-10 w-10 items-center justify-center rounded-md bg-white p-2 text-blumine-500 hover:text-blumine-600"
                       onClick={() => setMobileFiltersOpen(false)}
                     >
                       <span className="sr-only">Close menu</span>
@@ -194,8 +194,8 @@ const FilterNavbar = ({
                   <Disclosure defaultOpen={true}>
                     {({ open }) => (
                       <>
-                        <Disclosure.Button className="flex w-full justify-between bg-blumine-100 px-4 py-2 text-left text-sm font-medium text-blumine-900 hover:bg-blumine-200 focus:outline-none focus-visible:ring focus-visible:ring-blumine-500/75">
-                          <span className="font-semibold">Category</span>
+                        <Disclosure.Button className="flex w-full justify-between bg-blumine-500 px-4 py-2 text-left text-sm font-medium text-white hover:bg-blumine-600 focus:outline-none focus-visible:ring focus-visible:ring-blumine-500/75">
+                          <span>Category</span>
                           <ChevronRightIcon
                             className={`${
                               open ? "rotate-90 transform" : ""
@@ -237,8 +237,8 @@ const FilterNavbar = ({
                   <Disclosure as="div" defaultOpen={true} className="mt-4">
                     {({ open }) => (
                       <>
-                        <Disclosure.Button className="flex w-full justify-between bg-blumine-100 px-4 py-2 text-left text-sm font-medium text-blumine-900 hover:bg-blumine-200 focus:outline-none focus-visible:ring focus-visible:ring-blumine-500/75">
-                          <span className="font-semibold">Price</span>
+                        <Disclosure.Button className="flex w-full justify-between bg-blumine-500 px-4 py-2 text-left text-sm font-medium text-white hover:bg-blumine-600 focus:outline-none focus-visible:ring focus-visible:ring-blumine-500/75">
+                          <span>Price</span>
                           <ChevronRightIcon
                             className={`${
                               open ? "rotate-90 transform" : ""
@@ -266,8 +266,8 @@ const FilterNavbar = ({
                   <Disclosure as="div" defaultOpen={true} className="mt-4">
                     {({ open }) => (
                       <>
-                        <Disclosure.Button className="flex w-full justify-between bg-blumine-100 px-4 py-2 text-left text-sm font-medium text-blumine-900 hover:bg-blumine-200 focus:outline-none focus-visible:ring focus-visible:ring-blumine-500/75">
-                          <span className="font-semibold">Availability</span>
+                        <Disclosure.Button className="flex w-full justify-between bg-blumine-500 px-4 py-2 text-left text-sm font-medium text-white hover:bg-blumine-600 focus:outline-none focus-visible:ring focus-visible:ring-blumine-500/75">
+                          <span>Availability</span>
                           <ChevronRightIcon
                             className={`${
                               open ? "rotate-90 transform" : ""

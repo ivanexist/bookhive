@@ -9,6 +9,10 @@ const BestProduct = () => {
     hidden: { x: 50, opacity: 0 },
     visible: { x: 0, opacity: 1 },
   };
+  const variant2 = {
+    hidden: { y: 50, opacity: 0 },
+    visible: { y: 0, opacity: 1 },
+  };
   return (
     <motion.div className="text-center text-blumine-950 lg:text-left px-4 pt-8 max-w-screen-xl">
       <div className="grid-1 grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
@@ -27,7 +31,7 @@ const BestProduct = () => {
             <hr className="flex-grow mx-2 border-b border-blumine-200 sm:mr-6" />
           </motion.div>
           <motion.div
-            variants={variant}
+            variants={variant2}
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
@@ -61,7 +65,7 @@ const BestProduct = () => {
             <hr className="flex-grow mx-2 border-b border-blumine-200 sm:mr-6" />
           </motion.div>
           <motion.div
-            variants={variant}
+            variants={variant2}
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
@@ -92,7 +96,7 @@ const BestProduct = () => {
             <hr className="flex-grow mx-2 border-b border-blumine-200 sm:mr-6" />
           </motion.div>
           <motion.div
-            variants={variant}
+            variants={variant2}
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
