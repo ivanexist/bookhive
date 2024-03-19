@@ -281,9 +281,9 @@ const WishlistCard = ({
                 {/* {console.log(wishlistId)} */}
 
                 {isLoadingAddMultipleItemsToCart(wishlistId) ? (
-                  <LoadingOutlined spin className="mx-12 my-1" />
+                  <LoadingOutlined spin className="sm:mx-2 md:mx-12 my-1" />
                 ) : isSuccessAddMultipleItemsToCart(wishlistId) ? (
-                  <CheckOutlined className="mx-12 my-1" />
+                  <CheckOutlined className="sm:mx-2 md:mx-12 my-1" />
                 ) : (
                   <span className="flex">
                     <svg
