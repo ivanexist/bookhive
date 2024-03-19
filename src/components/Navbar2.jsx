@@ -196,7 +196,7 @@ const Navbar2 = () => {
                   onClick={() => {
                     handleShowSearchBar();
                     setSearchQuery("");
-                    navigate(`/shop`);
+                    // navigate(`/shop`);
                   }}
                   className="mx-2"
                 >

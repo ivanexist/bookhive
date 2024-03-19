@@ -41,7 +41,7 @@ const ListProductCard = ({ book, bookId }) => {
         <div className="lg:h-full lg:w-52 rounded-md object-center object-cover transition duration-300 ease-in-out hover:rounded-none hover:scale-105 hover:opacity-80 sm:py-2 lg:py-0">
           <Link key={book.book_id} to={`/shop/${book.book_id}`}>
             <img
-              src={`../../../public/bookhive/${book.book_cover}`}
+              src={`https://raw.githubusercontent.com/ivanexist/bookhive/main/public/bookhive/${book.book_cover}`}
               alt={book.caption}
               onClick={scrollToTop}
             />
@@ -75,8 +75,7 @@ const ListProductCard = ({ book, bookId }) => {
                 }   `}
               >
                 <span className="flex">
-                  {book.stock[0].available} left{" "}
-                  <span className="sm:hidden lg:block mx-1">in stock</span>
+                  {book.stock[0].available} left in stock
                 </span>
               </div>
             </div>

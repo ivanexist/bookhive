@@ -188,7 +188,8 @@ const WishlistCard = ({
                   )}
                 </span>
                 <span className="mx-2 text-orange-500">
-                  ({quantityManager} items in Cart)
+                  ({quantityManager}{" "}
+                  <span className="md:inline sm:hidden">items</span> in Cart)
                 </span>
               </div>
             </div>
