@@ -372,7 +372,7 @@ const ProductDetailsCard = ({
                   width="1em"
                   height="1em"
                   viewBox="0 0 24 24"
-                  className="h-8 w-8"
+                  className="h-8 w-8 text-blumine-500"
                 >
                   <path
                     fill="currentColor"

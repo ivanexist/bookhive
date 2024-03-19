@@ -92,7 +92,9 @@ const ReviewCustomer = () => (
             <span className="ml-2 text-gray-800">Share</span>
           </button>
           <div className="flex items-center">
-            <span className="text-gray-800">Was this review helplful?</span>
+            <span className="text-gray-800 sm:hidden md:block">
+              Was this review helplful?
+            </span>
             <button className="flex items-center ml-6 text-blumine-500">
               <svg
                 className="w-3 h-3"
@@ -186,7 +188,9 @@ const ReviewCustomer = () => (
             <span className="ml-2">Share</span>
           </button>
           <div className="flex items-center">
-            <span className="text-gray-800">Was this review helplful?</span>
+            <span className="text-gray-800 sm:hidden md:block">
+              Was this review helplful?
+            </span>
             <button className="flex items-center ml-6 text-gray-600 hover:text-blumine-500">
               <svg
                 className="w-3 h-3"
@@ -280,7 +284,9 @@ const ReviewCustomer = () => (
             <span className="ml-2">Share</span>
           </button>
           <div className="flex items-center">
-            <span className="text-gray-950">Was this review helplful?</span>
+            <span className="text-gray-800 sm:hidden md:block">
+              Was this review helplful?
+            </span>
             <button className="flex items-center ml-6 text-gray-600 hover:text-blumine-500">
               <svg
                 className="w-3 h-3"
