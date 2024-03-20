@@ -40,7 +40,7 @@ const GridProductCard = ({ book, bookId }) => {
       exit={{ y: 0, opacity: 0 }}
       transition={{ duration: 0.7 }}
       key={book.book_id}
-      className={`relative rounded-md hover:shadow-md hover:rounded-t-none ml-2 `}
+      className={`relative rounded-md hover:shadow-md hover:rounded-t-none md:ml-2 sm:ml-0 sm:mx-4 `}
       onMouseEnter={handleMouseOver}
       onMouseLeave={handleMouseOut}
     >
