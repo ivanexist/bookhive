@@ -3,7 +3,7 @@ import ReactPaginate from "react-paginate";
 import GridProductCard from "./GridProductCard";
 import { FaAngleLeft, FaAngleRight } from "react-icons/fa";
 import { useContext } from "react";
-import { CartContext } from "./cart/context/CartContext";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const GridProduct = ({
   currentItems,
@@ -11,7 +11,7 @@ const GridProduct = ({
   currentPage,
   onHandlePageChange,
 }) => {
-  const { cartItems, wishlists } = useContext(CartContext);
+  const { cartItems, wishlists } = useContext(BookHiveContext);
 
   const showNextButton = currentPage !== totalPages - 1;
   const showPrevButton = currentPage !== 0;

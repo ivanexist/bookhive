@@ -1,9 +1,9 @@
 import { useContext } from "react";
 import RelatedProductCard from "./RelatedProductCard";
-import { CartContext } from "./cart/context/CartContext";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const RelatedProducts = ({ selectedBook }) => {
-  const { bookData } = useContext(CartContext);
+  const { bookData } = useContext(BookHiveContext);
   return (
     <div className="my-12">
       <div className="flex justify-center items-center font-bold text-lg uppercase text-blumine-500 ">

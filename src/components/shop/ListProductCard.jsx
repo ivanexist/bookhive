@@ -1,9 +1,8 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { useContext, useState } from "react";
-import { CartContext } from "./cart/context/CartContext";
-import { toast } from "react-toastify";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const ListProductCard = ({ book, bookId }) => {
   const {
@@ -14,7 +13,7 @@ const ListProductCard = ({ book, bookId }) => {
     cartLoading,
     cartSuccess,
     scrollToTop,
-  } = useContext(CartContext);
+  } = useContext(BookHiveContext);
   const [isHovering, setIsHovering] = useState(false);
   const isLoadingAddToCart = (bookId) => cartLoading === bookId;
   const isSuccessAddToCart = (bookId) => cartSuccess === bookId;

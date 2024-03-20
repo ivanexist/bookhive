@@ -8,7 +8,6 @@ import Error from "./components/error/Error";
 import Cart from "./components/shop/cart/Cart";
 import Checkout from "./components/shop/cart/checkout/Checkout";
 import Wishlist from "./components/shop/wishlist/Wishlist";
-import CartProvider from "./components/shop/cart/context/CartContext";
 
 const Routers = () => {
   // const location = useLocation();

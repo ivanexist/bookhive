@@ -1,7 +1,6 @@
-import { useContext, useState } from "react";
-import { CartContext } from "../cart/context/CartContext";
+import { useContext } from "react";
 import WishlistCard from "./WishlistCard";
-import { useParams } from "react-router-dom";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const WishlistContent = () => {
   // const { bookId } = useParams();
@@ -12,7 +11,7 @@ const WishlistContent = () => {
     setWishlists,
     setCartLoading,
     setCartSuccess,
-  } = useContext(CartContext);
+  } = useContext(BookHiveContext);
 
   const addMultipleItemsToCart = (wishlist, quantity, wishlistId) => {
     const bookIndex = cartItems.findIndex(

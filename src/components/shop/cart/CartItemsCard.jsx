@@ -1,15 +1,13 @@
-import { useContext, useEffect, useState } from "react";
-import { Image, List, Modal, Spin } from "antd";
-import { Link, useNavigate } from "react-router-dom";
-import { CartContext } from "./context/CartContext";
+import { useContext, useState } from "react";
+import { Image, Modal, Spin } from "antd";
+import { Link } from "react-router-dom";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const CartItemsCard = ({ cartItem, onCartItemChange, onRemoveItemCart }) => {
-  const navigate = useNavigate();
-
   const { book_id, title, price, quantity, isChecked } = cartItem;
-  const { cartItems, wishlists, addToWishlist, removeFromWishlist } =
-    useContext(CartContext);
+  const { wishlists, addToWishlist, removeFromWishlist, scrollToTop } =
+    useContext(BookHiveContext);
   const minQuantity = 1;
   const maxQuantity = cartItem.stock[0].available;
   const [isHovering, setIsHovering] = useState(false);
@@ -47,11 +45,6 @@ const CartItemsCard = ({ cartItem, onCartItemChange, onRemoveItemCart }) => {
   const isItemInWishlists = wishlists.find(
     (wishlist) => wishlist.book_id === cartItem.book_id
   );
-
-  const handleClickToTop = (to) => {
-    navigate(to);
-    window.scrollTo(0, 0); // Scroll to the top of the page
-  };
 
   const handleCheckboxChange = () =>
     onCartItemChange({ ...cartItem, isChecked: !isChecked });
@@ -153,7 +146,7 @@ const CartItemsCard = ({ cartItem, onCartItemChange, onRemoveItemCart }) => {
                 <Link
                   key={cartItem.book_id}
                   to={`/shop/${cartItem.book_id}`}
-                  onClick={() => handleClickToTop(`/shop/${cartItem.book_id}`)}
+                  onClick={scrollToTop}
                 >
                   <h1 className="text-lg font-medium text-gray-950 hover:text-blumine-500">
                     {cartItem.title}

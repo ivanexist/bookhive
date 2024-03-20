@@ -5,9 +5,9 @@ import { createContext, useEffect, useState } from "react";
 import axios from "axios";
 import { useParams } from "react-router-dom";
 
-export const CartContext = createContext();
+export const BookHiveContext = createContext();
 
-const CartProvider = ({ children }) => {
+const BookHiveProvider = ({ children }) => {
   const bookId = useParams();
   const [loading, setLoading] = useState(true);
   const [cartLoading, setCartLoading] = useState(null);
@@ -212,7 +212,7 @@ const CartProvider = ({ children }) => {
   }, []);
 
   return (
-    <CartContext.Provider
+    <BookHiveContext.Provider
       value={{
         bookId,
         bookData,
@@ -240,11 +240,10 @@ const CartProvider = ({ children }) => {
         setCartLoading,
         cartSuccess,
         setCartSuccess,
-        // addMultipleItemsToCart,
       }}
     >
       {children}
-    </CartContext.Provider>
+    </BookHiveContext.Provider>
   );
 };
 
@@ -320,6 +319,6 @@ const notifyOutOfStock = (item) =>
     className: "text-gray-950 bg-blumine-50",
   });
 
-CartProvider.PropTypes = { children: PropTypes.node.isRequired };
+BookHiveProvider.PropTypes = { children: PropTypes.node.isRequired };
 
-export default CartProvider;
+export default BookHiveProvider;

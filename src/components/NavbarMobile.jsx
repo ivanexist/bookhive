@@ -3,7 +3,7 @@ import { useContext, useRef, useState } from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { useClickAway } from "react-use";
-import { CartContext } from "./shop/cart/context/CartContext";
+import { BookHiveContext } from "./context/BookHiveContext";
 
 const routesMobile = [
   { title: "Home", link: "/" },
@@ -13,7 +13,7 @@ const routesMobile = [
 ];
 
 const NavbarMobile = () => {
-  const { scrollToTop } = useContext(CartContext);
+  const { scrollToTop } = useContext(BookHiveContext);
   const [isOpen, setOpen] = useState(false);
   const ref = useRef(null);
 

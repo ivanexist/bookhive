@@ -1,4 +1,3 @@
-import NavbarMobile from "./NavbarMobile";
 import CartPopover from "./shop/cart/CartPopover";
 import WishlistPopover from "./shop/wishlist/WishlistPopover";
 

@@ -1,21 +1,5 @@
-// import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-
-const imgVariants = {
-  initial: {
-    opacity: 0,
-    x: -100,
-    y: 100,
-    // rotateZ: 20,
-  },
-  animate: (custom) => ({
-    opacity: 1,
-    x: 0,
-    y: 0,
-    // rotateZ: custom === 0 ? -20 : custom === 1 ? 0 : 20,
-  }),
-};
 
 const Hero1 = () => (
   <section className="bg-[linear-gradient(to_left,rgba(255,255,255,0),rgba(255,255,255,0.3)),url(https://images.unsplash.com/photo-1544716278-e513176f20b5?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-cover bg-center bg-no-repeat sm:h-[40rem] lg:h-[40rem]">

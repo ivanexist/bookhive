@@ -1,13 +1,11 @@
-import { useContext, useState } from "react";
+import { useContext } from "react";
 import CheckoutItem from "./CheckoutItem";
-// import bookData from "../../../json/book.json";
-import { CartContext } from "../context/CartContext";
-
 import CheckoutForm from "./CheckoutForm";
 import { useParams } from "react-router-dom";
+import { BookHiveContext } from "../../../context/BookHiveContext";
 
 const CheckoutContent = () => {
-  const { bookData, cartItems } = useContext(CartContext);
+  const { bookData, cartItems } = useContext(BookHiveContext);
 
   const { bookId } = useParams();
   let itemsToCheckout = [];

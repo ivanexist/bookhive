@@ -2,7 +2,7 @@ import { Link, useNavigate, useParams } from "react-router-dom";
 import Notification from "./Notification";
 import NavbarMobile from "./NavbarMobile";
 import { useContext, useEffect, useRef, useState } from "react";
-import { CartContext } from "./shop/cart/context/CartContext";
+import { BookHiveContext } from "./context/BookHiveContext";
 
 const Navbar2 = () => {
   const {
@@ -11,7 +11,7 @@ const Navbar2 = () => {
     showSearchBar,
     handleShowSearchBar,
     scrollToTop,
-  } = useContext(CartContext);
+  } = useContext(BookHiveContext);
   const { bookId } = useParams();
   const textboxRef = useRef(null);
   const navigate = useNavigate();
@@ -43,7 +43,7 @@ const Navbar2 = () => {
 
   return (
     <nav
-      className={`sticky bg-white border-slate-200  pt-1 ${
+      className={`sticky bg-white border-blumine-100 pt-1 ${
         scroll ? "opacity-100" : "opacity-95"
       } transition-colors duration-300 ease-in-out top-0 z-10`}
     >
@@ -61,7 +61,7 @@ const Navbar2 = () => {
               </span>
             </Link>
           </div>
-          <div className="md:flex sm:hidden  mx-12">
+          <div className="md:flex sm:hidden mx-12">
             <div className="items-center justify-between sm:hidden sm:w-full md:flex md:w-auto ">
               <ul className="flex flex-col p-4 md:p-0 mt-4 font-medium border border-blumine-100 rounded-lg bg-blumine-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white ">
                 <li>
@@ -69,8 +69,10 @@ const Navbar2 = () => {
                     to="/"
                     href="#"
                     onClick={scrollToTop}
-                    className={`block py-2 px-3 text-gray-400 rounded hover:text-blue-500 md:hover:bg-transparent  md:p-0 ${
-                      location.pathname === "/" ? "font-bold text-blue-500" : ""
+                    className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                      location.pathname === "/"
+                        ? "font-bold  text-blumine-500"
+                        : ""
                     }`}
                   >
                     HOME
@@ -81,14 +83,14 @@ const Navbar2 = () => {
                     to="/shop"
                     href="#"
                     onClick={scrollToTop}
-                    className={`block py-2 px-3 text-gray-400 rounded hover:text-blue-500 md:hover:bg-transparent md:p-0 ${
+                    className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
                       location.pathname === "/shop" ||
                       location.pathname === `/shop/${bookId}` ||
                       location.pathname === "/shop/cart" ||
                       location.pathname === "/shop/cart/checkout" ||
                       location.pathname === "/shop/wishlist" ||
                       location.pathname === `/shop/cart/checkout/${bookId}`
-                        ? "font-bold text-blue-500"
+                        ? "font-bold text-blumine-500"
                         : ""
                     }`}
                   >
@@ -101,9 +103,9 @@ const Navbar2 = () => {
                     to="/about"
                     href="#"
                     onClick={scrollToTop}
-                    className={`block py-2 px-3 text-gray-400 rounded hover:text-blue-500 md:hover:bg-transparent md:p-0 ${
+                    className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
                       location.pathname === "/about"
-                        ? "font-bold text-blue-500"
+                        ? "font-bold text-blumine-500"
                         : ""
                     }`}
                   >
@@ -115,9 +117,9 @@ const Navbar2 = () => {
                     to="/contact"
                     href="#"
                     onClick={scrollToTop}
-                    className={`block py-2 px-3 text-gray-400 rounded hover:text-blue-500 md:hover:bg-transparent md:p-0 ${
+                    className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500  md:p-0 ${
                       location.pathname === "/contact"
-                        ? "font-bold text-blue-500"
+                        ? "font-semibold text-blumine-500"
                         : ""
                     }`}
                   >

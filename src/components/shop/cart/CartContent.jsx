@@ -1,45 +1,16 @@
-import { useContext, useEffect, useState } from "react";
-import { CartContext } from "./context/CartContext";
+import { useContext, useState } from "react";
 import CartItemsCard from "./CartItemsCard";
 import { Link } from "react-router-dom";
 import { Image, List, Modal, Spin } from "antd";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
+import { BookHiveContext } from "../../context/BookHiveContext";
+import { toast } from "react-toastify";
 
 const CartContent = () => {
-  const { cartItems, setCartItems, scrollToTop } = useContext(CartContext);
+  const { cartItems, setCartItems, scrollToTop } = useContext(BookHiveContext);
   const [selectAll, setSelectAll] = useState(false);
   const [selectedDeleteItemsCount, setSelectedDeleteItemsCount] = useState(0);
-  const [filteredCartItems, setFilteredCartItems] = useState([]);
-  const [searchQueryCartItems, setSearchQueryCartItems] = useState("");
   // console.log(selectedDeleteItems);
-
-  useEffect(() => {
-    let updatedCartItems = [...cartItems];
-
-    const searchCartitemsProducts = (cartItem) => {
-      const searchMatch = cartItem.title
-        .toLowerCase()
-        .includes(searchQueryCartItems.toLowerCase());
-
-      return searchMatch;
-    };
-    const filteredCartItemsProducts = updatedCartItems.filter(
-      searchCartitemsProducts
-    );
-    setFilteredCartItems(filteredCartItemsProducts);
-  }, [searchQueryCartItems]);
-
-  const handleSearchCartItems = (searchQuery) => {
-    const filteredCartItemsProducts = cartItems.filter((cartItem) =>
-      cartItem.title.toLowerCase().includes(searchQuery.toLowerCase())
-    );
-    setFilteredCartItems(filteredCartItemsProducts);
-  };
-
-  const handleInputChangeCartItems = (event) => {
-    setSearchQueryCartItems(event.target.value);
-    handleSearchCartItems(event.target.value);
-  };
 
   // Handle Modal antd
   const [open, setOpen] = useState(false);
@@ -124,7 +95,6 @@ const CartContent = () => {
   return (
     <div>
       <Modal
-        // title="Title"
         open={open}
         confirmLoading={confirmLoading}
         onCancel={handleCancel}
@@ -319,4 +289,14 @@ const CartContent = () => {
     </div>
   );
 };
+const notifyMinimumAddItem = () =>
+  toast.warn(`Insert at least 1 item!`, {
+    position: "top-center",
+    autoClose: 2000,
+    hideProgressBar: true,
+    closeOnClick: true,
+    pauseOnHover: true,
+    draggable: true,
+    className: "bg-blumine-50",
+  });
 export default CartContent;

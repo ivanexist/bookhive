@@ -1,10 +1,10 @@
-import { Popover, List, Image, Space, Modal } from "antd";
+import { Popover, List, Image, Space } from "antd";
 import { useContext } from "react";
-import { CartContext } from "./context/CartContext";
 import { Link } from "react-router-dom";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const CartPopover = () => {
-  const { cartItems, scrollToTop } = useContext(CartContext);
+  const { cartItems, scrollToTop } = useContext(BookHiveContext);
 
   const popoverTitle = (
     <div>

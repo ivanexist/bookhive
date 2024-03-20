@@ -1,10 +1,10 @@
 import { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import { CartContext } from "./cart/context/CartContext";
 import SkeletonImage from "antd/es/skeleton/Image";
-import { Skeleton, Spin } from "antd";
+import { Skeleton } from "antd";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const GridProductCard = ({ book, bookId }) => {
   const {
@@ -16,7 +16,7 @@ const GridProductCard = ({ book, bookId }) => {
     scrollToTop,
     cartSuccess,
     cartLoading,
-  } = useContext(CartContext);
+  } = useContext(BookHiveContext);
 
   const [isHovering, setIsHovering] = useState(false);
 

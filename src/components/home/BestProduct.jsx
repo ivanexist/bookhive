@@ -1,10 +1,10 @@
 import HomeProductCard from "./HomeProductCard";
 import { motion } from "framer-motion";
 import { useContext } from "react";
-import { CartContext } from "../shop/cart/context/CartContext";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const BestProduct = () => {
-  const { bookData } = useContext(CartContext);
+  const { bookData } = useContext(BookHiveContext);
   const variant = {
     hidden: { x: 50, opacity: 0 },
     visible: { x: 0, opacity: 1 },

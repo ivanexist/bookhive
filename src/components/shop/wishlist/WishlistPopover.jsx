@@ -1,9 +1,9 @@
 import { useContext } from "react";
-import { CartContext } from "../cart/context/CartContext";
 import { Link } from "react-router-dom";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const WishlistPopover = () => {
-  const { wishlists, scrollToTop } = useContext(CartContext);
+  const { wishlists, scrollToTop } = useContext(BookHiveContext);
   return (
     <Link to="/shop/wishlist" onClick={scrollToTop}>
       <button

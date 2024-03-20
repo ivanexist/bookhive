@@ -2,10 +2,10 @@ import { motion } from "framer-motion";
 import ProductDetailsCard from "./ProductDetailsCard";
 import { useParams } from "react-router-dom";
 import { useContext } from "react";
-import { CartContext } from "./cart/context/CartContext";
 import Footer from "../Footer";
 import Breadcrumb from "../Breadcrumb";
 import RelatedProducts from "./RelatedProducts";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const ProductDetails = () => {
   const { bookId } = useParams();
@@ -16,7 +16,7 @@ const ProductDetails = () => {
     setCartItems,
     setCartSuccess,
     setCartLoading,
-  } = useContext(CartContext);
+  } = useContext(BookHiveContext);
 
   const selectedBook = bookData.find(
     (book) => book.book_id === parseInt(bookId, 10)

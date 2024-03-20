@@ -1,4 +1,4 @@
-import { FaBook, FaBookOpen } from "react-icons/fa";
+import { FaBookOpen } from "react-icons/fa";
 
 const Footer = () => (
   <footer className="bg-blumine-100 text-center text-gray-950  lg:text-left">

@@ -3,19 +3,20 @@ import Routers from "./Routers";
 import LocationProvider from "./LocationProvider";
 import Navbar2 from "./components/Navbar2";
 import CartProvider from "./components/shop/cart/context/CartContext";
+import BookHiveProvider from "./components/context/BookHiveContext";
 
 function App() {
   return (
     <>
       <Router>
-        <CartProvider>
+        <BookHiveProvider>
           <LocationProvider>
             <div className="sticky top-0 z-20">
               <Navbar2 />
             </div>
             <Routers />
           </LocationProvider>
-        </CartProvider>
+        </BookHiveProvider>
       </Router>
     </>
   );

@@ -7,11 +7,11 @@ import {
 import { Fragment, useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import { FaList } from "react-icons/fa";
-import { CartContext } from "../cart/context/CartContext";
 import { Dialog, Disclosure, Transition } from "@headlessui/react";
 import { Checkbox, InputNumber, TreeSelect } from "antd";
 import { DownOutlined } from "@ant-design/icons";
 import categoriesOptions from "../../json/category.json";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const FilterNavbar = ({
   onList,
@@ -27,7 +27,7 @@ const FilterNavbar = ({
   onStockAvailability,
   onHandleStockAvailabilityChange,
 }) => {
-  const { searchQuery } = useContext(CartContext);
+  const { searchQuery } = useContext(BookHiveContext);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const limit = 500;
   const handleMinPriceRange = (value) =>
@@ -47,7 +47,7 @@ const FilterNavbar = ({
       <div>
         <nav className=" bg-white">
           <div className="flex flex-col">
-            <div className="flex items-baseline sm:justify-end lg:justify-between border-b border-blumine-200 py-4">
+            <div className="flex items-baseline sm:justify-end lg:justify-between border-b border-blumine-200 py-4 sm:mx-4 md:mx-0">
               <div className="md:flex flex-col sm:hidden justify-center items-center ">
                 <Link to="/">
                   {searchQuery && (

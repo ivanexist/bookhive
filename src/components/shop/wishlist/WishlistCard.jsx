@@ -1,18 +1,17 @@
-import { Button, Image, Modal, Spin } from "antd";
+import { Image, Modal, Spin } from "antd";
 import { useContext, useState } from "react";
 import { Link } from "react-router-dom";
-import { ToastContainer, toast } from "react-toastify";
-import { CartContext } from "../cart/context/CartContext";
+import { toast } from "react-toastify";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const WishlistCard = ({
   wishlist,
-  // cartItem,
   onAddMultipleItemsToCart,
   onHandleRemoveWishlistItem,
   wishlistId,
 }) => {
-  const { cartItems, cartLoading, cartSuccess } = useContext(CartContext);
+  const { cartItems, cartLoading, cartSuccess } = useContext(BookHiveContext);
   const [quantity, setQuantity] = useState(0);
   const availableStock = wishlist.stock[0].available;
   const minQuantity = 0;
@@ -278,8 +277,6 @@ const WishlistCard = ({
               }}
             >
               <button className="flex justify-center items-center text-sm">
-                {/* {console.log(wishlistId)} */}
-
                 {isLoadingAddMultipleItemsToCart(wishlistId) ? (
                   <LoadingOutlined spin className="sm:mx-2 md:mx-12 my-1" />
                 ) : isSuccessAddMultipleItemsToCart(wishlistId) ? (

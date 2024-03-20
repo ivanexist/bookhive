@@ -2,10 +2,10 @@ import { FaAngleRight, FaHome } from "react-icons/fa";
 import { Link, useLocation, useParams } from "react-router-dom";
 import useBreadcrumbs from "use-react-router-breadcrumbs";
 import { useContext } from "react";
-import { CartContext } from "./shop/cart/context/CartContext";
+import { BookHiveContext } from "./context/BookHiveContext";
 
 const Breadcrumb = () => {
-  const { bookData } = useContext(CartContext);
+  const { bookData } = useContext(BookHiveContext);
   const { bookId } = useParams();
   // console.log(bookId);
   const selectedBook = bookData.find(

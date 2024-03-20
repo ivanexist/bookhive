@@ -3,11 +3,11 @@ import { useContext, useState } from "react";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { Link } from "react-router-dom";
-import { CartContext } from "./cart/context/CartContext";
 import DescReview from "./DescReview";
 import ScrollUpButton from "../ScrollUpButton";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
 import { motion } from "framer-motion";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const ProductDetailsCard = ({
   selectedBook,
@@ -23,7 +23,7 @@ const ProductDetailsCard = ({
     scrollToTop,
     cartLoading,
     cartSuccess,
-  } = useContext(CartContext);
+  } = useContext(BookHiveContext);
   const [quantity, setQuantity] = useState(0);
   const availableStock = selectedBook.stock[0].available;
 

@@ -10,11 +10,11 @@ import Breadcrumb from "../Breadcrumb";
 import { useContext, useEffect, useState } from "react";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { CartContext } from "./cart/context/CartContext";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const Shop = () => {
   const { bookData, searchQuery, showSearchBar, scrollToTop } =
-    useContext(CartContext);
+    useContext(BookHiveContext);
 
   // console.log(searchQuery);
 

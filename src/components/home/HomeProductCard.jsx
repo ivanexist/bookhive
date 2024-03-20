@@ -1,9 +1,9 @@
 import { useContext } from "react";
-import { Link, useNavigate } from "react-router-dom";
-import { CartContext } from "../shop/cart/context/CartContext";
+import { Link } from "react-router-dom";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const HomeProductCard = ({ book }) => {
-  const { scrollToTop } = useContext(CartContext);
+  const { scrollToTop } = useContext(BookHiveContext);
 
   return (
     <div className="flex border border-blumine-200 gap-4 p-6 sm:my-8 lg:my-12 bg-white shadow-main">

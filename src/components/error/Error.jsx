@@ -1,6 +1,4 @@
 import Footer from "../Footer";
-import Navbar from "../Navbar";
-import Navbar2 from "../Navbar2";
 import { motion } from "framer-motion";
 
 const Error = () => (

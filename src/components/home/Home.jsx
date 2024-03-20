@@ -1,7 +1,6 @@
 import Footer from "../Footer";
 import Testimonial from "./Testimonial";
 import Feature from "./Feature";
-import Navbar2 from "../Navbar2";
 import ScrollUpButton from "../ScrollUpButton";
 import { motion } from "framer-motion";
 import BestProduct from "./BestProduct";
