@@ -6,7 +6,7 @@ import Contact from "./components/contact/Contact";
 import ProductDetails from "./components/shop/ProductDetails";
 import Error from "./components/error/Error";
 import Cart from "./components/shop/cart/Cart";
-import Checkout from "./components/shop/cart/checkout/Checkout";
+import Checkout from "./components/shop/checkout/Checkout";
 import Wishlist from "./components/shop/wishlist/Wishlist";
 
 const Routers = () => {

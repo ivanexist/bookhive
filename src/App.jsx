@@ -1,7 +1,7 @@
 import { BrowserRouter as Router } from "react-router-dom";
 import Routers from "./Routers";
 import LocationProvider from "./LocationProvider";
-import Navbar2 from "./components/Navbar2";
+import Navbar from "./components/Navbar";
 import BookHiveProvider from "./components/context/BookHiveContext";
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
         <BookHiveProvider>
           <LocationProvider>
             <div className="sticky top-0 z-20">
-              <Navbar2 />
+              <Navbar />
             </div>
             <Routers />
           </LocationProvider>

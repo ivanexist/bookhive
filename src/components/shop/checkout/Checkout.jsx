@@ -1,9 +1,8 @@
 import { motion } from "framer-motion";
-import FilterMobile from "../../filter/FilterMobile";
-import Footer from "../../../Footer";
-import ScrollUpButton from "../../../ScrollUpButton";
+import Footer from "../../Footer";
+import ScrollUpButton from "../../ScrollUpButton";
 import CheckoutContent from "./CheckoutContent";
-import Breadcrumb from "../../../Breadcrumb";
+import Breadcrumb from "../../Breadcrumb";
 
 const Checkout = () => {
   return (
@@ -14,7 +13,6 @@ const Checkout = () => {
         exit={{ y: 0, opacity: 0 }}
         transition={{ duration: 0.7 }}
       >
-        <FilterMobile />
         <Breadcrumb />
         <main className="mx-auto max-w-screen-xl">
           <section aria-labelledby="products-heading" className="pb-24 pt-6">

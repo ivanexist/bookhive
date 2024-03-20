@@ -12,6 +12,7 @@ import { Checkbox, InputNumber, TreeSelect } from "antd";
 import { DownOutlined } from "@ant-design/icons";
 import categoriesOptions from "../../json/category.json";
 import { BookHiveContext } from "../../context/BookHiveContext";
+// import FilterMobile from "./FilterMobile";
 
 const FilterNavbar = ({
   onList,
@@ -28,7 +29,9 @@ const FilterNavbar = ({
   onHandleStockAvailabilityChange,
 }) => {
   const { searchQuery } = useContext(BookHiveContext);
+
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
+
   const limit = 500;
   const handleMinPriceRange = (value) =>
     onSetSelectedPriceRange([value, onSelectedPriceRange[1]]);
@@ -47,7 +50,7 @@ const FilterNavbar = ({
       <div>
         <nav className=" bg-white">
           <div className="flex flex-col">
-            <div className="flex items-baseline sm:justify-end lg:justify-between border-b border-blumine-200 py-4 sm:mx-4 md:mx-0">
+            <div className="flex items-baseline sm:justify-end lg:justify-between border-b border-blumine-200 py-4 sm:mx-4 lg:mx-0">
               <div className="md:flex flex-col sm:hidden justify-center items-center ">
                 <Link to="/">
                   {searchQuery && (
@@ -145,8 +148,10 @@ const FilterNavbar = ({
           </div>
         </nav>
       </div>
+
       {/* filter mobile */}
       <div>
+        {console.log(mobileFiltersOpen)}
         <Transition.Root show={mobileFiltersOpen} as={Fragment}>
           <Dialog
             as="div"

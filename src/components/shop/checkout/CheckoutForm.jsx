@@ -1,3 +1,4 @@
+import country from "../../json/country.json";
 const CheckoutForm = () => (
   <div className="col-span-3 px-4 mx-4 text-lg">
     <div className="flex flex-col p-8 my-4 gap-8 ">
@@ -26,7 +27,12 @@ const CheckoutForm = () => (
         id=""
         className="p-2 text-base border placeholder:text-gray-400 text-blumine-600 border-blumine-300 focus:outline-blumine-400 shadow-sm sm:-mt-4 md:mt-0"
       >
-        <option value="">Country</option>
+        <option value="">Select Your Country</option>
+        {country.map((country, index) => (
+          <option key={index} value={country.name}>
+            {country.name}
+          </option>
+        ))}
       </select>
       <div className="md:flex gap-8 w-full">
         <input
