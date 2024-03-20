@@ -197,7 +197,7 @@ const Navbar2 = () => {
                 <button
                   onClick={() => {
                     handleShowSearchBar();
-                    setSearchQuery("");
+                    // setSearchQuery("");
                     // navigate(`/shop`);
                   }}
                   className="mx-2"

@@ -106,7 +106,7 @@ const ProductDetailsCard = ({
                     <span> IN STOCK</span>
                   </div>
                 ) : (
-                  <div className="bg-red-100 text-red-500 w-32 pl-2 mb-2">
+                  <div className="bg-red-100 text-red-500 w-32 pl-2 mb-2 sm:mt-4 lg:mt-0">
                     <span> OUT OF STOCK</span>
                   </div>
                 )}

@@ -47,7 +47,7 @@ const GridProductCard = ({ book, bookId }) => {
       <div className="w-full overflow-hidden border-b-black bg-blumine-200 transition duration-300 ease-in-out hover:opacity-80 lg:h-56">
         {book.stock[0].available === 0 && (
           <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center">
-            <span className="text-red-500 text-2xl font-bold bg-white px-4 py-2 rounded">
+            <span className="text-white text-2xl font-bold bg-red-500 px-4 py-2 rounded">
               Sold Out
             </span>
           </div>
