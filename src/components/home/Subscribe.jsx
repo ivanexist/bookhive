@@ -4,34 +4,16 @@ const Subscribe = () => (
     <div className="max-w-screen-xl px-4 py-8 my-8 mx-auto sm:px-6 lg:py-16 lg:px-8">
       <div>
         <h2 className="text-lg font-bold leading-normal tracking-tight text-center text-blumine-600 ">
-          <motion.p
-            initial={{ x: -100, opacity: 0 }}
-            whileInView={{ x: 0, opacity: 1 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.5 }}
-          >
-            STAY WITH US
-          </motion.p>
-          <motion.p
-            initial={{ x: 100, opacity: 0 }}
-            whileInView={{ x: 0, opacity: 1 }}
-            viewport={{ once: true }}
-            transition={{ delay: 0.3, duration: 0.5 }}
-            className="my-6"
-          >
+          <p>STAY WITH US</p>
+          <p className="my-6">
             <span className="text-blumine-600 text-lg font-medium">
               Subscribe to our newletters and stay up-to-date with new
               collections and exclusive offers
             </span>
-          </motion.p>
+          </p>
         </h2>
       </div>
-      <motion.div
-        initial={{ y: 100, opacity: 0 }}
-        whileInView={{ y: 0, opacity: 1 }}
-        viewport={{ once: true }}
-        transition={{ delay: 0.3, duration: 0.5 }}
-      >
+      <div>
         <form
           method="post"
           target="_blank"
@@ -57,7 +39,7 @@ const Subscribe = () => (
             </button>
           </div>
         </form>
-      </motion.div>
+      </div>
     </div>
   </div>
 );

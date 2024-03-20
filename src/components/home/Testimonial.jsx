@@ -7,41 +7,22 @@ const Testimonial = () => {
   return (
     <>
       <section className="bg-white">
-        <motion.div
-          initial={{ y: 50, opacity: 0 }}
-          whileInView={{ y: 0, opacity: 1 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.5 }}
-          className="md:col-span-4"
-        >
+        <div className="md:col-span-4">
           <img
             src="https://cdn.pixabay.com/photo/2018/01/12/13/01/sale-3078216_1280.jpg"
             alt=""
             className="sm:h-52 md:h-[28rem] 2xl:h-[32rem] w-full mx-auto"
           />
-        </motion.div>
+        </div>
         <div className="mx-auto max-w-screen-xl px-4 py-4 sm:px-6 lg:px-8">
-          <motion.div
-            variants={variant}
-            initial="hidden"
-            whileInView="visible"
-            viewport={{ once: true }}
-            transition={{ duration: 0.5 }}
-          >
+          <div>
             <h2 className="text-center text-3xl font-bold tracking-tight text-blumine-500 sm:text-3xl mt-8 py-4 uppercase">
               Customer Reviews
             </h2>
-          </motion.div>
+          </div>
 
-          <motion.div className="my-8 grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-8">
-            <motion.div
-              variants={variant}
-              initial="hidden"
-              whileInView="visible"
-              viewport={{ once: true }}
-              transition={{ duration: 0.5, delay: 0.5 }}
-              className=" bg-blumine-50 p-6 shadow-sm sm:p-8"
-            >
+          <div className="my-8 grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-8">
+            <div className=" bg-blumine-50 p-6 shadow-sm sm:p-8">
               <div className="flex items-center gap-4">
                 <img
                   alt="Man"
@@ -128,16 +109,9 @@ const Testimonial = () => {
                 quia obcaecati neque quibusdam eius accusamus error officiis
                 atque voluptates magnam!
               </p>
-            </motion.div>
+            </div>
 
-            <motion.div
-              variants={variant}
-              initial="hidden"
-              whileInView="visible"
-              viewport={{ once: true }}
-              transition={{ duration: 0.5, delay: 0.8 }}
-              className=" bg-blumine-50 p-6 shadow-sm sm:p-8"
-            >
+            <div className=" bg-blumine-50 p-6 shadow-sm sm:p-8">
               <div className="flex items-center gap-4">
                 <img
                   alt="Man"
@@ -226,16 +200,9 @@ const Testimonial = () => {
                 quia obcaecati neque quibusdam eius accusamus error officiis
                 atque voluptates magnam!
               </p>
-            </motion.div>
+            </div>
 
-            <motion.div
-              variants={variant}
-              initial="hidden"
-              whileInView="visible"
-              viewport={{ once: true }}
-              transition={{ duration: 0.5, delay: 1.1 }}
-              className=" bg-blumine-50 p-6 shadow-sm sm:p-8"
-            >
+            <div className=" bg-blumine-50 p-6 shadow-sm sm:p-8">
               <div className="flex items-center gap-4">
                 <img
                   alt="Man"
@@ -324,8 +291,8 @@ const Testimonial = () => {
                 quia obcaecati neque quibusdam eius accusamus error officiis
                 atque voluptates magnam!
               </p>
-            </motion.div>
-          </motion.div>
+            </div>
+          </div>
         </div>
       </section>
     </>

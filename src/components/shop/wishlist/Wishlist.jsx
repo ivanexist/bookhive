@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import FilterMobile from "../filter/FilterMobile";
 import Footer from "../../Footer";
 import ScrollUpButton from "../../ScrollUpButton";
 import WishlistContent from "./WishlistContent";
@@ -15,7 +14,6 @@ const Wishlist = () => (
       exit={{ y: 0, opacity: 0 }}
       transition={{ duration: 0.7 }}
     >
-      <FilterMobile />
       <Breadcrumb />
       <main className="mx-auto max-w-screen-xl">
         <section aria-labelledby="products-heading" className="pb-24 pt-6">

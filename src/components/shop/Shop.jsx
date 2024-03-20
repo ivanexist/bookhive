@@ -1,6 +1,5 @@
 import GridProduct from "./GridProduct";
 import ListProduct from "./ListProduct";
-import FilterMobile from "./filter/FilterMobile";
 import Category from "./filter/Category";
 import FilterNavbar from "./filter/FilterNavbar";
 import Footer from "../Footer";
@@ -165,7 +164,6 @@ const Shop = () => {
             // viewport={{ once: true }}
             // transition={{ duration: 0.7 }}
             >
-              <FilterMobile />
               <Breadcrumb />
             </motion.div>
             <main className="mx-auto max-w-screen-xl">

@@ -1,28 +1,9 @@
-import { motion } from "framer-motion";
-const variant = {
-  hidden: { y: 100, opacity: 0 },
-  visible: { y: 0, opacity: 1 },
-};
 const Feature = () => (
   <>
-    <motion.div
-      variants={variant}
-      initial="hidden"
-      whileInView="visible"
-      viewport={{ once: true }}
-      transition={{ duration: 0.5 }}
-      className=" flex justify-between items-center py-8 px-4 mt-4 sm:ml-4 lg:ml-0 bg-white "
-    >
+    <div className=" flex justify-between items-center py-8 px-4 mt-4 sm:ml-4 lg:ml-0 bg-white ">
       <div className="grid sm:w-full sm:grid-cols-1 lg:grid-cols-4">
         {/* Free shipping item */}
-        <motion.div
-          variants={variant}
-          initial="hidden"
-          whileInView="visible"
-          viewport={{ once: true }}
-          transition={{ duration: 0.5, delay: 0.1 }}
-          className="flex items-center border border-blumine-200 gap-3 p-6 sm:mr-6 sm:my-2 lg:my-0 bg-white shadow-main"
-        >
+        <div className="flex items-center border border-blumine-200 gap-3 p-6 sm:mr-6 sm:my-2 lg:my-0 bg-white shadow-main">
           <div className="h-12 w-12 mr-2">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -45,16 +26,9 @@ const Feature = () => (
               Orders over $150
             </p>
           </div>
-        </motion.div>
+        </div>
         {/* money back guarantee */}
-        <motion.div
-          variants={variant}
-          initial="hidden"
-          whileInView="visible"
-          viewport={{ once: true }}
-          transition={{ duration: 0.5, delay: 0.2 }}
-          className="flex items-center border border-blumine-200 gap-3 p-6 sm:mr-6 sm:my-2 lg:my-0 bg-white shadow-main"
-        >
+        <div className="flex items-center border border-blumine-200 gap-3 p-6 sm:mr-6 sm:my-2 lg:my-0 bg-white shadow-main">
           <div className="h-12 w-12">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -75,16 +49,9 @@ const Feature = () => (
             </p>
             <p className="text-base leading-7 text-gray-500">100% money back</p>
           </div>
-        </motion.div>
+        </div>
         {/* COD */}
-        <motion.div
-          variants={variant}
-          initial="hidden"
-          whileInView="visible"
-          viewport={{ once: true }}
-          transition={{ duration: 0.5, delay: 0.3 }}
-          className="flex items-center border border-blumine-200 gap-3 p-6 sm:mr-6 sm:my-2 lg:my-0 bg-white shadow-main"
-        >
+        <div className="flex items-center border border-blumine-200 gap-3 p-6 sm:mr-6 sm:my-2 lg:my-0 bg-white shadow-main">
           <div className="h-12 w-12 mr-2">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -107,16 +74,9 @@ const Feature = () => (
               Lorem ipsum dolor sit.
             </p>
           </div>
-        </motion.div>
+        </div>
         {/* Call and Support */}
-        <motion.div
-          variants={variant}
-          initial="hidden"
-          whileInView="visible"
-          viewport={{ once: true }}
-          transition={{ duration: 0.5, delay: 0.4 }}
-          className="flex items-center border border-blumine-200 gap-3 p-6 sm:mr-6 sm:my-2 lg:my-0 bg-white shadow-main"
-        >
+        <div className="flex items-center border border-blumine-200 gap-3 p-6 sm:mr-6 sm:my-2 lg:my-0 bg-white shadow-main">
           <div className="h-12 w-12">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -143,45 +103,27 @@ const Feature = () => (
               Call: +62 853 305 1177 1
             </p>
           </div>
-        </motion.div>
+        </div>
       </div>
-    </motion.div>
-    <motion.div
-      initial={{ y: -50, opacity: 0 }}
-      whileInView={{ y: 0, opacity: 1 }}
-      viewport={{ once: true }}
-      transition={{ duration: 0.5 }}
-      className=" flex justify-between items-center py-4 px-4 mr-6 sm:ml-4 lg:ml-0 bg-white max-w-screen-xl"
-    >
+    </div>
+    <div className=" flex justify-between items-center py-4 px-4 mr-6 sm:ml-4 lg:ml-0 bg-white max-w-screen-xl">
       <div className="grid sm:w-full sm:grid-cols-2 lg:grid-cols-4 gap-8">
-        <motion.div
-          initial={{ y: -50, opacity: 0 }}
-          whileInView={{ y: 0, opacity: 1 }}
-          viewport={{ once: true }}
-          transition={{ delay: 0.5, duration: 0.5 }}
-          className="col-span-2"
-        >
+        <div className="col-span-2">
           <img
             src="https://images.pexels.com/photos/5868272/pexels-photo-5868272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt=""
             className="sm:h-64 md:h-80 w-full"
           />
-        </motion.div>
-        <motion.div
-          initial={{ y: 50, opacity: 0 }}
-          whileInView={{ y: 0, opacity: 1 }}
-          viewport={{ once: true }}
-          transition={{ delay: 0.9, duration: 0.5 }}
-          className="col-span-2"
-        >
+        </div>
+        <div className="col-span-2">
           <img
             src="https://plus.unsplash.com/premium_photo-1670509045675-af9f249b1bbe?q=80&w=1435&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt=""
             className="sm:h-64 md:h-80 w-full"
           />
-        </motion.div>
+        </div>
       </div>
-    </motion.div>
+    </div>
   </>
 );
 

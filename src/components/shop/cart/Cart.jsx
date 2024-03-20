@@ -1,4 +1,3 @@
-import FilterMobile from "../filter/FilterMobile";
 import { motion } from "framer-motion";
 import CartContent from "./CartContent";
 import Footer from "../../Footer";
@@ -15,7 +14,6 @@ const Cart = () => {
         exit={{ y: 0, opacity: 0 }}
         transition={{ duration: 0.7 }}
       >
-        <FilterMobile />
         <Breadcrumb />
         <main className="mx-auto max-w-screen-xl">
           <section aria-labelledby="products-heading" className="pb-24 pt-6">
