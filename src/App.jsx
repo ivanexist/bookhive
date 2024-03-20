@@ -2,7 +2,6 @@ import { BrowserRouter as Router } from "react-router-dom";
 import Routers from "./Routers";
 import LocationProvider from "./LocationProvider";
 import Navbar2 from "./components/Navbar2";
-import CartProvider from "./components/shop/cart/context/CartContext";
 import BookHiveProvider from "./components/context/BookHiveContext";
 
 function App() {
