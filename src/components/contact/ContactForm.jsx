@@ -5,11 +5,11 @@ const ContactForm = () => (
         <div className="grid md:grid-cols-2">
           {/* contact */}
           <div className="h-full pr-6 ">
-            <h2 className="mb-4 text-lg font-bold border-b pt-2 pb-4 text-blumine-500 uppercase">
+            <h2 className="mb-4 text-lg font-bold border-b border-b-blumine-200 pt-2 pb-4 text-blumine-500 uppercase">
               Contact info
             </h2>
             <ul className="mb-6 md:mb-0">
-              <li className="flex border-b my-4">
+              <li className="flex border-b border-b-blumine-200 my-4">
                 <div className="flex h-10 w-10 items-center justify-center bg-blumine-500 text-blumine-50">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -32,8 +32,8 @@ const ContactForm = () => (
                   <p className="text-gray-500">Indonesia</p>
                 </div>
               </li>
-              <li className="flex border-b my-4">
-                <div className="flex h-10 w-10 items-center justify-center  bg-blumine-500 text-blumine-50">
+              <li className="flex border-b border-b-blumine-200 my-4">
+                <div className="flex h-10 w-10 items-center justify-center bg-blumine-500 text-blumine-50">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
@@ -56,7 +56,7 @@ const ContactForm = () => (
                   <p className="text-gray-500">info@bookhive.com</p>
                 </div>
               </li>
-              <li className="flex border-b my-4">
+              <li className="flex border-b border-b-blumine-200 my-4">
                 <div className="flex h-10 w-10 items-center justify-center  bg-blumine-500 text-blumine-50">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -83,7 +83,7 @@ const ContactForm = () => (
           </div>
           {/* form */}
           <div className="card h-fit max-w-6xl px-8" id="form">
-            <div className="flex font-bold border-b pt-2 text-blumine-500">
+            <div className="flex font-bold border-b border-b-blumine-200 pt-2 text-blumine-500">
               <div>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

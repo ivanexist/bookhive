@@ -52,11 +52,10 @@ const Navbar2 = () => {
           <div className="flex">
             <Link
               to="/"
-              href="#"
               className="flex items-center space-x-3 rtl:space-x-reverse mx-2"
               onClick={scrollToTop}
             >
-              <span className="self-center text-2xl font-semibold whitespace-nowrap font-sans ">
+              <span className="self-center text-2xl font-semibold whitespace-nowrap font-sans">
                 Book Hive.
               </span>
             </Link>
@@ -67,11 +66,10 @@ const Navbar2 = () => {
                 <li>
                   <Link
                     to="/"
-                    href="#"
                     onClick={scrollToTop}
-                    className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                    className={`py-2 px-4 text-gray-400 rounded hover:text-blue-500 md:hover:bg-transparent md:p-0 ${
                       location.pathname === "/"
-                        ? "font-bold  text-blumine-500"
+                        ? "font-bold  text-blue-500"
                         : ""
                     }`}
                   >
@@ -81,31 +79,28 @@ const Navbar2 = () => {
                 <li>
                   <Link
                     to="/shop"
-                    href="#"
                     onClick={scrollToTop}
-                    className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                    className={`py-2 px-4 text-gray-400 rounded hover:text-blue-500 md:hover:bg-transparent md:p-0 ${
                       location.pathname === "/shop" ||
                       location.pathname === `/shop/${bookId}` ||
                       location.pathname === "/shop/cart" ||
                       location.pathname === "/shop/cart/checkout" ||
                       location.pathname === "/shop/wishlist" ||
                       location.pathname === `/shop/cart/checkout/${bookId}`
-                        ? "font-bold text-blumine-500"
+                        ? "font-bold text-blue-500"
                         : ""
                     }`}
                   >
                     SHOP
                   </Link>
-                  {/* {console.log(bookId)} */}
                 </li>
                 <li>
                   <Link
                     to="/about"
-                    href="#"
                     onClick={scrollToTop}
-                    className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                    className={`py-2 px-4 text-gray-400 rounded hover:text-blue-500 md:hover:bg-transparent md:p-0 ${
                       location.pathname === "/about"
-                        ? "font-bold text-blumine-500"
+                        ? "font-bold text-blue-500"
                         : ""
                     }`}
                   >
@@ -115,11 +110,10 @@ const Navbar2 = () => {
                 <li>
                   <Link
                     to="/contact"
-                    href="#"
                     onClick={scrollToTop}
-                    className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500  md:p-0 ${
+                    className={`py-2 px-4 text-gray-400 rounded hover:text-blue-500  md:p-0 ${
                       location.pathname === "/contact"
-                        ? "font-semibold text-blumine-500"
+                        ? "font-semibold text-blue-500"
                         : ""
                     }`}
                   >
@@ -206,16 +200,13 @@ const Navbar2 = () => {
                     xmlns="http://www.w3.org/2000/svg"
                     width="1em"
                     height="1em"
-                    viewBox="0 0 24 24"
-                    className="hover:text-red-500"
+                    viewBox="0 0 32 32"
+                    className="text-blumine-400 hover:text-blumine-500 h-6 w-6"
                   >
-                    <g fill="none" fillRule="evenodd">
-                      <path d="M24 0v24H0V0zM12.593 23.258l-.011.002l-.071.035l-.02.004l-.014-.004l-.071-.035c-.01-.004-.019-.001-.024.005l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427c-.002-.01-.009-.017-.017-.018m.265-.113l-.013.002l-.185.093l-.01.01l-.003.011l.018.43l.005.012l.008.007l.201.093c.012.004.023 0 .029-.008l.004-.014l-.034-.614c-.003-.012-.01-.02-.02-.022m-.715.002a.023.023 0 0 0-.027.006l-.006.014l-.034.614c0 .012.007.02.017.024l.015-.002l.201-.093l.01-.008l.004-.011l.017-.43l-.003-.012l-.01-.01z"></path>
-                      <path
-                        fill="currentColor"
-                        d="m12 14.122l5.303 5.303a1.5 1.5 0 0 0 2.122-2.122L14.12 12l5.304-5.303a1.5 1.5 0 1 0-2.122-2.121L12 9.879L6.697 4.576a1.5 1.5 0 1 0-2.122 2.12L9.88 12l-5.304 5.304a1.5 1.5 0 1 0 2.122 2.12z"
-                      ></path>
-                    </g>
+                    <path
+                      fill="currentColor"
+                      d="M16 2C8.2 2 2 8.2 2 16s6.2 14 14 14s14-6.2 14-14S23.8 2 16 2m5.4 21L16 17.6L10.6 23L9 21.4l5.4-5.4L9 10.6L10.6 9l5.4 5.4L21.4 9l1.6 1.6l-5.4 5.4l5.4 5.4z"
+                    ></path>
                   </svg>
                 </button>
               </div>

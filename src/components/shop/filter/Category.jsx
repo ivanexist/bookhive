@@ -23,13 +23,13 @@ const Category = ({
   return (
     <div>
       <h3 className="sr-only">Categories</h3>
-      <h3 className="text-base font-bold pb-2 hidden lg:block px-4 text-blumine-900 mx-2 uppercase">
+      <h3 className="text-base font-bold pb-2 hidden lg:block px-4 text-gray-800 mx-2 uppercase">
         Filters
       </h3>
       <form className="hidden lg:block">
-        <hr className="py-2 mx-6 " />
+        <hr className="py-2 mx-6" />
         <div className=" w-full px-4">
-          <div className=" flex flex-col justify-center mx-auto w-full max-w-md rounded-2xl bg-white px-2 pb-2 ">
+          <div className=" flex flex-col justify-center mx-auto w-full max-w-md rounded-2xl bg-white px-2 pb-2">
             <Disclosure defaultOpen={true}>
               {({ open }) => (
                 <>
