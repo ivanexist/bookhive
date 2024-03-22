@@ -3,7 +3,7 @@ import ReactPaginate from "react-paginate";
 import GridProductCard from "./GridProductCard";
 import { FaAngleLeft, FaAngleRight } from "react-icons/fa";
 import { useContext } from "react";
-import { BookHiveContext } from "../context/BookHiveContext";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const GridProduct = ({
   currentItems,

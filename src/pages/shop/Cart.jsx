@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
-import CartContent from "./CartContent";
-import Footer from "../../Footer";
-import ScrollUpButton from "../../ScrollUpButton";
+import CartContent from "../../components/shop/cart/CartContent";
+import Footer from "../../components/Footer";
+import ScrollUpButton from "../../components/ScrollUpButton";
 import { ToastContainer } from "react-toastify";
-import Breadcrumb from "../../Breadcrumb";
+import Breadcrumb from "../../components/Breadcrumb";
 const Cart = () => {
   return (
     <div>

@@ -10,8 +10,8 @@ import { FaList } from "react-icons/fa";
 import { Dialog, Disclosure, Transition } from "@headlessui/react";
 import { Checkbox, InputNumber, TreeSelect } from "antd";
 import { DownOutlined } from "@ant-design/icons";
-import categoriesOptions from "../../json/category.json";
-import { BookHiveContext } from "../../context/BookHiveContext";
+import categoriesOptions from "../../../json/category.json";
+import { BookHiveContext } from "../../../context/BookHiveContext";
 // import FilterMobile from "./FilterMobile";
 
 const FilterNavbar = ({

@@ -2,7 +2,7 @@ import { FaAngleRight, FaHome } from "react-icons/fa";
 import { Link, useLocation, useParams } from "react-router-dom";
 import useBreadcrumbs from "use-react-router-breadcrumbs";
 import { useContext } from "react";
-import { BookHiveContext } from "./context/BookHiveContext";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const Breadcrumb = () => {
   const { bookData } = useContext(BookHiveContext);

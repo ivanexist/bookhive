@@ -3,7 +3,7 @@ import { useContext, useRef, useState } from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { useClickAway } from "react-use";
-import { BookHiveContext } from "./context/BookHiveContext";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const routesMobile = [
   { title: "Home", link: "/" },

@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { Link } from "react-router-dom";
-import { BookHiveContext } from "../../context/BookHiveContext";
+import { BookHiveContext } from "../../../context/BookHiveContext";
 
 const WishlistPopover = () => {
   const { wishlists, scrollToTop } = useContext(BookHiveContext);

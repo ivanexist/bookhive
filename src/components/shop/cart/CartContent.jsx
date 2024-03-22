@@ -3,7 +3,7 @@ import CartItemsCard from "./CartItemsCard";
 import { Link } from "react-router-dom";
 import { Image, List, Modal, Spin } from "antd";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
-import { BookHiveContext } from "../../context/BookHiveContext";
+import { BookHiveContext } from "../../../context/BookHiveContext";
 import { toast } from "react-toastify";
 
 const CartContent = () => {

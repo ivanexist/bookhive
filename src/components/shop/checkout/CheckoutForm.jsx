@@ -1,4 +1,4 @@
-import country from "../../json/country.json";
+import country from "../../../json/country.json";
 const CheckoutForm = () => (
   <div className="col-span-3 px-4 mx-4 text-lg">
     <div className="flex flex-col p-8 my-4 gap-8 ">

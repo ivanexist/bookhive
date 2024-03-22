@@ -3,7 +3,7 @@ import { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import { toast } from "react-toastify";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
-import { BookHiveContext } from "../../context/BookHiveContext";
+import { BookHiveContext } from "../../../context/BookHiveContext";
 
 const WishlistCard = ({
   wishlist,

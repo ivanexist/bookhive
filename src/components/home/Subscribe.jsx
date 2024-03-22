@@ -14,24 +14,13 @@ const Subscribe = () => (
         </h2>
       </div>
       <div>
-        <form
-          method="post"
-          target="_blank"
-          className="justify-center mt-8 sm:flex"
-        >
+        <form className="justify-center mt-8 sm:flex">
           <input
             aria-label="Email address"
             name="EMAIL"
             type="email"
-            required=""
             className="w-full px-6 py-4 text-base leading-6 text-blumine-600 placeholder-gray-400 transition duration-150 ease-in-out bg-white border border-blumine-300  appearance-none focus:outline-none focus:shadow-outline sm:max-w-xs"
             placeholder="Enter your email"
-          />
-          <input
-            type="hidden"
-            value="8"
-            name="group[27425][8]"
-            id="mce-group[27425]-27425-3"
           />
           <div className="mt-3  shadow sm:mt-0 sm:flex-shrink-0">
             <button className="flex items-center justify-center w-full px-6 py-4 text-base font-medium leading-6 text-white transition duration-150 ease-in-out bg-blumine-500 border border-transparent  hover:bg-blumine-600 focus:outline-none focus:shadow-outline">

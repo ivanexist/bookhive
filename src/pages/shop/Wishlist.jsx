@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
-import Footer from "../../Footer";
-import ScrollUpButton from "../../ScrollUpButton";
-import WishlistContent from "./WishlistContent";
-import Breadcrumb from "../../Breadcrumb";
+import Footer from "../../components/Footer";
+import ScrollUpButton from "../../components/ScrollUpButton";
+import WishlistContent from "../../components/shop/wishlist/WishlistContent";
+import Breadcrumb from "../../components/Breadcrumb";
 import { ToastContainer } from "react-toastify";
 
 const Wishlist = () => (

@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import SkeletonImage from "antd/es/skeleton/Image";
 import { Skeleton } from "antd";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
-import { BookHiveContext } from "../context/BookHiveContext";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const GridProductCard = ({ book, bookId }) => {
   const {

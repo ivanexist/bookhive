@@ -2,7 +2,7 @@ import { Disclosure, Transition } from "@headlessui/react";
 import { DownOutlined } from "@ant-design/icons";
 import { ChevronRightIcon } from "@heroicons/react/24/outline";
 import { InputNumber, TreeSelect } from "antd";
-import categoriesOptions from "../../json/category.json";
+import categoriesOptions from "../../../json/category.json";
 import Checkbox from "antd/es/checkbox/Checkbox";
 
 const Category = ({

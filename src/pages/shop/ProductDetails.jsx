@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
-import ProductDetailsCard from "./ProductDetailsCard";
+import ProductDetailsCard from "../../components/shop/ProductDetailsCard";
 import { useParams } from "react-router-dom";
 import { useContext } from "react";
-import Footer from "../Footer";
-import Breadcrumb from "../Breadcrumb";
-import RelatedProducts from "./RelatedProducts";
-import { BookHiveContext } from "../context/BookHiveContext";
+import Footer from "../../components/Footer";
+import Breadcrumb from "../../components/Breadcrumb";
+import RelatedProducts from "../../components/shop/RelatedProducts";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const ProductDetails = () => {
   const { bookId } = useParams();

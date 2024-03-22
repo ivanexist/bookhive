@@ -1,7 +1,6 @@
 import HomeProductCard from "./HomeProductCard";
-import { motion } from "framer-motion";
 import { useContext } from "react";
-import { BookHiveContext } from "../context/BookHiveContext";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const BestProduct = () => {
   const { bookData } = useContext(BookHiveContext);

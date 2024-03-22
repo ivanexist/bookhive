@@ -1,11 +1,11 @@
-import Footer from "../Footer";
-import Testimonial from "./Testimonial";
-import Feature from "./Feature";
-import ScrollUpButton from "../ScrollUpButton";
+import Footer from "../components/Footer";
+import Testimonial from "../components/home/Testimonial";
+import Feature from "../components/home/Feature";
+import ScrollUpButton from "../components/ScrollUpButton";
 import { motion } from "framer-motion";
-import BestProduct from "./BestProduct";
-import Subscribe from "./Subscribe";
-import HeroMain from "./hero/HeroMain";
+import BestProduct from "../components/home/BestProduct";
+import Subscribe from "../components/home/Subscribe";
+import HeroMain from "../components/home/hero/HeroMain";
 const Home = () => {
   return (
     <>

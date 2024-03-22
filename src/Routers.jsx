@@ -1,13 +1,13 @@
-import { Routes, Route, useLocation } from "react-router-dom";
-import Home from "./components/home/Home";
-import Shop from "./components/shop/Shop";
-import About from "./components/about/About";
-import Contact from "./components/contact/Contact";
-import ProductDetails from "./components/shop/ProductDetails";
+import { Routes, Route } from "react-router-dom";
+import Home from "../src/pages/Home";
+import Shop from "../src/pages/shop/Shop";
+import About from "../src/pages/About";
+import Contact from "../src/pages/Contact";
+import ProductDetails from "../src/pages/shop/ProductDetails";
 import Error from "./components/error/Error";
-import Cart from "./components/shop/cart/Cart";
-import Checkout from "./components/shop/checkout/Checkout";
-import Wishlist from "./components/shop/wishlist/Wishlist";
+import Cart from "../src/pages/shop/Cart";
+import Checkout from "../src/pages/shop/Checkout";
+import Wishlist from "../src/pages/shop/Wishlist";
 
 const Routers = () => {
   // const location = useLocation();

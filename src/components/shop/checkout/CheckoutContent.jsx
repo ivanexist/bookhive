@@ -2,7 +2,7 @@ import { useContext } from "react";
 import CheckoutItem from "./CheckoutItem";
 import CheckoutForm from "./CheckoutForm";
 import { useParams } from "react-router-dom";
-import { BookHiveContext } from "../../context/BookHiveContext";
+import { BookHiveContext } from "../../../context/BookHiveContext";
 
 const CheckoutContent = () => {
   const { bookData, cartItems } = useContext(BookHiveContext);

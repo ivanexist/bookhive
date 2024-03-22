@@ -31,6 +31,9 @@ export default {
           950: "#0e2e43",
         },
       },
+      fontFamily: {
+        Baskervville: ["Baskervville", "sans-serif"],
+      },
     },
     screens: {
       sm: "359px",

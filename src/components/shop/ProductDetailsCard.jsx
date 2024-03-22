@@ -7,7 +7,7 @@ import DescReview from "./DescReview";
 import ScrollUpButton from "../ScrollUpButton";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
 import { motion } from "framer-motion";
-import { BookHiveContext } from "../context/BookHiveContext";
+import { BookHiveContext } from "../../context/BookHiveContext";
 import SkeletonImage from "antd/es/skeleton/Image";
 import { Skeleton } from "antd";
 import SkeletonButton from "antd/es/skeleton/Button";

@@ -2,7 +2,7 @@ import { Link, useNavigate, useParams } from "react-router-dom";
 import Notification from "./Notification";
 import NavbarMobile from "./NavbarMobile";
 import { useContext, useEffect, useRef, useState } from "react";
-import { BookHiveContext } from "./context/BookHiveContext";
+import { BookHiveContext } from "../context/BookHiveContext";
 
 const Navbar2 = () => {
   const {
@@ -55,73 +55,71 @@ const Navbar2 = () => {
               className="flex items-center space-x-3 rtl:space-x-reverse mx-2"
               onClick={scrollToTop}
             >
-              <span className="self-center text-2xl font-semibold whitespace-nowrap font-sans">
+              <span className="self-center text-2xl font-BrunoAce font-semibold whitespace-nowrap text-blumine-800">
                 Book Hive.
               </span>
             </Link>
           </div>
-          <div className="md:flex sm:hidden mx-12">
-            <div className="items-center justify-between sm:hidden sm:w-full md:flex md:w-auto ">
-              <ul className="flex flex-col p-4 md:p-0 mt-4 font-medium border border-blumine-100 rounded-lg bg-blumine-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white ">
-                <li>
-                  <Link
-                    to="/"
-                    onClick={scrollToTop}
-                    className={`py-2 px-4 text-gray-400 rounded hover:text-blue-500 md:hover:bg-transparent md:p-0 ${
-                      location.pathname === "/"
-                        ? "font-bold  text-blue-500"
-                        : ""
-                    }`}
-                  >
-                    HOME
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    to="/shop"
-                    onClick={scrollToTop}
-                    className={`py-2 px-4 text-gray-400 rounded hover:text-blue-500 md:hover:bg-transparent md:p-0 ${
-                      location.pathname === "/shop" ||
-                      location.pathname === `/shop/${bookId}` ||
-                      location.pathname === "/shop/cart" ||
-                      location.pathname === "/shop/cart/checkout" ||
-                      location.pathname === "/shop/wishlist" ||
-                      location.pathname === `/shop/cart/checkout/${bookId}`
-                        ? "font-bold text-blue-500"
-                        : ""
-                    }`}
-                  >
-                    SHOP
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    to="/about"
-                    onClick={scrollToTop}
-                    className={`py-2 px-4 text-gray-400 rounded hover:text-blue-500 md:hover:bg-transparent md:p-0 ${
-                      location.pathname === "/about"
-                        ? "font-bold text-blue-500"
-                        : ""
-                    }`}
-                  >
-                    ABOUT
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    to="/contact"
-                    onClick={scrollToTop}
-                    className={`py-2 px-4 text-gray-400 rounded hover:text-blue-500  md:p-0 ${
-                      location.pathname === "/contact"
-                        ? "font-semibold text-blue-500"
-                        : ""
-                    }`}
-                  >
-                    CONTACT
-                  </Link>
-                </li>
-              </ul>
-            </div>
+          <div className="items-center justify-between sm:hidden sm:w-full mx-12 md:flex md:w-auto">
+            <ul className="flex flex-col p-4 md:p-0 mt-4 font-medium border border-blumine-100 rounded-lg bg-blumine-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white ">
+              <li>
+                <Link
+                  to="/"
+                  onClick={scrollToTop}
+                  className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                    location.pathname === "/"
+                      ? "font-bold  text-blumine-500"
+                      : ""
+                  }`}
+                >
+                  HOME
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/shop"
+                  onClick={scrollToTop}
+                  className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                    location.pathname === "/shop" ||
+                    location.pathname === `/shop/${bookId}` ||
+                    location.pathname === "/shop/cart" ||
+                    location.pathname === "/shop/cart/checkout" ||
+                    location.pathname === "/shop/wishlist" ||
+                    location.pathname === `/shop/cart/checkout/${bookId}`
+                      ? "font-bold text-blumine-500"
+                      : ""
+                  }`}
+                >
+                  SHOP
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/about"
+                  onClick={scrollToTop}
+                  className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                    location.pathname === "/about"
+                      ? "font-bold text-blumine-500"
+                      : ""
+                  }`}
+                >
+                  ABOUT
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/contact"
+                  onClick={scrollToTop}
+                  className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500  md:p-0 ${
+                    location.pathname === "/contact"
+                      ? "font-semibold text-blumine-500"
+                      : ""
+                  }`}
+                >
+                  CONTACT
+                </Link>
+              </li>
+            </ul>
           </div>
         </div>
 

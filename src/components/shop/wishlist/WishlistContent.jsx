@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import WishlistCard from "./WishlistCard";
-import { BookHiveContext } from "../../context/BookHiveContext";
+import { BookHiveContext } from "../../../context/BookHiveContext";
 
 const WishlistContent = () => {
   // const { bookId } = useParams();

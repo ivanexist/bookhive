@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
-import Footer from "../../Footer";
-import ScrollUpButton from "../../ScrollUpButton";
-import CheckoutContent from "./CheckoutContent";
-import Breadcrumb from "../../Breadcrumb";
+import Footer from "../../components/Footer";
+import ScrollUpButton from "../../components/ScrollUpButton";
+import CheckoutContent from "../../components/shop/checkout/CheckoutContent";
+import Breadcrumb from "../../components/Breadcrumb";
 
 const Checkout = () => {
   return (

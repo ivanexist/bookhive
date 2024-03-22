@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import RelatedProductCard from "./RelatedProductCard";
-import { BookHiveContext } from "../context/BookHiveContext";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const RelatedProducts = ({ selectedBook }) => {
   const { bookData } = useContext(BookHiveContext);

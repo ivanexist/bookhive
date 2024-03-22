@@ -1,15 +1,15 @@
-import GridProduct from "./GridProduct";
-import ListProduct from "./ListProduct";
-import Category from "./filter/Category";
-import FilterNavbar from "./filter/FilterNavbar";
-import Footer from "../Footer";
-import ScrollUpButton from "../ScrollUpButton";
+import GridProduct from "../../components/shop/GridProduct";
+import ListProduct from "../../components/shop/ListProduct";
+import Category from "../../components/shop/filter/Category";
+import FilterNavbar from "../../components/shop/filter/FilterNavbar";
+import Footer from "../../components/Footer";
+import ScrollUpButton from "../../components/ScrollUpButton";
 import { motion } from "framer-motion";
-import Breadcrumb from "../Breadcrumb";
+import Breadcrumb from "../../components/Breadcrumb";
 import { useContext, useEffect, useState } from "react";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { BookHiveContext } from "../context/BookHiveContext";
+import { BookHiveContext } from "../../context/BookHiveContext";
 
 const Shop = () => {
   const { bookData, searchQuery, showSearchBar, scrollToTop } =
