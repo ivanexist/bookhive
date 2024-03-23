@@ -4,7 +4,7 @@ import Shop from "../src/pages/shop/Shop";
 import About from "../src/pages/About";
 import Contact from "../src/pages/Contact";
 import ProductDetails from "../src/pages/shop/ProductDetails";
-import Error from "./components/error/Error";
+import Error from "./pages/Error";
 import Cart from "../src/pages/shop/Cart";
 import Checkout from "../src/pages/shop/Checkout";
 import Wishlist from "../src/pages/shop/Wishlist";
