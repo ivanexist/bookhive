@@ -6687,7 +6687,7 @@
   {
     "book_id": 196,
     "title": "Company of One",
-    "caption": "Company of One offers a refreshingly original business strategy",
+    "caption": "Why staying small is the next big thing for business",
     "book_cover": "BusinessFinance/BusinessSuccess/6-Company-Of-One.jpg",
     "isbn": "1328972354",
     "author": ["Paul Jarvis"],
@@ -6710,6 +6710,686 @@
       }
     ],
     "average_rating": "4.76",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 197,
+    "title": "Fundamentals of financial management",
+    "caption": "",
+    "book_cover": "BusinessFinance/Finance/1-fundamentals-of-financial-management.jpg",
+    "isbn": "0288965554",
+    "author": ["James C. Van Horne"],
+    "categories_title": ["Business & Finance", "Finance"],
+    "categories": ["businessFinance", "businessFinance-Finance"],
+    "total_page": "516",
+    "price": "107.89",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Prentice-Hall"],
+        "published_date": "1971",
+        "published_year": 1971
+      }
+    ],
+    "stock": [
+      {
+        "available": 8,
+        "sold": 4
+      }
+    ],
+    "average_rating": "4.76",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 198,
+    "title": "Financial management",
+    "caption": "theory & practice",
+    "book_cover": "BusinessFinance/Finance/2-financial-management-theory-and-practice.jpg",
+    "isbn": "0030454018",
+    "author": ["Eugene F. Brigham"],
+    "categories_title": ["Business & Finance", "Finance"],
+    "categories": ["businessFinance", "businessFinance-Finance"],
+    "total_page": "823",
+    "price": "4.89",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Prentice-Hall"],
+        "published_date": "1971",
+        "published_year": 1971
+      }
+    ],
+    "stock": [
+      {
+        "available": 5,
+        "sold": 8
+      }
+    ],
+    "average_rating": "4.64",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 199,
+    "title": "Unshakeable",
+    "caption": "Your Financial Freedom Playbook",
+    "book_cover": "BusinessFinance/Finance/3-unshakeable.jpg",
+    "isbn": "0030454018",
+    "author": ["Tony Robbins"],
+    "categories_title": ["Business & Finance", "Finance"],
+    "categories": ["businessFinance", "businessFinance-Finance"],
+    "total_page": "256",
+    "price": "14.99",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Simon & Schuster"],
+        "published_date": "2017",
+        "published_year": 2017
+      }
+    ],
+    "stock": [
+      {
+        "available": 7,
+        "sold": 31
+      }
+    ],
+    "average_rating": "4.78",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 200,
+    "title": "Learn to Earn",
+    "caption": "A Beginner's Guide to the Basics of Investing and Business",
+    "book_cover": "BusinessFinance/Finance/4-learn-to-earn.jpg",
+    "isbn": "9780471180036",
+    "author": ["Peter Lynch"],
+    "categories_title": ["Business & Finance", "Finance"],
+    "categories": ["businessFinance", "businessFinance-Finance"],
+    "total_page": "272",
+    "price": "7.51",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Wiley"],
+        "published_date": "1996",
+        "published_year": 1996
+      }
+    ],
+    "stock": [
+      {
+        "available": 2,
+        "sold": 20
+      }
+    ],
+    "average_rating": "4.73",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 201,
+    "title": "Consumer behavior",
+    "caption": "implications for marketing strategy",
+    "book_cover": "BusinessFinance/Finance/5-consumer-behavior.jpg",
+    "isbn": "9780471180036",
+    "author": ["Peter Lynch"],
+    "categories_title": ["Business & Finance", "Finance"],
+    "categories": ["businessFinance", "businessFinance-Finance"],
+    "total_page": "645",
+    "price": "10.00",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Business Publications"],
+        "published_date": "1983",
+        "published_year": 1983
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 16
+      }
+    ],
+    "average_rating": "4.73",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 202,
+    "title": "Journal of a weak child",
+    "caption": "Nigel blair",
+    "book_cover": "Children/KidsBooks/1-diary-of-a-wimpy-kid.jpg",
+    "isbn": "9780141358048",
+    "author": ["Carol Cox"],
+    "categories_title": ["Children's", "Kids Books"],
+    "categories": ["childrens", "childrens-kidsBooks"],
+    "total_page": "214",
+    "price": "5.39",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Travis"],
+        "published_date": "2011",
+        "published_year": 2011
+      }
+    ],
+    "stock": [
+      {
+        "available": 4,
+        "sold": 18
+      }
+    ],
+    "average_rating": "4.77",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 203,
+    "title": "The school for good and evil",
+    "caption": "",
+    "book_cover": "Children/KidsBooks/2-The-school-for-good-and-evil.jpg",
+    "isbn": "9780007492930",
+    "author": ["Soman Chainani"],
+    "categories_title": ["Children's", "Kids Books"],
+    "categories": ["childrens", "childrens-kidsBooks"],
+    "total_page": "488",
+    "price": "10.17",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Harper Collins Children's"],
+        "published_date": "2013",
+        "published_year": 2013
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 14
+      }
+    ],
+    "average_rating": "4.72",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 204,
+    "title": "The giving tree.",
+    "caption": "",
+    "book_cover": "Children/KidsBooks/3-The-giving-tree.jpg",
+    "isbn": "0207492930",
+    "author": ["Shel Silverstein"],
+    "categories_title": ["Children's", "Kids Books"],
+    "categories": ["childrens", "childrens-kidsBooks"],
+    "total_page": "57",
+    "price": "24.65",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Harper & Row"],
+        "published_date": "1964",
+        "published_year": 1964
+      }
+    ],
+    "stock": [
+      {
+        "available": 5,
+        "sold": 19
+      }
+    ],
+    "average_rating": "4.52",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 205,
+    "title": "The Gruffalo",
+    "caption": "",
+    "book_cover": "Children/KidsBooks/4-The-Gruffalo.jpg",
+    "isbn": "9780333710937",
+    "author": ["Julia Donaldson"],
+    "categories_title": ["Children's", "Kids Books"],
+    "categories": ["childrens", "childrens-kidsBooks"],
+    "total_page": "30",
+    "price": "5.97",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Macmillan Children's Books"],
+        "published_date": "1999",
+        "published_year": 1999
+      }
+    ],
+    "stock": [
+      {
+        "available": 5,
+        "sold": 9
+      }
+    ],
+    "average_rating": "4.52",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 206,
+    "title": "Dr. Seuss's ABC.",
+    "caption": "",
+    "book_cover": "Children/KidsBooks/5-Dr-Seusss-ABC..jpg",
+    "isbn": "0583324185",
+    "author": ["Dr. Seuss"],
+    "categories_title": ["Children's", "Kids Books"],
+    "categories": ["childrens", "childrens-kidsBooks"],
+    "total_page": "60",
+    "price": "9.71",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Harper Collins"],
+        "published_date": "1991",
+        "published_year": 1991
+      }
+    ],
+    "stock": [
+      {
+        "available": 7,
+        "sold": 13
+      }
+    ],
+    "average_rating": "4.62",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 207,
+    "title": "A visit from St. Nicholas.",
+    "caption": "",
+    "book_cover": "Children/StoriesInRhyme/1-A-visit-from-St-Nicholas.jpg",
+    "isbn": "0581471185",
+    "author": ["Clement Clarke Moore"],
+    "categories_title": ["Children's", "Stories in Rhyme"],
+    "categories": ["childrens", "childrens-storiesInRhyme"],
+    "total_page": "12",
+    "price": "4.71",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["L. Prang"],
+        "published_date": "1864",
+        "published_year": 1864
+      }
+    ],
+    "stock": [
+      {
+        "available": 2,
+        "sold": 3
+      }
+    ],
+    "average_rating": "4.13",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 208,
+    "title": "Revolting Rhymes",
+    "caption": "",
+    "book_cover": "Children/StoriesInRhyme/2-Revolting-Rhymes.jpg",
+    "isbn": "9780141350370",
+    "author": ["Roald Dahl"],
+    "categories_title": ["Children's", "Stories in Rhyme"],
+    "categories": ["childrens", "childrens-storiesInRhyme"],
+    "total_page": "46",
+    "price": "7.76",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Puffin"],
+        "published_date": "Aug 18, 2013",
+        "published_year": 2013
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 7
+      }
+    ],
+    "average_rating": "4.13",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 209,
+    "title": "How the Grinch stole Christmas",
+    "caption": "",
+    "book_cover": "Children/StoriesInRhyme/3-How-the-Grinch-stole-Christmas.jpg",
+    "isbn": "0394800796",
+    "author": ["Dr. Seuss"],
+    "categories_title": ["Children's", "Stories in Rhyme"],
+    "categories": ["childrens", "childrens-storiesInRhyme"],
+    "total_page": "64",
+    "price": "5.28",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Random House"],
+        "published_date": "1957",
+        "published_year": 1957
+      }
+    ],
+    "stock": [
+      {
+        "available": 3,
+        "sold": 4
+      }
+    ],
+    "average_rating": "4.13",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 210,
+    "title": "A squash and a squeeze",
+    "caption": "",
+    "book_cover": "Children/StoriesInRhyme/4-A-squash-and-a-squeeze.jpg",
+    "isbn": "0689505716",
+    "author": ["Julia Donaldson"],
+    "categories_title": ["Children's", "Stories in Rhyme"],
+    "categories": ["childrens", "childrens-storiesInRhyme"],
+    "total_page": "36",
+    "price": "11.21",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Maxwell Macmillan International"],
+        "published_date": "1993",
+        "published_year": 1993
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 8
+      }
+    ],
+    "average_rating": "4.33",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 211,
+    "title": "Fox in socks",
+    "caption": "",
+    "book_cover": "Children/StoriesInRhyme/5-Fox-in-socks.jpg",
+    "isbn": "0583324193",
+    "author": ["Dr. Seuss"],
+    "categories_title": ["Children's", "Stories in Rhyme"],
+    "categories": ["childrens", "childrens-storiesInRhyme"],
+    "total_page": "44",
+    "price": "8.20",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Random House"],
+        "published_date": "1965",
+        "published_year": 1965
+      }
+    ],
+    "stock": [
+      {
+        "available": 4,
+        "sold": 12
+      }
+    ],
+    "average_rating": "4.63",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 212,
+    "title": "Mildred and Sam (I Can Read Book 2)",
+    "caption": "",
+    "book_cover": "Children/BabyBooks/1-Mildred-and-Sam.jpg",
+    "isbn": "9780060002008",
+    "author": ["Sharleen Collicott"],
+    "categories_title": ["Children's", "Baby Books"],
+    "categories": ["childrens", "childrens-babyBooks"],
+    "total_page": "48",
+    "price": "4.97",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Harper Trophy"],
+        "published_date": "Feb 17, 2004",
+        "published_year": 2004
+      }
+    ],
+    "stock": [
+      {
+        "available": 4,
+        "sold": 15
+      }
+    ],
+    "average_rating": "4.71",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 213,
+    "title": "The developing child",
+    "caption": "",
+    "book_cover": "Children/BabyBooks/2-The-developing-child.jpg",
+    "isbn": "0060405775",
+    "author": ["Helen L. Bee"],
+    "categories_title": ["Children's", "Baby Books"],
+    "categories": ["childrens", "childrens-babyBooks"],
+    "total_page": "582",
+    "price": "6.92",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Harper & Row"],
+        "published_date": "1985",
+        "published_year": 1985
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 9
+      }
+    ],
+    "average_rating": "4.74",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 214,
+    "title": "Katie the kitten fairy",
+    "caption": "",
+    "book_cover": "Children/BabyBooks/3-Katie-the-kitten-fairy.jpg",
+    "isbn": "0060405775",
+    "author": ["Daisy Meadows"],
+    "categories_title": ["Children's", "Baby Books"],
+    "categories": ["childrens", "childrens-babyBooks"],
+    "total_page": "65",
+    "price": "4.98",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Scholastic Inc."],
+        "published_date": "2008",
+        "published_year": 2008
+      }
+    ],
+    "stock": [
+      {
+        "available": 2,
+        "sold": 18
+      }
+    ],
+    "average_rating": "4.24",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 215,
+    "title": "Is your mama a llama?",
+    "caption": "",
+    "book_cover": "Children/BabyBooks/4-Is-your-mama-a-llama.jpg",
+    "isbn": "9780590413879",
+    "author": ["Deborah Guarino"],
+    "categories_title": ["Children's", "Baby Books"],
+    "categories": ["childrens", "childrens-babyBooks"],
+    "total_page": "32",
+    "price": "13.98",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Scholastic Inc."],
+        "published_date": "1989",
+        "published_year": 1989
+      }
+    ],
+    "stock": [
+      {
+        "available": 12,
+        "sold": 11
+      }
+    ],
+    "average_rating": "4.44",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 216,
+    "title": "Berta",
+    "caption": "A Remarkable Dog",
+    "book_cover": "Children/BabyBooks/5-Berta.jpg",
+    "isbn": "9780888994615",
+    "author": ["Celia Barker Lottridge"],
+    "categories_title": ["Children's", "Baby Books"],
+    "categories": ["childrens", "childrens-babyBooks"],
+    "total_page": "104",
+    "price": "10.34",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Groundwood Books"],
+        "published_date": "Feb 8, 2002",
+        "published_year": 2002
+      }
+    ],
+    "stock": [
+      {
+        "available": 4,
+        "sold": 7
+      }
+    ],
+    "average_rating": "4.12",
     "book_review": [
       {
         "user": "name",

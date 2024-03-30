@@ -140,7 +140,7 @@ const ProductDetailsCard = ({
                   <h1 className="text-gray-800 text-3xl title-font font-medium mb-1 sm:my-4 lg:my-0 ">
                     {selectedBook.title}
                   </h1>
-                  <div className="text-gray-400 my-1">
+                  <div className="text-gray-400 my-2">
                     {selectedBook.caption}
                   </div>
                   <div className="flex mb-1 ">
