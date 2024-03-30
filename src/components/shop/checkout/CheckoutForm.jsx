@@ -2,7 +2,7 @@ import country from "../../../json/country.json";
 const CheckoutForm = () => (
   <div className="col-span-3 px-4 mx-4 text-lg">
     <div className="flex flex-col p-8 my-4 gap-8">
-      <h1 className="font-semibold uppercase  text-blumine-500">
+      <h1 className="font-semibold uppercase text-blumine-500">
         Billing Address
       </h1>
       <hr className="font-bold border-t border-t-blumine-200 -my-4" />
@@ -10,7 +10,7 @@ const CheckoutForm = () => (
         <h6 className="inline-block before:mr-2 before:border-r-4 text-blumine-600 before:border-r-blumine-200 font-bold uppercase md:justify-start">
           Contact
         </h6>
-        <hr className="flex-grow ml-2 border-b border-blumine-200 " />
+        <hr className="flex-grow ml-2 border-b border-blumine-200" />
       </div>
       <div className="md:flex gap-8 w-full">
         <input
@@ -99,7 +99,7 @@ const CheckoutForm = () => (
         </label>
       </div>
       <hr className="border-t border-t-blumine-200" />
-      <p className="text-base mx-1 -my-2 text-gray-800">Order Notes</p>
+      <p className=" mx-1 -my-2 text-gray-800">Order Notes</p>
       <textarea
         cols="20"
         rows="5"

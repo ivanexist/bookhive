@@ -96,7 +96,7 @@ const ProductDetailsCard = ({
         transition={{ duration: 0.7 }}
         className="text-blumine-700 overflow-hidden"
       >
-        <div className=" px-4 py-8 mx-auto">
+        <div className="px-4 py-8 mx-auto">
           <div className="sm:w-full lg:w-11/12 flex flex-wrap">
             {loading ? (
               <div className="lg:w-1/2 w-full object-center bg-blumine-100 flex justify-center items-center">
@@ -481,14 +481,14 @@ const ProductDetailsCard = ({
                 to={`/shop/cart/checkout/${selectedBook.book_id}`}
                 onClick={scrollToTop}
               >
-                <button className="bg-blumine-500 h-full w-full  hover:bg-blumine-600 px-8 py-2 text-white ">
+                <button className="text-sm bg-blumine-500 h-full w-full hover:bg-blumine-600 px-8 py-2 text-white ">
                   Buy now
                 </button>
               </Link>
             </div>
             <div className="col-span-4">
               {/* Add to Cart button */}
-              <button className="bg-blumine-500 h-full w-full hover:bg-blumine-600 px-6 py-2 text-white ">
+              <button className="bg-blumine-500 text-sm h-full w-full hover:bg-blumine-600 px-6 py-2 text-white ">
                 <div
                   className="flex justify-center items-center"
                   onClick={() => addToCart(selectedBook)}

@@ -9,33 +9,7 @@
         "id": "1-1",
         "title": "Architecture",
         "value": "arts-architecture",
-        "key": "arts-architecture",
-        "children": [
-          {
-            "id": "1-1-1",
-            "title": "Building",
-            "value": "arts-architecture-building",
-            "key": "arts-architecture-building"
-          },
-          {
-            "id": "1-1-2",
-            "title": "Housing",
-            "value": "arts-architecture-housing",
-            "key": "arts-architecture-housing"
-          },
-          {
-            "id": "1-1-3",
-            "title": "Residential",
-            "value": "arts-architecture-residential",
-            "key": "arts-architecture-residential"
-          },
-          {
-            "id": "1-1-4",
-            "title": "Construction",
-            "value": "arts-architecture-construction",
-            "key": "arts-architecture-construction"
-          }
-        ]
+        "key": "arts-architecture"
       },
       {
         "id": "1-2",
@@ -53,109 +27,19 @@
         "id": "1-4",
         "title": "Dance",
         "value": "arts-dance",
-        "key": "arts-dance",
-        "children": [
-          {
-            "id": "1-4-1",
-            "title": "Ballet",
-            "value": "arts-dance-ballet",
-            "key": "arts-dance-ballet"
-          },
-          {
-            "id": "1-4-2",
-            "title": "Coreography",
-            "value": "arts-dance-coreography",
-            "key": "arts-dance-coreography"
-          }
-        ]
+        "key": "arts-dance"
       },
       {
         "id": "1-5",
         "title": "Design",
         "value": "arts-design",
-        "key": "arts-design",
-        "children": [
-          {
-            "id": "1-5-1",
-            "title": "Pattern Design",
-            "value": "arts-design-patternDesign",
-            "key": "arts-design-patternDesign"
-          },
-          {
-            "id": "1-5-2",
-            "title": "Creative Thinking",
-            "value": "arts-design-creativeThinking",
-            "key": "arts-design-creativeThinking"
-          },
-          {
-            "id": "1-5-3",
-            "title": "Storytelling",
-            "value": "arts-design-storytelling",
-            "key": "arts-design-storytelling"
-          },
-          {
-            "id": "1-5-4",
-            "title": "Color",
-            "value": "arts-design-color",
-            "key": "arts-design-color"
-          },
-          {
-            "id": "1-5-5",
-            "title": "Logography",
-            "value": "arts-design-logography",
-            "key": "arts-design-logography"
-          },
-          {
-            "id": "1-5-6",
-            "title": "Typography",
-            "value": "arts-design-typography",
-            "key": "arts-design-typography"
-          },
-          {
-            "id": "1-5-7",
-            "title": "Trademark",
-            "value": "arts-design-trademark",
-            "key": "arts-design-trademark"
-          }
-        ]
+        "key": "arts-design"
       },
       {
         "id": "1-6",
         "title": "Fashion",
         "value": "arts-fashion",
-        "key": "arts-fashion",
-        "children": [
-          {
-            "id": "1-6-1",
-            "title": "Costume",
-            "value": "arts-fashion-costume",
-            "key": "arts-fashion-costume"
-          },
-          {
-            "id": "1-6-2",
-            "title": "Mode",
-            "value": "arts-fashion-mode",
-            "key": "arts-fashion-mode"
-          },
-          {
-            "id": "1-6-3",
-            "title": "Fashion Design",
-            "value": "arts-fashion-fashionDesign",
-            "key": "arts-fashion-fashionDesign"
-          },
-          {
-            "id": "1-6-4",
-            "title": "Costume Design",
-            "value": "arts-fashion-costumeDesign",
-            "key": "arts-fashion-costumeDesign"
-          },
-          {
-            "id": "1-6-5",
-            "title": "Tailoring",
-            "value": "arts-fashion-tailoring",
-            "key": "arts-fashion-tailoring"
-          }
-        ]
+        "key": "arts-fashion"
       },
       {
         "id": "1-7",
@@ -185,95 +69,13 @@
         "id": "1-11",
         "title": "Painting",
         "value": "arts-painting",
-        "key": "arts-painting",
-        "children": [
-          {
-            "id": "1-11-1",
-            "title": "Etching",
-            "value": "arts-painting-etching",
-            "key": "arts-painting-etching"
-          }
-        ]
+        "key": "arts-painting"
       },
       {
         "id": "1-12",
         "title": "Photography",
         "value": "arts-photography",
-        "key": "arts-photography",
-        "children": [
-          {
-            "id": "1-12",
-            "title": "Potraits",
-            "value": "arts-photography-potraits",
-            "key": "arts-photography-potraits"
-          }
-        ]
-      },
-      {
-        "id": "1-13",
-        "title": "Poetry",
-        "value": "arts-poetry",
-        "key": "arts-poetry"
-      },
-      {
-        "id": "1-14",
-        "title": "Opera",
-        "value": "arts-opera",
-        "key": "arts-opera"
-      },
-      {
-        "id": "1-15",
-        "title": "Drama",
-        "value": "arts-drama",
-        "key": "arts-drama"
-      },
-      {
-        "id": "1-16",
-        "title": "",
-        "value": "",
-        "key": ""
-      },
-      {
-        "id": "1-17",
-        "title": "Commercial Art",
-        "value": "arts-commercialArt",
-        "key": "arts-commercialArt"
-      },
-      {
-        "id": "1-18",
-        "title": "Illustration",
-        "value": "arts-illustration",
-        "key": "arts-illustration"
-      },
-      {
-        "id": "1-18",
-        "title": "Theatre",
-        "value": "arts-theatre",
-        "key": "arts-theatre"
-      },
-      {
-        "id": "1-19",
-        "title": "Handicraft",
-        "value": "arts-handicraft",
-        "key": "arts-handicraft"
-      },
-      {
-        "id": "1-20",
-        "title": "Art Collection",
-        "value": "arts-artCollection",
-        "key": "arts-artCollection"
-      },
-      {
-        "id": "1-21",
-        "title": "Aesthetics",
-        "value": "arts-Aesthetics",
-        "key": "arts-Aesthetics"
-      },
-      {
-        "id": "1-22",
-        "title": "Pottery",
-        "value": "arts-pottery",
-        "key": "arts-pottery"
+        "key": "arts-photography"
       }
     ]
   },
@@ -419,7 +221,7 @@
       },
       {
         "id": "3-17",
-        "title": "love",
+        "title": "Love",
         "value": "fiction-love",
         "key": "fiction-love"
       },
@@ -431,7 +233,7 @@
       },
       {
         "id": "3-17",
-        "title": "tragedy",
+        "title": "Tragedy",
         "value": "fiction-tragedy",
         "key": "fiction-tragedy"
       },
@@ -516,26 +318,6 @@
         "title": "Finance",
         "value": "businessFinance-finance",
         "key": "businessFinance-finance"
-      },
-      {
-        "id": "5-6",
-        "title": "Marketing",
-        "value": "businessFinance-marketing",
-        "key": "businessFinance-marketing",
-        "children": [
-          {
-            "id": "5-6-1",
-            "title": "Advertising",
-            "value": "businessFinance-marketing-advertising",
-            "key": "businessFinance-marketing-advertising"
-          }
-        ]
-      },
-      {
-        "id": "5-7",
-        "title": "Business People",
-        "value": "businessFinance-businessPeople",
-        "key": "businessFinance-businessPeople"
       }
     ]
   },
@@ -577,447 +359,48 @@
       }
     ]
   },
+
   {
     "id": "7",
-    "title": "History",
-    "value": "history",
-    "key": "history",
-    "children": [
-      {
-        "id": "7-1",
-        "title": "Ancient Civilization",
-        "value": "history-ancientCivilization",
-        "key": "history-ancientCivilization"
-      },
-      {
-        "id": "7-2",
-        "title": "Archaeology",
-        "value": "history-archaeology",
-        "key": "history-archaeology"
-      },
-      {
-        "id": "7-3",
-        "title": "Anthropology",
-        "value": "history-anthropology",
-        "key": "history-anthropology"
-      },
-      {
-        "id": "7-4",
-        "title": "World War II",
-        "value": "history-worldWarII",
-        "key": "history-worldWarII"
-      },
-      {
-        "id": "7-5",
-        "title": "Social Life and Customs",
-        "value": "history-socialLifeAndCustoms",
-        "key": "history-socialLifeAndCustoms"
-      }
-    ]
-  },
-  {
-    "id": "8",
     "title": "Health & Wellness",
     "value": "healthWellness",
     "key": "healthWellness",
     "children": [
       {
-        "id": "8-1",
+        "id": "7-1",
         "title": "Cooking",
         "value": "healthWellness-cooking",
         "key": "healthWellness-cooking"
       },
       {
-        "id": "8-2",
+        "id": "7-2",
         "title": "Cookbooks",
         "value": "healthWellness-cookbooks",
         "key": "healthWellness-cookbooks"
       },
       {
-        "id": "8-3",
+        "id": "7-3",
         "title": "Mental Health",
         "value": "healthWellness-mentalHealth",
         "key": "healthWellness-mentalHealth"
       },
       {
-        "id": "8-4",
+        "id": "7-4",
         "title": "Exercise",
         "value": "healthWellness-exercise",
         "key": "healthWellness-exercise"
       },
       {
-        "id": "8-5",
+        "id": "7-5",
         "title": "Nutrition",
         "value": "healthWellness-nutrition",
         "key": "healthWellness-nutrition"
       },
       {
-        "id": "8-6",
+        "id": "7-6",
         "title": "Self-help",
         "value": "healthWellness-selfhelp",
         "key": "healthWellness-selfhelp"
-      }
-    ]
-  },
-  {
-    "id": "9",
-    "title": "Biography",
-    "value": "biography",
-    "key": "biography",
-    "children": [
-      {
-        "id": "9-1",
-        "title": "Autobiographies",
-        "value": "biography-autobiographies",
-        "key": "biography-autobiographies"
-      },
-      {
-        "id": "9-2",
-        "title": "History",
-        "value": "biography-history",
-        "key": "biography-history"
-      },
-      {
-        "id": "9-3",
-        "title": "Politics and Government",
-        "value": "biography-politicsAndGovernment",
-        "key": "biography-politicsAndGovernment"
-      },
-      {
-        "id": "9-4",
-        "title": "World War II",
-        "value": "biography-worldWarII",
-        "key": "biography-worldWarII"
-      },
-      {
-        "id": "9-5",
-        "title": "Women",
-        "value": "biography-women",
-        "key": "biography-women"
-      },
-      {
-        "id": "9-6",
-        "title": "Kings and Rulers",
-        "value": "biography-kingsAndRulers",
-        "key": "biography-kingsAndRulers"
-      },
-      {
-        "id": "9-7",
-        "title": "Composers",
-        "value": "biography-composers",
-        "key": "biography-composers"
-      },
-      {
-        "id": "9-8",
-        "title": "Artist",
-        "value": "biography-artist",
-        "key": "biography-artist"
-      }
-    ]
-  },
-  {
-    "id": "10",
-    "title": "Social Sciences",
-    "value": "socialSciences",
-    "key": "socialSciences",
-    "children": [
-      {
-        "id": "10-1",
-        "title": "Anthropology",
-        "value": "socialSciences-anthropology",
-        "key": "socialSciences-anthropology"
-      },
-      {
-        "id": "10-2",
-        "title": "Religion",
-        "value": "socialSciences-religion",
-        "key": "socialSciences-religion"
-      },
-      {
-        "id": "10-3",
-        "title": "Political Science",
-        "value": "socialSciences-politicalScience",
-        "key": "socialSciences-politicalScience"
-      },
-      {
-        "id": "10-4",
-        "title": "Psychology",
-        "value": "socialSciences-psychology",
-        "key": "socialSciences-psychology"
-      },
-      {
-        "id": "10-5",
-        "title": "Social Aspects",
-        "value": "socialSciences-socialAspects",
-        "key": "socialSciences-socialAspects"
-      }
-    ]
-  },
-  {
-    "id": "11",
-    "title": "Textbooks",
-    "value": "textbooks",
-    "key": "textbooks",
-    "children": [
-      {
-        "id": "11-1",
-        "title": "History",
-        "value": "textbooks-history",
-        "key": "textbooks-history"
-      },
-      {
-        "id": "11-2",
-        "title": "Mathematics",
-        "value": "textbooks-mathematics",
-        "key": "textbooks-mathematics"
-      },
-      {
-        "id": "11-3",
-        "title": "Geography",
-        "value": "textbooks-geography",
-        "key": "textbooks-geography"
-      },
-      {
-        "id": "11-4",
-        "title": "Psychology",
-        "value": "textbooks-psychology",
-        "key": "textbooks-psychology"
-      },
-      {
-        "id": "11-5",
-        "title": "Algebra",
-        "value": "textbooks-algebra",
-        "key": "textbooks-algebra"
-      },
-      {
-        "id": "11-6",
-        "title": "Education",
-        "value": "textbooks-education",
-        "key": "textbooks-education"
-      },
-      {
-        "id": "11-7",
-        "title": "Business & Economics",
-        "value": "textbooks-businessEconomics",
-        "key": "textbooks-businessEconomics"
-      },
-      {
-        "id": "11-8",
-        "title": "Science",
-        "value": "textbooks-science",
-        "key": "textbooks-science"
-      },
-      {
-        "id": "11-9",
-        "title": "Chemistry",
-        "value": "textbooks-chemistry",
-        "key": "textbooks-chemistry"
-      },
-      {
-        "id": "11-10",
-        "title": "English Language",
-        "value": "textbooks-englishLanguage",
-        "key": "textbooks-englishLanguage"
-      },
-      {
-        "id": "11-11",
-        "title": "Physics",
-        "value": "textbooks-physics",
-        "key": "textbooks-physics"
-      },
-      {
-        "id": "11-12",
-        "title": "Computer Science",
-        "value": "textbooks-computerScience",
-        "key": "textbooks-computerScience"
-      }
-    ]
-  },
-  {
-    "id": "",
-    "title": "Entertainment",
-    "value": "entertainment",
-    "key": "entertainment",
-    "children": [
-      {
-        "id": "",
-        "title": "Film",
-        "value": "entertainment-film",
-        "key": "entertainment-film"
-      },
-      {
-        "id": "",
-        "title": "Celebrities",
-        "value": "entertainment-celebrities",
-        "key": "entertainment-celebrities"
-      }
-    ]
-  },
-  {
-    "id": "",
-    "title": "Country",
-    "value": "country",
-    "key": "country",
-    "children": [
-      {
-        "id": "",
-        "title": "Japan",
-        "value": "country-japan",
-        "key": "country-japan"
-      }
-    ]
-  },
-  {
-    "id": "",
-    "title": "Education",
-    "value": "education",
-    "key": "education",
-    "children": [
-      {
-        "id": "",
-        "title": "Students",
-        "value": "education-students",
-        "key": "education-students"
-      },
-      {
-        "id": "",
-        "title": "University",
-        "value": "education-university",
-        "key": "education-university"
-      }
-    ]
-  },
-  {
-    "id": "12",
-    "title": "Others",
-    "value": "others",
-    "key": "others",
-    "children": [
-      {
-        "id": "12-1",
-        "title": "Friendship",
-        "value": "others-friendship",
-        "key": "others-friendship"
-      },
-      {
-        "id": "12-2",
-        "title": "Toy",
-        "value": "others-toy",
-        "key": "others-toy"
-      },
-      {
-        "id": "12-3",
-        "title": "Doll",
-        "value": "others-doll",
-        "key": "others-doll"
-      },
-      {
-        "id": "12-4",
-        "title": "Technique",
-        "value": "others-technique",
-        "key": "others-technique"
-      },
-      {
-        "id": "12-5",
-        "title": "Philosophy",
-        "value": "others-philosophy",
-        "key": "others-philosophy"
-      },
-      {
-        "id": "12-6",
-        "title": "Reference",
-        "value": "others-reference",
-        "key": "others-reference"
-      },
-      {
-        "id": "12-7",
-        "title": "Travel",
-        "value": "others-travel",
-        "key": "others-travel"
-      },
-      {
-        "id": "12-8",
-        "title": "Guide",
-        "value": "others-guide",
-        "key": "others-guide"
-      },
-      {
-        "id": "12-9",
-        "title": "Exhibitions",
-        "value": "others-exhibitions",
-        "key": "others-exhibitions"
-      },
-      {
-        "id": "12-10",
-        "title": "Prints",
-        "value": "others-prints",
-        "key": "others-prints"
-      },
-      {
-        "id": "12-11",
-        "title": "Marriage",
-        "value": "others-marriage",
-        "key": "others-marriage"
-      },
-      {
-        "id": "12-12",
-        "title": "Family",
-        "value": "others-family",
-        "key": "others-family"
-      },
-      {
-        "id": "12-13",
-        "title": "Catalog",
-        "value": "others-catalog",
-        "key": "others-catalog"
-      },
-      {
-        "id": "12-14",
-        "title": "General",
-        "value": "others-general",
-        "key": "others-general"
-      },
-      {
-        "id": "12-15",
-        "title": "Family",
-        "value": "others-family",
-        "key": "others-family"
-      },
-      {
-        "id": "12-16",
-        "title": "Patterns",
-        "value": "others-patterns",
-        "key": "others-patterns"
-      },
-      {
-        "id": "12-17",
-        "title": "Readers",
-        "value": "others-readers",
-        "key": "others-readers"
-      },
-      {
-        "id": "12-18",
-        "title": "Legends",
-        "value": "others-legends",
-        "key": "others-legends"
-      },
-      {
-        "id": "12-19",
-        "title": "Agriculture",
-        "value": "others-agriculture",
-        "key": "others-agriculture"
-      },
-      {
-        "id": "12-20",
-        "title": "Secrets",
-        "value": "others-secrets",
-        "key": "others-secrets"
-      },
-      {
-        "id": "12-21",
-        "title": "Plays",
-        "value": "others-plays",
-        "key": "others-plays"
       }
     ]
   }

@@ -6,13 +6,8 @@
     "book_cover": "Arts/Architecture/1-notre-dame-cathedral.jpg",
     "isbn": "9780271086224",
     "author": ["Dany Sandron", "Andrew Tallon", "Lindsay Cook"],
-    "categories_title": ["Arts", "Architecture", "Buildings", "History"],
-    "categories": [
-      "arts",
-      "arts-architecture",
-      "arts-architecture-building",
-      "history"
-    ],
+    "categories_title": ["Arts", "Architecture"],
+    "categories": ["arts", "arts-architecture"],
     "total_page": "192",
     "price": 19.94,
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -45,13 +40,8 @@
     "book_cover": "Arts/Architecture/2-a-little-bit-of-beijing.jpg",
     "isbn": "9787560873398",
     "author": ["Li Han", " Hu Yan"],
-    "categories_title": ["Arts", "Architecture", "Buildings", "History"],
-    "categories": [
-      "arts",
-      "arts-architecture",
-      "arts-architecture-building",
-      "history"
-    ],
+    "categories_title": ["Arts", "Architecture"],
+    "categories": ["arts", "arts-architecture"],
     "total_page": "140",
     "price": "19.95",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -84,20 +74,8 @@
     "book_cover": "Arts/Architecture/3-the-architecture-of-paris.jpg",
     "isbn": "9783930698967",
     "author": ["Andrew Ayers"],
-    "categories_title": [
-      "Arts",
-      "Architecture",
-      "Building",
-      "Guide",
-      "Construction"
-    ],
-    "categories": [
-      "arts",
-      "arts-architecture",
-      "arts-architecture-building",
-      "others-guide",
-      "arts-architecture-construction"
-    ],
+    "categories_title": ["Arts", "Architecture"],
+    "categories": ["arts", "arts-architecture"],
     "total_page": "415",
     "price": "23.95",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -130,20 +108,8 @@
     "book_cover": "Arts/Architecture/4-gaudi.jpg",
     "isbn": "9783822821718",
     "author": ["Rainer Zerbst"],
-    "categories_title": [
-      "Arts",
-      "Architecture",
-      "Buildings",
-      "History",
-      "Biography"
-    ],
-    "categories": [
-      "arts",
-      "arts-architecture",
-      "arts-architecture-building",
-      "history",
-      "biography"
-    ],
+    "categories_title": ["Arts", "Architecture"],
+    "categories": ["arts", "arts-architecture"],
     "total_page": "239",
     "price": "9.74",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -176,22 +142,8 @@
     "book_cover": "Arts/Architecture/5-housing-architecture-and-the-edge-condition.jpg",
     "isbn": "9781138103801",
     "author": ["Ellen Rowley"],
-    "categories_title": [
-      "Arts",
-      "Architecture",
-      "Building",
-      "History",
-      "Housing",
-      "Residential"
-    ],
-    "categories": [
-      "arts",
-      "arts-architecture",
-      "arts-architecture-building",
-      "history",
-      "arts-architecture-housing",
-      "arts-architecture-residential"
-    ],
+    "categories_title": ["Arts", "Architecture"],
+    "categories": ["arts", "arts-architecture"],
     "total_page": "310",
     "price": "50.71",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -224,8 +176,8 @@
     "book_cover": "Arts/ArtInstruction/1-differentiating-instruction-with-menus.jpg",
     "isbn": "9781593632267",
     "author": ["Laurie E. Westphal"],
-    "categories_title": ["Arts", "Art Instruction", "Education", "History"],
-    "categories": ["arts", "arts-artInstruction", "education", "history"],
+    "categories_title": ["Arts", "Art Instruction"],
+    "categories": ["arts", "arts-artInstruction"],
     "total_page": "125",
     "price": "5.46",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -258,28 +210,8 @@
     "book_cover": "Arts/ArtInstruction/2-andy-warhol.jpg",
     "isbn": "9780791023099",
     "author": ["Andy Warhol"],
-    "categories_title": [
-      "Arts",
-      "Art Instruction",
-      "Travel",
-      "Films",
-      "Exhibitions",
-      "Celebrities",
-      "Biography",
-      "Photography",
-      "Painting"
-    ],
-    "categories": [
-      "arts",
-      "arts-artInstruction",
-      "others-travel",
-      "entertainment-film",
-      "others-exhibitions",
-      "entertainment-celebrities",
-      "biography",
-      "arts-photography",
-      "arts-painting"
-    ],
+    "categories_title": ["Arts", "Art Instruction"],
+    "categories": ["arts", "arts-artInstruction"],
     "total_page": "141",
     "price": "39.26",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -349,20 +281,8 @@
     "book_cover": "Arts/ArtInstruction/4-logo-lab.jpg",
     "isbn": "9780814132142",
     "author": ["Christopher Simmons", "Mine"],
-    "categories_title": [
-      "Arts",
-      "Art Instruction",
-      "Design",
-      "Logography",
-      "Commercial Art"
-    ],
-    "categories": [
-      "arts",
-      "arts-artInstruction",
-      "arts-design",
-      "arts-design-logography",
-      "arts-commercialArt"
-    ],
+    "categories_title": ["Arts", "Art Instruction"],
+    "categories": ["arts", "arts-artInstruction"],
     "total_page": "143",
     "price": "60.35",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -395,18 +315,8 @@
     "book_cover": "Arts/ArtInstruction/5-thinking-with-things.jpg",
     "isbn": "9780292765979",
     "author": ["Esther Pasztory"],
-    "categories_title": [
-      "Arts",
-      "Art Instruction",
-      "Philosophy",
-      "Social aspects"
-    ],
-    "categories": [
-      "arts",
-      "arts-rtInstruction",
-      "others-philosophy",
-      "socialSciences-socialAspects"
-    ],
+    "categories_title": ["Arts", "Art Instruction"],
+    "categories": ["arts", "arts-artInstruction"],
     "total_page": "264",
     "price": "8.69",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -439,26 +349,8 @@
     "book_cover": "Arts/ArtHistory/1-picasso.jpg",
     "isbn": "9782825800027",
     "author": ["Pablo Picasso"],
-    "categories_title": [
-      "Arts",
-      "Art History",
-      "Art Collection",
-      "History",
-      "Painting",
-      "Philosophy",
-      "Painting",
-      "Exhibitions"
-    ],
-    "categories": [
-      "Arts",
-      "Art History",
-      "arts-artCollection",
-      "history",
-      "arts-painting",
-      "others-philosophy",
-      "arts-painting",
-      "others-exhibitions"
-    ],
+    "categories_title": ["Arts", "Art History"],
+    "categories": ["Arts", "Art History"],
     "total_page": "80",
     "price": "5.99",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -500,22 +392,8 @@
       "Christine Karallus",
       "Elisabeth Strowick"
     ],
-    "categories_title": [
-      "Arts",
-      "Art History",
-      "Exhibitions",
-      "Photography",
-      "Biography",
-      "Autobiography"
-    ],
-    "categories": [
-      "arts",
-      "arts-artHistory",
-      "others-exhibitions",
-      "arts-photography",
-      "biography",
-      "biography-autobiography"
-    ],
+    "categories_title": ["Arts", "Art History"],
+    "categories": ["arts", "arts-artHistory"],
     "total_page": "443",
     "price": "142.99",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -555,8 +433,8 @@
       "Suzanne Preston Blier",
       "Monica Blackmun Visona"
     ],
-    "categories_title": ["Arts", "Art History", "Art Instruction"],
-    "categories": ["arts", "arts-artHistory", "arts-artInstruction"],
+    "categories_title": ["Arts", "Art History"],
+    "categories": ["arts", "arts-artHistory"],
     "total_page": "544",
     "price": "27.59",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -595,8 +473,8 @@
       "Soetsu Yanagi",
       "Bernard Leach"
     ],
-    "categories_title": ["Arts", "Art History", "Design", "Handicraft"],
-    "categories": ["arts", "arts-artHistory", "arts-design", "arts-handicraft"],
+    "categories_title": ["Arts", "Art History"],
+    "categories": ["arts", "arts-artHistory"],
     "total_page": "230",
     "price": "48.98",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -629,24 +507,8 @@
     "book_cover": "Arts/ArtHistory/5-historical-fashion-in-detail.jpg",
     "isbn": "9780810966086",
     "author": ["Avril Hart", "Susan North", "Richard Davis"],
-    "categories_title": [
-      "Arts",
-      "Art History",
-      "History",
-      "Catalog",
-      "Fashion",
-      "Costume",
-      "Photography"
-    ],
-    "categories": [
-      "arts",
-      "arts-artHistory",
-      "history",
-      "others-catalog",
-      "arts-fashion",
-      "arts-fashion-costume",
-      "arts-photography"
-    ],
+    "categories_title": ["Arts", "Art History"],
+    "categories": ["arts", "arts-artHistory"],
     "total_page": "223",
     "price": "39.52",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -679,8 +541,8 @@
     "book_cover": "Arts/Dance/1-coreography.jpg",
     "isbn": "9780367896164",
     "author": ["Jenny Roche", "Stephanie Burridge"],
-    "categories_title": ["Arts", "Dance", "History", "Coreography"],
-    "categories": ["Arts", "Dance", "History", "arts-dance-coreography"],
+    "categories_title": ["Arts", "Dance"],
+    "categories": ["Arts", "Dance"],
     "total_page": "220",
     "price": "19.96",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -713,8 +575,8 @@
     "book_cover": "Arts/Dance/2-the-third-wheel.jpg",
     "isbn": "9780141345741",
     "author": ["Jeff Kinney"],
-    "categories_title": ["Arts", "Dance", "Families", "Fiction"],
-    "categories": ["arts", "arts-dance", "others-family", "fiction"],
+    "categories_title": ["Arts", "Dance"],
+    "categories": ["arts", "arts-dance"],
     "total_page": "217",
     "price": "7.99",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -752,8 +614,8 @@
     "book_cover": "Arts/Dance/3-ballet-shoes.jpg",
     "isbn": "9780440415084",
     "author": ["Noel Streatfeild"],
-    "categories_title": ["Arts", "Dance", "Ballet", "Fiction"],
-    "categories": ["arts", "arts-dance", "arts-dance-ballet", "fiction"],
+    "categories_title": ["Arts", "Dance"],
+    "categories": ["arts", "arts-dance"],
     "total_page": "217",
     "price": "7.99",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -786,8 +648,8 @@
     "book_cover": "Arts/Dance/4-a-dictionary-of-ballet-terms.jpg",
     "isbn": "9780306800948",
     "author": ["Leo Kersley"],
-    "categories_title": ["Arts", "Arts dance", "Ballet"],
-    "categories": ["arts", "arts-dance", "arts-dance-ballet"],
+    "categories_title": ["Arts", "Arts dance"],
+    "categories": ["arts", "arts-dance"],
     "total_page": "112",
     "price": "17.61",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -820,8 +682,8 @@
     "book_cover": "Arts/Dance/5-boys-dance.jpg",
     "isbn": "9780593181140",
     "author": ["John Robert Allman", "Luciano Lozano"],
-    "categories_title": ["Arts", "Dance", "Ballet", "Fiction"],
-    "categories": ["arts", "arts-dance", "arts-dance-ballet", "fiction"],
+    "categories_title": ["Arts", "Dance"],
+    "categories": ["arts", "arts-dance"],
     "total_page": "40",
     "price": "9.95",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -857,8 +719,8 @@
     "book_cover": "Arts/Design/1-design-through-discovery.jpg",
     "isbn": "9780030621482",
     "author": ["Marjorie Elliott Bevlin"],
-    "categories_title": ["Arts", "Design", "Technique"],
-    "categories": ["arts", "arts-design", "others-technique"],
+    "categories_title": ["Arts", "Design"],
+    "categories": ["arts", "arts-design"],
     "total_page": "382",
     "price": "8.96",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -891,8 +753,8 @@
     "book_cover": "Arts/Design/2-the-art-of-color-and-design.jpg",
     "isbn": "9780070241190",
     "author": ["Maitland E. Graves"],
-    "categories_title": ["Arts", "Design", "Color"],
-    "categories": ["arts", "arts-design", "arts-design-color"],
+    "categories_title": ["Arts", "Design"],
+    "categories": ["arts", "arts-design"],
     "total_page": "439",
     "price": "69.03",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -927,20 +789,8 @@
     "book_cover": "Arts/Design/3-designing-brand-identity.jpg",
     "isbn": "9781118980828",
     "author": ["Alina Wheeler"],
-    "categories_title": [
-      "Arts",
-      "Design",
-      "Advertising",
-      "Trademark",
-      "Marketing"
-    ],
-    "categories": [
-      "arts",
-      "arts-design",
-      "businessFinance-marketing-advertising",
-      "arts-design-trademark",
-      "businessFinance-marketing"
-    ],
+    "categories_title": ["Arts", "Design"],
+    "categories": ["arts", "arts-design"],
     "total_page": "324",
     "price": "19.15",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -973,13 +823,8 @@
     "book_cover": "Arts/Design/4-design-is-storytelling.jpg",
     "isbn": "9781942303190",
     "author": ["Ellen Lupton"],
-    "categories_title": ["Arts", "Design", "Creative thinking", "Storytelling"],
-    "categories": [
-      "arts",
-      "arts-design",
-      "arts-design-creativeThinking",
-      "arts-design-storytelling"
-    ],
+    "categories_title": ["Arts", "Design"],
+    "categories": ["arts", "arts-design"],
     "total_page": "159",
     "price": "9.90",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1012,20 +857,8 @@
     "book_cover": "Arts/Design/5-typographic-design.jpg",
     "isbn": "9780471383413",
     "author": ["Rob Carter", "Ben Day", "Philip B. Meggs"],
-    "categories_title": [
-      "Arts",
-      "Design",
-      "Typography",
-      "Prints",
-      "Graphic Design"
-    ],
-    "categories": [
-      "arts",
-      "arts-design",
-      "arts-design-typography",
-      "others-prints",
-      "arts-graphicDesign"
-    ],
+    "categories_title": ["Arts", "Design"],
+    "categories": ["arts", "arts-design"],
     "total_page": "262",
     "price": "6.04",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1058,24 +891,8 @@
     "book_cover": "Arts/Fashion/1-pattern-of-fashion.jpg",
     "isbn": "0896760839",
     "author": ["Janet Arnold"],
-    "categories_title": [
-      "Arts",
-      "Fashion",
-      "History",
-      "arts-fashion-tailoring",
-      "Pattern Design",
-      "Pattern",
-      "Costume"
-    ],
-    "categories": [
-      "arts",
-      "arts-fashion",
-      "history",
-      "arts-fashion-tailoring",
-      "arts-design-patternDesign",
-      "others-patterns",
-      "arts-fashion-costume"
-    ],
+    "categories_title": ["Arts", "Fashion"],
+    "categories": ["arts", "arts-fashion"],
     "total_page": "128",
     "price": "84.41",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1108,28 +925,8 @@
     "book_cover": "Arts/Fashion/2-gaudy-night.jpg",
     "isbn": "0380012073",
     "author": ["Dorothy L. Sayers"],
-    "categories_title": [
-      "Arts",
-      "Fashion",
-      "Fiction",
-      "Mode",
-      "Students",
-      "Patterns",
-      "Family",
-      "University",
-      "Marriage"
-    ],
-    "categories": [
-      "arts",
-      "arts-fashion",
-      "fiction",
-      "arts-fashion-mode",
-      "education-students",
-      "others-patterns",
-      "others-family",
-      "education-university",
-      "others-marriage"
-    ],
+    "categories_title": ["Arts", "Fashion"],
+    "categories": ["arts", "arts-fashion"],
     "total_page": "383",
     "price": "6.13",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1162,13 +959,8 @@
     "book_cover": "Arts/Fashion/3-the-languages-of-clothes.jpg",
     "isbn": "0394513029",
     "author": ["Alison Lurie"],
-    "categories_title": ["Arts", "Fashion", "Psychology", "Social Aspects"],
-    "categories": [
-      "arts",
-      "arts-fashion",
-      "socialSciences-psychology",
-      "socialSciences-socialAspects"
-    ],
+    "categories_title": ["Arts", "Fashion"],
+    "categories": ["arts", "arts-fashion"],
     "total_page": "272",
     "price": "9.36",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1201,20 +993,8 @@
     "book_cover": "Arts/Fashion/4-art-and-fashion-in-clothing-selection.jpg",
     "isbn": "0813801508",
     "author": ["Harriet Tilden McJimsey"],
-    "categories_title": [
-      "Arts",
-      "Fashion",
-      "Fashion Design",
-      "Mode",
-      "Costume Design"
-    ],
-    "categories": [
-      "arts",
-      "arts-fashion",
-      "arts-fashion-fashionDesign",
-      "arts-fashion-mode",
-      "arts-fashion-costumeDesign"
-    ],
+    "categories_title": ["Arts", "Fashion"],
+    "categories": ["arts", "arts-fashion"],
     "total_page": "284",
     "price": "99.99",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1247,20 +1027,8 @@
     "book_cover": "Arts/Fashion/5-fashion-as-communication.jpg",
     "isbn": "0415111579",
     "author": ["Malcolm Barnard"],
-    "categories_title": [
-      "Arts",
-      "Fashion",
-      "Social aspects",
-      "Costume",
-      "Mode"
-    ],
-    "categories": [
-      "arts",
-      "arts-fashion",
-      "others-socialAspects",
-      "arts-fashion-costume",
-      "arts-fashion-mode"
-    ],
+    "categories_title": ["Arts", "Fashion"],
+    "categories": ["arts", "arts-fashion"],
     "total_page": "186",
     "price": "10.67",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1293,22 +1061,8 @@
     "book_cover": "Arts/Film/1-king-lear.jpg",
     "isbn": "8449415373",
     "author": ["William Shakespeare"],
-    "categories_title": [
-      "Arts",
-      "Film",
-      "Drama",
-      "Tragedy",
-      "Fiction",
-      "Theatre"
-    ],
-    "categories": [
-      "arts",
-      "arts-film",
-      "arts-drama",
-      "fiction-tragedy",
-      "fiction",
-      "arts-theatre"
-    ],
+    "categories_title": ["Arts", "Film"],
+    "categories": ["arts", "arts-film"],
     "total_page": "88",
     "price": "11.67",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1341,14 +1095,8 @@
     "book_cover": "Arts/Film/2-lorraine-hansberry.jpg",
     "isbn": "0573614636",
     "author": ["Lorraine Hansberry"],
-    "categories_title": ["Arts", "Film", "Drama", "History", "Social Science"],
-    "categories": [
-      "arts",
-      "arts-film",
-      "arts-drama",
-      "history",
-      "socialSciences"
-    ],
+    "categories_title": ["Arts", "Film"],
+    "categories": ["arts", "arts-film"],
     "total_page": "160",
     "price": "5.34",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1381,26 +1129,8 @@
     "book_cover": "Arts/Film/3-king-richard-ii.jpg",
     "isbn": "0573614636",
     "author": ["William Shakespeare"],
-    "categories_title": [
-      "Arts",
-      "Film",
-      "Drama",
-      "History",
-      "Fiction",
-      "Theatre",
-      "Literature",
-      "Plays"
-    ],
-    "categories": [
-      "arts",
-      "arts-film",
-      "arts-drama",
-      "history",
-      "fiction",
-      "arts-theatre",
-      "fiction-literature",
-      "others-plays"
-    ],
+    "categories_title": ["Arts", "Film"],
+    "categories": ["arts", "arts-film"],
     "total_page": "89",
     "price": "9.24",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1441,22 +1171,8 @@
     "book_cover": "Arts/Film/4-fifty-shades-freed.jpg",
     "isbn": "9780099579946",
     "author": ["E. L. James", "James Foley"],
-    "categories_title": [
-      "Arts",
-      "Film",
-      "Adult",
-      "Business People",
-      "Fiction",
-      "Romance"
-    ],
-    "categories": [
-      "arts",
-      "arts-film",
-      "fiction-adult",
-      "businessFinance-businessPeople",
-      "fiction",
-      "fiction-romance"
-    ],
+    "categories_title": ["Arts", "Film"],
+    "categories": ["arts", "arts-film"],
     "total_page": "592",
     "price": "4.94",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1489,24 +1205,8 @@
     "book_cover": "Arts/Film/5-everything-leads-to-you.jpg",
     "isbn": "9780099579946",
     "author": ["Nina LaCour"],
-    "categories_title": [
-      "Arts",
-      "Film",
-      "Families",
-      "Secrets",
-      "Fiction",
-      "Romance",
-      "Love"
-    ],
-    "categories": [
-      "arts",
-      "arts-film",
-      "fiction-family",
-      "others-secrets",
-      "fiction",
-      "fiction-romance",
-      "fiction-love"
-    ],
+    "categories_title": ["Arts", "Film"],
+    "categories": ["arts", "arts-film"],
     "total_page": "307",
     "price": "5.73",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1542,13 +1242,8 @@
     "book_cover": "Arts/GraphicDesign/1-graphic-designers-guide.jpg",
     "isbn": "9780471569251",
     "author": ["Debbie Rose Myers"],
-    "categories_title": ["Arts", "Graphic Design", "Design", "Marketing"],
-    "categories": [
-      "arts",
-      "arts-graphicDesign",
-      "arts-design",
-      "businessFinance-marketing"
-    ],
+    "categories_title": ["Arts", "Graphic Design"],
+    "categories": ["arts", "arts-graphicDesign"],
     "total_page": "272",
     "price": "4.95",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1581,20 +1276,8 @@
     "book_cover": "Arts/GraphicDesign/2-production-for-graphic-designers.jpg",
     "isbn": "1856690288",
     "author": ["Alan Pipes"],
-    "categories_title": [
-      "Arts",
-      "Graphic Design",
-      "Design",
-      "Printing",
-      "Technique"
-    ],
-    "categories": [
-      "arts",
-      "arts-graphicDesign",
-      "arts-design",
-      "others-prints",
-      "others-technique"
-    ],
+    "categories_title": ["Arts", "Graphic Design"],
+    "categories": ["arts", "arts-graphicDesign"],
     "total_page": "208",
     "price": "79.99",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1627,22 +1310,8 @@
     "book_cover": "Arts/GraphicDesign/3-a-history-of-graphic-design.jpg",
     "isbn": "0442262213",
     "author": ["Philip B. Meggs", "Alston Purvi", "Alston W. Purvis"],
-    "categories_title": [
-      "Arts",
-      "Graphic Design",
-      "History",
-      "Typography",
-      "Illustration",
-      "General"
-    ],
-    "categories": [
-      "arts",
-      "arts-graphicDesign",
-      "history",
-      "arts-typography",
-      "arts-illustration",
-      "others-general"
-    ],
+    "categories_title": ["Arts", "Graphic Design"],
+    "categories": ["arts", "arts-graphicDesign"],
     "total_page": "511",
     "price": "7.08",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1675,13 +1344,8 @@
     "book_cover": "Arts/GraphicDesign/4-graphic-design.jpg",
     "isbn": "0500202702",
     "author": ["Richard Hollis"],
-    "categories_title": ["Arts", "Graphic Design", "History", "Commercial Art"],
-    "categories": [
-      "arts",
-      "arts-graphicDesign",
-      "history",
-      "arts-commercialArt"
-    ],
+    "categories_title": ["Arts", "Graphic Design"],
+    "categories": ["arts", "arts-graphicDesign"],
     "total_page": "224",
     "price": "5.27",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1714,18 +1378,8 @@
     "book_cover": "Arts/GraphicDesign/5-the-elements-of-graphics-design.jpg",
     "isbn": "1581152507",
     "author": ["Richard Hollis"],
-    "categories_title": [
-      "Arts",
-      "Graphic Design",
-      "Typography",
-      "Commercial Art"
-    ],
-    "categories": [
-      "arts",
-      "arts-graphicDesign",
-      "arts-typography",
-      "arts-commercialArt"
-    ],
+    "categories_title": ["Arts", "Graphic Design"],
+    "categories": ["arts", "arts-graphicDesign"],
     "total_page": "149",
     "price": "4.94",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1758,8 +1412,8 @@
     "book_cover": "Arts/Music/1-discovering-classical-music.jpg",
     "isbn": "9780951830109",
     "author": ["Ian Christians"],
-    "categories_title": ["Arts", "Music", "History"],
-    "categories": ["arts", "arts-music", "history"],
+    "categories_title": ["Arts", "Music"],
+    "categories": ["arts", "arts-music"],
     "total_page": "160",
     "price": "15.94",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1826,8 +1480,8 @@
     "book_cover": "Arts/Music/3-musicophillia.jpg",
     "isbn": "9781400040810",
     "author": ["Oliver Sacks"],
-    "categories_title": ["Arts", "Music", "Psychology"],
-    "categories": ["arts", "arts-music", "socialSciences-psychology"],
+    "categories_title": ["Arts", "Music"],
+    "categories": ["arts", "arts-music"],
     "total_page": "381",
     "price": "5.23",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1860,8 +1514,8 @@
     "book_cover": "Arts/Music/4-il-don-giovanni.jpg",
     "isbn": "9781770040780",
     "author": ["Wolfgang Amadeus Mozart"],
-    "categories_title": ["Arts", "Music", "Opera", "Drama"],
-    "categories": ["arts", "arts-music", "arts-opera", "arts-drama"],
+    "categories_title": ["Arts", "Music"],
+    "categories": ["arts", "arts-music"],
     "total_page": "105",
     "price": "51.07",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1894,24 +1548,8 @@
     "book_cover": "Arts/Music/5-the-works-of-virgil.jpg",
     "isbn": "9781020289514",
     "author": ["Publius Vergilius Maro"],
-    "categories_title": [
-      "Arts",
-      "Music",
-      "Readers",
-      "Legends",
-      "Agriculture",
-      "Poetry",
-      "Opera"
-    ],
-    "categories": [
-      "arts",
-      "arts-music",
-      "others-readers",
-      "others-legends",
-      "others-agriculture",
-      "arts-poetry",
-      "arts-opera"
-    ],
+    "categories_title": ["Arts", "Music"],
+    "categories": ["arts", "arts-music"],
     "total_page": " 432",
     "price": "19.94",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1944,8 +1582,8 @@
     "book_cover": "Arts/MusicTheory/1-music-in-theory-and-practice.jpg",
     "isbn": "069703956",
     "author": ["Bruce Benward", "Marilyn Saker", "Gary C. White"],
-    "categories_title": ["Arts", "Music", "Music Theory"],
-    "categories": ["arts", "arts-music", "arts-musicTheory"],
+    "categories_title": ["Arts", "Music Theory"],
+    "categories": ["arts", "arts-musicTheory"],
     "total_page": " 432",
     "price": "132.64",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -1978,8 +1616,8 @@
     "book_cover": "Arts/MusicTheory/2-basic-materials-in-music-theory.jpg",
     "isbn": "0205076505",
     "author": ["Paul O. Harder", "Greg A. Steinke"],
-    "categories_title": ["Arts", "Music", "Music Theory"],
-    "categories": ["arts", "arts-music", "arts-musicTheory"],
+    "categories_title": ["Arts", "Music Theory"],
+    "categories": ["arts", "arts-musicTheory"],
     "total_page": "348",
     "price": "7.11",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2012,20 +1650,8 @@
     "book_cover": "Arts/MusicTheory/3-this-is-your-brain-on-music.jpg",
     "isbn": "9780525949695",
     "author": ["Daniel J. Levitin"],
-    "categories_title": [
-      "Arts",
-      "Music",
-      "Music Theory",
-      "Social aspects",
-      "Psychology"
-    ],
-    "categories": [
-      "arts",
-      "arts-music",
-      "arts-musicTheory",
-      "others-socialAspects",
-      "socialSciences-psychology"
-    ],
+    "categories_title": ["Arts", "Music Theory"],
+    "categories": ["arts", "arts-musicTheory"],
     "total_page": "320",
     "price": "12.19",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2058,8 +1684,8 @@
     "book_cover": "Arts/MusicTheory/4-a-creative-approach-to-music-fundamentals.jpg",
     "isbn": "0534517684",
     "author": ["William Duckworth"],
-    "categories_title": ["Arts", "Music", "Music Theory"],
-    "categories": ["arts", "arts-music", "arts-musicTheory"],
+    "categories_title": ["Arts", "Music Theory"],
+    "categories": ["arts", "arts-musicTheory"],
     "total_page": "370",
     "price": "5.93",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2092,20 +1718,8 @@
     "book_cover": "Arts/MusicTheory/5-emotion-and-meaning-in-music.jpg",
     "isbn": "9780226521398",
     "author": ["Leonard B. Meyer"],
-    "categories_title": [
-      "Arts",
-      "Music",
-      "Music Theory",
-      "Psychology",
-      "Philosophy"
-    ],
-    "categories": [
-      "arts",
-      "arts-music",
-      "arts-musicTheory",
-      "socialSciences-psychology",
-      "others-philosophy"
-    ],
+    "categories_title": ["Arts", "Music Theory"],
+    "categories": ["arts", "arts-musicTheory"],
     "total_page": "307",
     "price": "30.00",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2172,28 +1786,8 @@
     "book_cover": "Arts/Painting/2-pablo-picasso.jpg",
     "isbn": "0870705288",
     "author": ["William S. Lieberman"],
-    "categories_title": [
-      "Arts",
-      "Painting",
-      "Biography",
-      "Etching",
-      "Potraits",
-      "Prints",
-      "Pottery",
-      "Women",
-      "Catalog"
-    ],
-    "categories": [
-      "arts",
-      "arts-painting",
-      "biography",
-      "arts-painting-etching",
-      "arts-photography-potraits",
-      "others-prints",
-      "arts-pottery",
-      "biography-women",
-      "others-catalog"
-    ],
+    "categories_title": ["Arts", "Painting"],
+    "categories": ["arts", "arts-painting"],
 
     "total_page": "24",
     "price": "48.97",
@@ -2227,8 +1821,8 @@
     "book_cover": "Arts/Painting/3-modern-painters.jpg",
     "isbn": "1417945516",
     "author": ["John Ruskin"],
-    "categories_title": ["Arts", "Painting", "Aesthetics"],
-    "categories": ["arts", "arts-painting", "arts-aesthetics"],
+    "categories_title": ["Arts", "Painting"],
+    "categories": ["arts", "arts-painting"],
     "total_page": "413",
     "price": "10.05",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2261,8 +1855,8 @@
     "book_cover": "Arts/Painting/4-composition-of-outdoor-painting.jpg",
     "isbn": "0939370034",
     "author": ["Edgar Alwin Payne"],
-    "categories_title": ["Arts", "Painting", "Technique"],
-    "categories": ["arts", "arts-painting", "others-technique"],
+    "categories_title": ["Arts", "Painting"],
+    "categories": ["arts", "arts-painting"],
     "total_page": "146",
     "price": "67.99",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2298,8 +1892,8 @@
     "book_cover": "Arts/Painting/5-watercolor.jpg",
     "isbn": "9780823033003",
     "author": ["Elizabeth Horowitz"],
-    "categories_title": ["Arts", "Painting", "Technique"],
-    "categories": ["arts", "arts-painting", "others-technique"],
+    "categories_title": ["Arts", "Painting"],
+    "categories": ["arts", "arts-painting"],
     "total_page": "143",
     "price": "7.84",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2332,13 +1926,8 @@
     "book_cover": "Arts/Photography/1-on-photography.jpg",
     "isbn": "9780823033003",
     "author": ["Susan Sontag"],
-    "categories_title": ["Arts", "Photography", "Philosophy", "Reference"],
-    "categories": [
-      "arts",
-      "arts-photography",
-      "others-philosophy",
-      "others-reference"
-    ],
+    "categories_title": ["Arts", "Photography"],
+    "categories": ["arts", "arts-photography"],
     "total_page": "182",
     "price": "19.84",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2371,8 +1960,8 @@
     "book_cover": "Arts/Photography/2-a-world-history-of-photography.jpg",
     "isbn": "0896594386",
     "author": ["Naomi Rosenblum"],
-    "categories_title": ["Arts", "Photography", "History"],
-    "categories": ["arts", "arts-photography", "history"],
+    "categories_title": ["Arts", "Photography"],
+    "categories": ["arts", "arts-photography"],
     "total_page": "671",
     "price": "6.29",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2439,8 +2028,8 @@
     "book_cover": "Arts/Photography/4-digital-photography.jpg",
     "isbn": "0789499762",
     "author": ["Tom Ang"],
-    "categories_title": ["Arts", "Photography", "Technique"],
-    "categories": ["arts", "arts-photography", "others-technique"],
+    "categories_title": ["Arts", "Photography"],
+    "categories": ["arts", "arts-photography"],
     "total_page": "223",
     "price": "24.53",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2507,14 +2096,8 @@
     "book_cover": "Animal/Bears/1-winnie-the-pooh.jpg",
     "isbn": "9781405271844",
     "author": ["A. A. Milne"],
-    "categories_title": ["Animal", "Bear", "Fiction", "Toys", "Children's"],
-    "categories": [
-      "animal",
-      "animal-bear",
-      "fiction",
-      "others-doll",
-      "childrens"
-    ],
+    "categories_title": ["Animal", "Bear"],
+    "categories": ["animal", "animal-bear"],
     "total_page": "158",
     "price": "8.27",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2547,8 +2130,8 @@
     "book_cover": "Animal/Bears/2-a-bear-called-paddington.jpg",
     "isbn": "0006704284",
     "author": ["Michael Bond"],
-    "categories_title": ["Animal", "Bear", "Fiction"],
-    "categories": ["animal", "animal-bear", "fiction"],
+    "categories_title": ["Animal", "Bear"],
+    "categories": ["animal", "animal-bear"],
     "total_page": "125",
     "price": "5.93",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2586,8 +2169,8 @@
     "book_cover": "Animal/Bears/3-winnie-the-pooh-and-some-bees.jpg",
     "isbn": "0749704993",
     "author": ["A. A. Milne"],
-    "categories_title": ["Animal", "Bear", "Fiction", "Children's"],
-    "categories": ["animal", "animal-bear", "fiction", "childrens"],
+    "categories_title": ["Animal", "Bear"],
+    "categories": ["animal", "animal-bear"],
     "total_page": "30",
     "price": "7.63",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2620,8 +2203,8 @@
     "book_cover": "Animal/Bears/4-teddy-bear-teddy-bear.jpg",
     "isbn": "0688106714",
     "author": ["Michael Hague", "Public Domain"],
-    "categories_title": ["Animal", "Bear", "Children's", "Dolls"],
-    "categories": ["animal", "animal-bear", "childrens", "others-doll"],
+    "categories_title": ["Animal", "Bear"],
+    "categories": ["animal", "animal-bear"],
     "total_page": "32",
     "price": "4.94",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2654,8 +2237,8 @@
     "book_cover": "Animal/Bears/5-where-is-my-teddy.jpg",
     "isbn": "1564020487",
     "author": ["Jez Alborough"],
-    "categories_title": ["Animal", "Bear", "Fiction", "Toy"],
-    "categories": ["animal", "animal-bear", "fiction", "others-toy"],
+    "categories_title": ["Animal", "Bear"],
+    "categories": ["animal", "animal-bear"],
     "total_page": "32",
     "price": "5.69",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2688,8 +2271,8 @@
     "book_cover": "Animal/Cats/1-warriors-rising-storm.jpg",
     "isbn": "0060000058",
     "author": ["Erin Hunter"],
-    "categories_title": ["Animal", "Cat", "Fiction", "Fantasy"],
-    "categories": ["animal", "animal-cat", "fiction", "fiction-fantasy"],
+    "categories_title": ["Animal", "Cat"],
+    "categories": ["animal", "animal-cat"],
     "total_page": "315",
     "price": "5.38",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2722,8 +2305,8 @@
     "book_cover": "Animal/Cats/2-warriors-moonrise.jpg",
     "isbn": "0060000058",
     "author": ["Erin Hunter", "Owen Richardson", "Dave Stevenson"],
-    "categories_title": ["Animal", "Cat", "Fiction", "Fantasy"],
-    "categories": ["animal", "animal-cat", "fiction", "fiction-fantasy"],
+    "categories_title": ["Animal", "Cat"],
+    "categories": ["animal", "animal-cat"],
     "total_page": "320",
     "price": "6.10",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2756,8 +2339,8 @@
     "book_cover": "Animal/Cats/3-warriors-omen-of-the-stars.jpg",
     "isbn": "9780061555091",
     "author": ["Erin Hunter"],
-    "categories_title": ["Animal", "Cat", "Fiction", "Fantasy"],
-    "categories": ["animal", "animal-cat", "fiction", "fiction-fantasy"],
+    "categories_title": ["Animal", "Cat"],
+    "categories": ["animal", "animal-cat"],
     "total_page": "352",
     "price": "5.22",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2790,8 +2373,8 @@
     "book_cover": "Animal/Cats/4-pete-the-cat.jpg",
     "isbn": "9780062675170",
     "author": ["James Dean"],
-    "categories_title": ["Animal", "Cat", "Fiction", "Friendship"],
-    "categories": ["animal", "animal-cat", "fiction", "others-friendship"],
+    "categories_title": ["Animal", "Cat"],
+    "categories": ["animal", "animal-cat"],
     "total_page": "40",
     "price": "5.22",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2824,8 +2407,8 @@
     "book_cover": "Animal/Cats/5-bluestar-prophecy.jpg",
     "isbn": "9780061582479",
     "author": ["Erin Hunter", "Wayne McLoughlin"],
-    "categories_title": ["Animal", "Cat", "Fiction", "Fantasy"],
-    "categories": ["animal", "animal-cat", "fiction", "fiction-fantasy"],
+    "categories_title": ["Animal", "Cat"],
+    "categories": ["animal", "animal-cat"],
     "total_page": "544",
     "price": "15.00",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2858,8 +2441,8 @@
     "book_cover": "Animal/Kittens/1-koko-kitten.jpg",
     "isbn": "0590338110",
     "author": ["Francine Patterson"],
-    "categories_title": ["Animal", "Kittens", "Cat"],
-    "categories": ["animal", "animal-kittens", "animal-cat"],
+    "categories_title": ["Animal", "Kittens"],
+    "categories": ["animal", "animal-kittens"],
     "total_page": "32",
     "price": "5.53",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2892,8 +2475,8 @@
     "book_cover": "Animal/Kittens/2-bad-kitty.jpg",
     "isbn": "9780439895422",
     "author": ["Nick Bruel"],
-    "categories_title": ["Animal", "Kittens", "Cat", "Fiction"],
-    "categories": ["animal", "animal-kittens", "animal-cat", "fiction"],
+    "categories_title": ["Animal", "Kittens"],
+    "categories": ["animal", "animal-kittens"],
     "total_page": "54",
     "price": "5.18",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2926,8 +2509,8 @@
     "book_cover": "Animal/Kittens/3-the-shy-little-kitten.jpg",
     "isbn": "9780375973772",
     "author": ["Kristen L. Depken"],
-    "categories_title": ["Animal", "Kittens", "Cat", "Fiction"],
-    "categories": ["animal", "animal-kittens", "animal-cat", "fiction"],
+    "categories_title": ["Animal", "Kittens"],
+    "categories": ["animal", "animal-kittens"],
     "total_page": "32",
     "price": "5.32",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -2960,14 +2543,8 @@
     "book_cover": "Animal/Kittens/4-misty-the-abandoned-kitten.jpg",
     "isbn": "9781847151261",
     "author": ["Holly Webb"],
-    "categories_title": ["Animal", "Kittens", "Cat", "Pet", "Fiction"],
-    "categories": [
-      "animal",
-      "animal-kittens",
-      "animal-cat",
-      "animal-pet",
-      "fiction"
-    ],
+    "categories_title": ["Animal", "Kittens"],
+    "categories": ["animal", "animal-kittens"],
     "total_page": "128",
     "price": "5.86",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3000,8 +2577,8 @@
     "book_cover": "Animal/Kittens/5-tales-of-an-8-bit-kitten.jpg",
     "isbn": "9781449494476",
     "author": ["Cube Kid"],
-    "categories_title": ["Animal", "Kittens", "Cat", "Fiction"],
-    "categories": ["animal", "animal-kittens", "animal-cat", "fiction"],
+    "categories_title": ["Animal", "Kittens"],
+    "categories": ["animal", "animal-kittens"],
     "total_page": "249",
     "price": "5.77",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3034,8 +2611,8 @@
     "book_cover": "Animal/Dogs/1-a-dogs-purpose.jpg",
     "isbn": "9780765326263",
     "author": ["W. Bruce Cameron"],
-    "categories_title": ["Animal", "Dogs", "Fiction"],
-    "categories": ["animal", "animal-dogs", "fiction"],
+    "categories_title": ["Animal", "Dogs"],
+    "categories": ["animal", "animal-dogs"],
     "total_page": "319",
     "price": "5.07",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3068,8 +2645,8 @@
     "book_cover": "Animal/Dogs/2-shiloh.jpg",
     "isbn": "0440407524",
     "author": ["Phyllis Reynolds Naylor"],
-    "categories_title": ["Animal", "Dogs", "Fiction"],
-    "categories": ["animal", "animal-dogs", "fiction"],
+    "categories_title": ["Animal", "Dogs"],
+    "categories": ["animal", "animal-dogs"],
     "total_page": "144",
     "price": "4.00",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3102,8 +2679,8 @@
     "book_cover": "Animal/Dogs/3-a-boy-a-dog-and-a-frog.jpg",
     "isbn": "9780140546118",
     "author": ["Mercer Mayer"],
-    "categories_title": ["Animal", "Dogs", "Fiction", "Picture books"],
-    "categories": ["animal", "animal-dogs", "fiction", "pictureBooks"],
+    "categories_title": ["Animal", "Dogs"],
+    "categories": ["animal", "animal-dogs"],
     "total_page": "32",
     "price": "5.98",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3136,8 +2713,8 @@
     "book_cover": "Animal/Dogs/4-the-incredible-journey.jpg",
     "isbn": "4480790546218",
     "author": ["Sheila Burnford"],
-    "categories_title": ["Animal", "Dogs", "Fiction", "Adventure"],
-    "categories": ["animal", "animal-dogs", "fiction", "adventure"],
+    "categories_title": ["Animal", "Dogs"],
+    "categories": ["animal", "animal-dogs"],
     "total_page": "152",
     "price": "14.57",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3170,8 +2747,8 @@
     "book_cover": "Animal/Dogs/5-a-dogs-journey.jpg",
     "isbn": "4480790546218",
     "author": ["W. Bruce Cameron"],
-    "categories_title": ["Animal", "Dogs", "Fiction", "Family"],
-    "categories": ["animal", "animal-dogs", "fiction", "fiction-family"],
+    "categories_title": ["Animal", "Dogs"],
+    "categories": ["animal", "animal-dogs"],
     "total_page": "152",
     "price": "14.57",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3204,8 +2781,8 @@
     "book_cover": "Animal/Puppies/1-the-pokky-little-puppy.jpg",
     "isbn": "3680788546350",
     "author": ["Janette Sebring Lowrey"],
-    "categories_title": ["Animal", "Dogs", "Puppies", "Fiction"],
-    "categories": ["animal", "animal-dogs", "animal-puppies", "fiction"],
+    "categories_title": ["Animal", "Puppies"],
+    "categories": ["animal", "animal-puppies"],
     "total_page": "42",
     "price": "14.57",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3238,8 +2815,8 @@
     "book_cover": "Animal/Puppies/2-biscuit-goes-to-school.jpg",
     "isbn": "3680788546350",
     "author": ["Alyssa Satin Capucilli"],
-    "categories_title": ["Animal", "Dogs", "Puppies", "Fiction"],
-    "categories": ["animal", "animal-dogs", "animal-puppies", "fiction"],
+    "categories_title": ["Animal", "Puppies"],
+    "categories": ["animal", "animal-puppies"],
     "total_page": "21",
     "price": "6.01",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3272,8 +2849,8 @@
     "book_cover": "Animal/Puppies/3-the-art-of-raising-a-puppy.jpg",
     "isbn": "0316578398",
     "author": ["Monks of New Skete."],
-    "categories_title": ["Animal", "Dogs", "Puppies", "Pet"],
-    "categories": ["animal", "animal-dogs", "animal-puppies", "animal-pet"],
+    "categories_title": ["Animal", "Puppies"],
+    "categories": ["animal", "animal-puppies"],
     "total_page": "274",
     "price": "10.99",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3306,8 +2883,8 @@
     "book_cover": "Animal/Puppies/4-biscuits-day-at-the-farm.jpg",
     "isbn": "9780060741686",
     "author": ["Alyssa Satin Capucilli"],
-    "categories_title": ["Animal", "Dogs", "Puppies", "Pet"],
-    "categories": ["animal", "animal-dogs", "animal-puppies", "animal-pet"],
+    "categories_title": ["Animal", "Puppies"],
+    "categories": ["animal", "animal-puppies"],
     "total_page": "32",
     "price": "5.98",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3340,8 +2917,8 @@
     "book_cover": "Animal/Puppies/5-goldie-the-puppy-place.jpg",
     "isbn": "9780439793797",
     "author": ["Ellen Miles"],
-    "categories_title": ["Animal", "Dogs", "Puppies", "Pet"],
-    "categories": ["animal", "animal-dogs", "animal-puppies", "animal-pet"],
+    "categories_title": ["Animal", "Puppies"],
+    "categories": ["animal", "animal-puppies"],
     "total_page": "76",
     "price": "4.94",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3374,8 +2951,8 @@
     "book_cover": "Fiction/Fantasy/1-words-of-radiance.jpg",
     "isbn": "9781429949620",
     "author": ["Brandon Sanderson"],
-    "categories_title": ["Fiction", "Fantasy", "Magic"],
-    "categories": ["fiction", "fiction-fantasy", "fiction-magic"],
+    "categories_title": ["Fiction", "Fantasy"],
+    "categories": ["fiction", "fiction-fantasy"],
     "total_page": "155",
     "price": "11.04",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3408,8 +2985,8 @@
     "book_cover": "Fiction/Fantasy/2-the-way-of-kings.jpg",
     "isbn": "9780765326355",
     "author": ["Brandon Sanderson"],
-    "categories_title": ["Fiction", "Fantasy", "Magic"],
-    "categories": ["fiction", "fiction-fantasy", "fiction-magic"],
+    "categories_title": ["Fiction", "Fantasy"],
+    "categories": ["fiction", "fiction-fantasy"],
     "total_page": "1008",
     "price": "20.12",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3442,8 +3019,8 @@
     "book_cover": "Fiction/Fantasy/3-bohater-wiekow.jpg",
     "isbn": "9788374805568",
     "author": ["Brandon Sanderson"],
-    "categories_title": ["Fiction", "Fantasy", "Magic"],
-    "categories": ["fiction", "fiction-fantasy", "fiction-magic"],
+    "categories_title": ["Fiction", "Fantasy"],
+    "categories": ["fiction", "fiction-fantasy"],
     "total_page": "672",
     "price": "32.99",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3476,8 +3053,8 @@
     "book_cover": "Fiction/Fantasy/4-the-lost-hero.jpg",
     "isbn": "9781423113393",
     "author": ["Rick Riordan"],
-    "categories_title": ["Fiction", "Fantasy", "Magic"],
-    "categories": ["fiction", "fiction-fantasy", "fiction-magic"],
+    "categories_title": ["Fiction", "Fantasy"],
+    "categories": ["fiction", "fiction-fantasy"],
     "total_page": "672",
     "price": "32.99",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -3510,8 +3087,8 @@
     "book_cover": "Fiction/Fantasy/5-keeper-of-the-lost-cities.jpg",
     "isbn": "9781442445932",
     "author": ["Shannon Messenger"],
-    "categories_title": ["Fiction", "Fantasy", "Magic"],
-    "categories": ["fiction", "fiction-fantasy", "fiction-magic"],
+    "categories_title": ["Fiction", "Fantasy"],
+    "categories": ["fiction", "fiction-fantasy"],
     "total_page": "496",
     "price": "5.84",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
@@ -6419,6 +5996,720 @@
       }
     ],
     "average_rating": "4.79",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 176,
+    "title": "Psychology of Money",
+    "caption": "Timeless Lessons on Wealth, Greed, and Happiness",
+    "book_cover": "BusinessFinance/Management/1-psychology-of-money.jpg",
+    "isbn": "9781387623174",
+    "author": ["Morgan Housel"],
+    "categories_title": ["Business & Finance", "Management"],
+    "categories": ["businessFinance", "businessFinance-management"],
+    "total_page": "256",
+    "price": "13.99",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Lulu Press, Inc."],
+        "published_date": "2022",
+        "published_year": 2022
+      }
+    ],
+    "stock": [
+      {
+        "available": 28,
+        "sold": 79
+      }
+    ],
+    "average_rating": "4.86",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 177,
+    "title": "It Doesn't Have to Be Crazy at Work",
+    "caption": "",
+    "book_cover": "BusinessFinance/Management/2-it-doesnt-have-to-be-crazy-at-work.jpg",
+    "isbn": "9780008323455",
+    "author": ["Jason Fried"],
+    "categories_title": ["Business & Finance", "Management"],
+    "categories": ["businessFinance", "businessFinance-management"],
+    "total_page": "254",
+    "price": "24.30",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["HarperCollins"],
+        "published_date": "2018",
+        "published_year": 2018
+      }
+    ],
+    "stock": [
+      {
+        "available": 8,
+        "sold": 29
+      }
+    ],
+    "average_rating": "4.66",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 178,
+    "title": "High Output Management",
+    "caption": "",
+    "book_cover": "BusinessFinance/Management/3-high-output-management.jpg",
+    "isbn": "0394532341",
+    "author": ["Andrew S. Grove"],
+    "categories_title": ["Business & Finance", "Management"],
+    "categories": ["businessFinance", "businessFinance-management"],
+    "total_page": "235",
+    "price": "15.98",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Random House"],
+        "published_date": "1983",
+        "published_year": 1983
+      }
+    ],
+    "stock": [
+      {
+        "available": 3,
+        "sold": 9
+      }
+    ],
+    "average_rating": "4.46",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 179,
+    "title": "The personal MBA",
+    "caption": "master the art of business",
+    "book_cover": "BusinessFinance/Management/4-the-personal-mba.jpg",
+    "isbn": "0394532341",
+    "author": ["Josh Kaufman"],
+    "categories_title": ["Business & Finance", "Management"],
+    "categories": ["businessFinance", "businessFinance-management"],
+    "total_page": "446",
+    "price": "7.61",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Portfolio Trade"],
+        "published_date": "2012",
+        "published_year": 2012
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 15
+      }
+    ],
+    "average_rating": "4.71",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 180,
+    "title": "Strategic management",
+    "caption": "",
+    "book_cover": "BusinessFinance/Management/5-strategic-management.jpg",
+    "isbn": "0394532341",
+    "author": ["Fred R. David"],
+    "categories_title": ["Business & Finance", "Management"],
+    "categories": ["businessFinance", "businessFinance-management"],
+    "total_page": "969",
+    "price": "44.45",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Merrill"],
+        "published_date": "1991",
+        "published_year": 1991
+      }
+    ],
+    "stock": [
+      {
+        "available": 4,
+        "sold": 17
+      }
+    ],
+    "average_rating": "4.71",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 181,
+    "title": "Elon Musk",
+    "caption": "",
+    "book_cover": "BusinessFinance/Enterpreneurship/1-elon-musk.jpg",
+    "isbn": "9780062301239",
+    "author": ["Ashlee Vance"],
+    "categories_title": ["Business & Finance", "Enterpreneurship"],
+    "categories": ["businessFinance", "businessFinance-enterpreneurship"],
+    "total_page": "400",
+    "price": "16.90",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Harper Collins"],
+        "published_date": "2015",
+        "published_year": 2015
+      }
+    ],
+    "stock": [
+      {
+        "available": 24,
+        "sold": 117
+      }
+    ],
+    "average_rating": "4.78",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 182,
+    "title": "Zero to One",
+    "caption": "Notes On Startups, Or How To Build The Future",
+    "book_cover": "BusinessFinance/Enterpreneurship/2-zero-to-one.jpg",
+    "isbn": "9780804139298",
+    "author": ["Peter A. Thiel "],
+    "categories_title": ["Business & Finance", "Enterpreneurship"],
+    "categories": ["businessFinance", "businessFinance-enterpreneurship"],
+    "total_page": "224",
+    "price": "14.89",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Harper Collins"],
+        "published_date": "2014",
+        "published_year": 2014
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 17
+      }
+    ],
+    "average_rating": "4.81",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 183,
+    "title": "Entrepreneurship",
+    "caption": "starting, developing, and managing a new enterprise",
+    "book_cover": "BusinessFinance/Enterpreneurship/3-entrepreneurship.jpg",
+    "isbn": "0256086915",
+    "author": ["Robert D. Hisrich"],
+    "categories_title": ["Business & Finance", "Enterpreneurship"],
+    "categories": ["businessFinance", "businessFinance-enterpreneurship"],
+    "total_page": "641",
+    "price": "18.89",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Irwin"],
+        "published_date": "1992",
+        "published_year": 1992
+      }
+    ],
+    "stock": [
+      {
+        "available": 8,
+        "sold": 11
+      }
+    ],
+    "average_rating": "4.81",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 184,
+    "title": "Rich dad poor dad for teens",
+    "caption": "the secrets about money - that you don't learn in school!",
+    "book_cover": "BusinessFinance/Enterpreneurship/4-rich-dad-poor-dad-for-teens.jpg",
+    "isbn": "0446693219",
+    "author": [" Robert T. Kiyosaki"],
+    "categories_title": ["Business & Finance", "Enterpreneurship"],
+    "categories": ["businessFinance", "businessFinance-enterpreneurship"],
+    "total_page": "132",
+    "price": "6.21",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Warner Books"],
+        "published_date": "2004",
+        "published_year": 2004
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 98
+      }
+    ],
+    "average_rating": "4.77",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 185,
+    "title": "I will teach you to be rich",
+    "caption": "",
+    "book_cover": "BusinessFinance/Enterpreneurship/5-i-will-teach-you-to-be-rich.jpg",
+    "isbn": "9780761147480",
+    "author": ["Ramit Sethi"],
+    "categories_title": ["Business & Finance", "Enterpreneurship"],
+    "categories": ["businessFinance", "businessFinance-enterpreneurship"],
+    "total_page": "132",
+    "price": "26.31",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Workman Pub."],
+        "published_date": "2009",
+        "published_year": 2009
+      }
+    ],
+    "stock": [
+      {
+        "available": 16,
+        "sold": 41
+      }
+    ],
+    "average_rating": "4.83",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 186,
+    "title": "Superfreakonomics",
+    "caption": "",
+    "book_cover": "BusinessFinance/BusinessEconomics/1-superfreakonomics.jpg",
+    "isbn": "9780713999907",
+    "author": ["Steven D. Levitt "],
+    "categories_title": ["Business & Finance", "Business Economics"],
+    "categories": ["businessFinance", "businessFinance-businessEconomics"],
+    "total_page": "270",
+    "price": "10.57",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Allen Lane"],
+        "published_date": "2009",
+        "published_year": 2009
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 4
+      }
+    ],
+    "average_rating": "4.80",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 187,
+    "title": "Money : master the game",
+    "caption": "",
+    "book_cover": "BusinessFinance/BusinessEconomics/2-money-master-the-game.jpg",
+    "isbn": "9780713999907",
+    "author": ["Anthony Robbins"],
+    "categories_title": ["Business & Finance", "Business Economics"],
+    "categories": ["businessFinance", "businessFinance-businessEconomics"],
+    "total_page": "688",
+    "price": "17.70",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Simon & Schuster"],
+        "published_date": "2014",
+        "published_year": 2014
+      }
+    ],
+    "stock": [
+      {
+        "available": 11,
+        "sold": 29
+      }
+    ],
+    "average_rating": "4.84",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 188,
+    "title": "Economics",
+    "caption": "",
+    "book_cover": "BusinessFinance/BusinessEconomics/3-economics.jpg",
+    "isbn": "0060440147",
+    "author": ["Richard G. Lipsey"],
+    "categories_title": ["Business & Finance", "Business Economics"],
+    "categories": ["businessFinance", "businessFinance-businessEconomics"],
+    "total_page": "789",
+    "price": "69.03",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Harper & Row"],
+        "published_date": "1973",
+        "published_year": 1973
+      }
+    ],
+    "stock": [
+      {
+        "available": 2,
+        "sold": 13
+      }
+    ],
+    "average_rating": "4.84",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 189,
+    "title": "Economics of regulation and antitrust",
+    "caption": "",
+    "book_cover": "BusinessFinance/BusinessEconomics/4-economics-of-regulation-and-antitrust.jpg",
+    "isbn": "0669281077",
+    "author": ["W. Kip Viscusi"],
+    "categories_title": ["Business & Finance", "Business Economics"],
+    "categories": ["businessFinance", "businessFinance-businessEconomics"],
+    "total_page": "759",
+    "price": "8.59",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["D.C. Heath"],
+        "published_date": "1992",
+        "published_year": 1992
+      }
+    ],
+    "stock": [
+      {
+        "available": 8,
+        "sold": 22
+      }
+    ],
+    "average_rating": "4.64",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 190,
+    "title": "Economic development",
+    "caption": "",
+    "book_cover": "BusinessFinance/BusinessEconomics/5-economics-development.jpg",
+    "isbn": "0801310814",
+    "author": [" Michael P. Todaro"],
+    "categories_title": ["Business & Finance", "Business Economics"],
+    "categories": ["businessFinance", "businessFinance-businessEconomics"],
+    "total_page": "719",
+    "price": "10.00",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Longman"],
+        "published_date": "1994",
+        "published_year": 1994
+      }
+    ],
+    "stock": [
+      {
+        "available": 5,
+        "sold": 28
+      }
+    ],
+    "average_rating": "4.79",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 191,
+    "title": "Think and Grow Rich",
+    "caption": "",
+    "book_cover": "BusinessFinance/BusinessSuccess/1-think-and-grow-rich.jpg",
+    "isbn": "0801310814",
+    "author": ["Napoleon Hill"],
+    "categories_title": ["Business & Finance", "Business Success"],
+    "categories": ["businessFinance", "businessFinance-businessSuccess"],
+    "total_page": "236",
+    "price": "8.92",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Best Success Books"],
+        "published_date": "2008",
+        "published_year": 2008
+      }
+    ],
+    "stock": [
+      {
+        "available": 11,
+        "sold": 28
+      }
+    ],
+    "average_rating": "4.79",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 192,
+    "title": "The Art of Money Getting",
+    "caption": "",
+    "book_cover": "BusinessFinance/BusinessSuccess/2-the-art-of-money-getting.jpg",
+    "isbn": "0531442214",
+    "author": ["Napoleon Hill"],
+    "categories_title": ["Business & Finance", "Business Success"],
+    "categories": ["businessFinance", "businessFinance-businessSuccess"],
+    "total_page": "82",
+    "price": "4.92",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Standard Ebooks"],
+        "published_date": "2016",
+        "published_year": 2016
+      }
+    ],
+    "stock": [
+      {
+        "available": 7,
+        "sold": 15
+      }
+    ],
+    "average_rating": "4.68",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 193,
+    "title": "The magic of thinking big",
+    "caption": "",
+    "book_cover": "BusinessFinance/BusinessSuccess/3-the-magic-of-thinking.jpg",
+    "isbn": "0671646788",
+    "author": ["David Joseph Schwartz"],
+    "categories_title": ["Business & Finance", "Business Success"],
+    "categories": ["businessFinance", "businessFinance-businessSuccess"],
+    "total_page": "192",
+    "price": "5.59",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Simon & Schuster"],
+        "published_date": "1987",
+        "published_year": 1987
+      }
+    ],
+    "stock": [
+      {
+        "available": 12,
+        "sold": 29
+      }
+    ],
+    "average_rating": "4.68",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 194,
+    "title": "Deep Work",
+    "caption": "Rules for Focused Success in a Distracted World",
+    "book_cover": "BusinessFinance/BusinessSuccess/4-deep-work.jpg",
+    "isbn": "9780349413686",
+    "author": ["Cal Newport"],
+    "categories_title": ["Business & Finance", "Business Success"],
+    "categories": ["businessFinance", "businessFinance-businessSuccess"],
+    "total_page": "233",
+    "price": "11.65",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Little"],
+        "published_date": "2016",
+        "published_year": 2016
+      }
+    ],
+    "stock": [
+      {
+        "available": 8,
+        "sold": 19
+      }
+    ],
+    "average_rating": "4.88",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 195,
+    "title": "Secrets of the millionaire mind",
+    "caption": "mastering the inner game of wealth",
+    "book_cover": "BusinessFinance/BusinessSuccess/5-secrets-of-the-millionaire-mind.jpg",
+    "isbn": "0060763280",
+    "author": ["T. Harv Eker"],
+    "categories_title": ["Business & Finance", "Business Success"],
+    "categories": ["businessFinance", "businessFinance-businessSuccess"],
+    "total_page": "210",
+    "price": "5.99",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Harper Business"],
+        "published_date": "2005",
+        "published_year": 2005
+      }
+    ],
+    "stock": [
+      {
+        "available": 18,
+        "sold": 96
+      }
+    ],
+    "average_rating": "4.88",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 196,
+    "title": "Secrets of the millionaire mind",
+    "caption": "Company of One offers a refreshingly original business strategy",
+    "book_cover": "BusinessFinance/BusinessSuccess/6-Company-Of-One.jpg",
+    "isbn": "1328972354",
+    "author": ["Paul Jarvis"],
+    "categories_title": ["Business & Finance", "Business Success"],
+    "categories": ["businessFinance", "businessFinance-businessSuccess"],
+    "total_page": "272",
+    "price": "14.20",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Mariner Books"],
+        "published_date": "2019",
+        "published_year": 2019
+      }
+    ],
+    "stock": [
+      {
+        "available": 18,
+        "sold": 112
+      }
+    ],
+    "average_rating": "4.76",
     "book_review": [
       {
         "user": "name",

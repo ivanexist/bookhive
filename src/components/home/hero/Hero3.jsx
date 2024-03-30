@@ -29,7 +29,7 @@ const Hero3 = () => (
             transition={{ duration: 1, delay: 1.3 }}
             className="w-full my-4 flex justify-center items-center lg:justify-end text-2xl lg:text-4xl font-bold uppercase text-center lg:text-right text-blumine-950"
           >
-            <p>Pablo Picasso</p>
+            <p>Company Of One</p>
           </motion.div>
           <motion.div
             initial={{ x: -200, opacity: 0 }}
@@ -39,9 +39,14 @@ const Hero3 = () => (
             className="w-full mb-4 mt-2 flex lg:justify-end lg:text-right text-base text-blumine-950"
           >
             <p>
-              Tells the story of Pablo Picasso as he grows through his early
-              days as an artist, his discovery of cubism, and his later years of
-              sculpture and painting to become a famous artist.{" "}
+              The New York Times bestselling author of Deep Work Cal Newport
+              calls this book a “must-read for any entrepreneur who prioritizes
+              a rich life over riches.{" "}
+              <span className="sm:hidden md:inline">
+                Company of One offers a refreshingly original business strategy
+                that’s focused on a commitment to being better instead of
+                bigger.
+              </span>
             </p>
           </motion.div>
 

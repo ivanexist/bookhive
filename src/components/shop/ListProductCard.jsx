@@ -36,7 +36,7 @@ const ListProductCard = ({ book, bookId }) => {
     // exit={{ x: "-100%", opacity: 0 }}
     // transition={{ duration: 0.7 }}
     >
-      <div className="flex my-4 p-2 w-full bg-blumine-50">
+      <div className="flex my-4 p-2 w-full hover:shadow-md bg-white">
         <div className="lg:h-full lg:w-52 rounded-md object-center object-cover transition duration-300 ease-in-out hover:rounded-none hover:scale-105 hover:opacity-80 sm:py-2 lg:py-0">
           <Link key={book.book_id} to={`/shop/${book.book_id}`}>
             <img
@@ -49,7 +49,7 @@ const ListProductCard = ({ book, bookId }) => {
         <div className="px-4 flex flex-col justify-between">
           <div>
             <div className="flex flex-wrap flex-col justify-start items-start">
-              <h3 className="text-base font-bold text-gray-950 mb-1">
+              <h3 className="text-base font-bold text-gray-800 mb-1">
                 <Link key={book.book_id} to={`/shop/${book.book_id}`}>
                   {book.title}
                 </Link>
@@ -62,7 +62,7 @@ const ListProductCard = ({ book, bookId }) => {
             </div>
             <div className="flex flex-row my-4">
               <div>
-                <span className="text-base font-bold text-gray-950 my-4 pr-2 border-r-2">
+                <span className="text-base font-bold text-gray-800 my-4 pr-2 border-r-2">
                   ${book.price}
                 </span>
               </div>

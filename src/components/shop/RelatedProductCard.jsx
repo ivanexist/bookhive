@@ -6,7 +6,7 @@ import { Skeleton } from "antd";
 import { CheckOutlined, LoadingOutlined } from "@ant-design/icons";
 import { BookHiveContext } from "../../context/BookHiveContext";
 
-const GridProductCard = ({ book, bookId }) => {
+const RelatedProductCard = ({ book, bookId }) => {
   const {
     wishlists,
     addToCart,
@@ -40,7 +40,7 @@ const GridProductCard = ({ book, bookId }) => {
       exit={{ y: 0, opacity: 0 }}
       transition={{ duration: 0.7 }}
       key={book.book_id}
-      className={`relative rounded-md hover:shadow-md hover:rounded-t-none ml-2 mt-8`}
+      className={`relative rounded-md hover:shadow-md hover:rounded-t-none ml-2 sm:mx-4 md:mx-0 mt-8`}
       onMouseEnter={handleMouseOver}
       onMouseLeave={handleMouseOut}
     >
@@ -53,7 +53,7 @@ const GridProductCard = ({ book, bookId }) => {
             className="absolute flex justify-center items-center flex-col top-4 ml-4"
           >
             {/* add to cart */}
-            <div className="flex items-center border border-transparent justify-center md:p-3 md:mb-3 sm:p-4 sm:mb-4 transition-all  bg-white text-blumine-950 hover:text-blumine-50 hover:bg-blumine-600 hover:border-blumine-600 cursor-pointer">
+            <div className="flex items-center border border-transparent justify-center md:p-3 md:mb-3 sm:p-4 sm:mb-4 transition-all  bg-white text-blumine-500 hover:text-blumine-50 hover:bg-blumine-600 hover:border-blumine-600 cursor-pointer">
               {console.log(bookId)}
               <button
                 className="cursor-pointer"
@@ -106,7 +106,7 @@ const GridProductCard = ({ book, bookId }) => {
                     width="1em"
                     height="1em"
                     viewBox="0 0 24 24"
-                    className="h-6 w-6 text-blumine-950 hover:text-blumine-500"
+                    className="h-6 w-6 text-blumine-500 hover:text-blumine-600"
                   >
                     <path
                       fill="currentColor"
@@ -118,9 +118,9 @@ const GridProductCard = ({ book, bookId }) => {
             </div>
           </motion.div>
         )}
-        <Link key={book.book_id} to={`/shop/${book.book_id}`} className={``}>
+        <Link key={book.book_id} to={`/shop/${book.book_id}`}>
           {loading ? (
-            <div className="h-full w-full object-center lg:h-full lg:w-full flex justify-center items-center">
+            <div className="h-full w-full object-center flex justify-center items-center">
               <SkeletonImage active />
             </div>
           ) : (
@@ -128,7 +128,7 @@ const GridProductCard = ({ book, bookId }) => {
               src={`https://raw.githubusercontent.com/ivanexist/bookhive/main/public/bookhive/${book.book_cover}`}
               alt={book.caption}
               onClick={scrollToTop}
-              className={` h-full w-full object-center border border-blumine-100 lg:h-full lg:w-full transition duration-300 ease-in-out`}
+              className={`h-full w-full object-center border border-blumine-100 lg:h-full lg:w-full transition duration-300 ease-in-out`}
             />
           )}
         </Link>
@@ -182,4 +182,4 @@ const GridProductCard = ({ book, bookId }) => {
     </motion.div>
   );
 };
-export default GridProductCard;
+export default RelatedProductCard;
