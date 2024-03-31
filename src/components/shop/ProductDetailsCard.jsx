@@ -392,9 +392,9 @@ const ProductDetailsCard = ({
                 />
               ) : (
                 <div className="grid grid-cols-3 gap-4 my-8">
-                  <div className="flex flex-col border border-blumine-200 p-2 px-4 items-center">
+                  <div className="flex flex-col border border-blumine-200 p-2 px-4 justify-center items-center">
                     <div className="text-gray-500">Publisher</div>
-                    <div className="my-2 justify-center items-center font-semibold text-gray-800">
+                    <div className="my-2 flex justify-center items-center font-semibold text-gray-800">
                       {selectedBook.publish[0].publisher_name}
                     </div>
                   </div>

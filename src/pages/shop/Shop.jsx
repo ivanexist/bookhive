@@ -70,7 +70,7 @@ const Shop = () => {
     const filterProductByCategory = (books) => {
       // search based on books title
       // console.log(query);
-
+      console.log(`publisher ${books.publish[0].publisher_name}`);
       const searchMatch =
         books.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
         books.author[0].toLowerCase().includes(searchQuery.toLowerCase());
