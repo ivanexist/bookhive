@@ -66,10 +66,10 @@ const Navbar2 = () => {
                 <Link
                   to="/"
                   onClick={scrollToTop}
-                  className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                  className={`py-2 px-4  rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
                     location.pathname === "/"
                       ? "font-bold  text-blumine-500"
-                      : ""
+                      : "text-gray-400"
                   }`}
                 >
                   HOME
@@ -79,7 +79,7 @@ const Navbar2 = () => {
                 <Link
                   to="/shop"
                   onClick={scrollToTop}
-                  className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                  className={`py-2 px-4  rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
                     location.pathname === "/shop" ||
                     location.pathname === `/shop/${bookId}` ||
                     location.pathname === "/shop/cart" ||
@@ -87,7 +87,7 @@ const Navbar2 = () => {
                     location.pathname === "/shop/wishlist" ||
                     location.pathname === `/shop/cart/checkout/${bookId}`
                       ? "font-bold text-blumine-500"
-                      : ""
+                      : "text-gray-400"
                   }`}
                 >
                   SHOP
@@ -97,10 +97,10 @@ const Navbar2 = () => {
                 <Link
                   to="/about"
                   onClick={scrollToTop}
-                  className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                  className={`py-2 px-4  rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
                     location.pathname === "/about"
                       ? "font-bold text-blumine-500"
-                      : ""
+                      : "text-gray-400"
                   }`}
                 >
                   ABOUT
@@ -110,10 +110,10 @@ const Navbar2 = () => {
                 <Link
                   to="/contact"
                   onClick={scrollToTop}
-                  className={`py-2 px-4 text-gray-400 rounded hover:text-blumine-500  md:p-0 ${
+                  className={`py-2 px-4  rounded hover:text-blumine-500  md:p-0 ${
                     location.pathname === "/contact"
-                      ? "font-semibold text-blumine-500"
-                      : ""
+                      ? "font-bold text-blumine-500"
+                      : "text-gray-400"
                   }`}
                 >
                   CONTACT

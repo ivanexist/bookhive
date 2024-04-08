@@ -41,13 +41,17 @@ const CheckoutContent = () => {
       <CheckoutForm />
       {/* Receipt */}
       <div className="col-span-2 border border-blumine-200 p-8 my-4">
-        <h1 className="text-lg font-bold text-blumine-500">YOUR ORDER</h1>
+        <h1 className="text-base font-bold text-blumine-500">YOUR ORDER</h1>
         <hr className="mt-4 mb-8 border-t border-t-blumine-200" />
-        <div>
-          {itemsToCheckout.map((cartItem) => (
-            <CheckoutItem cartItem={cartItem} key={cartItem.book_id} />
-          ))}
-        </div>
+        {itemsToCheckout.length === 0 ? (
+          <div>No Items to checkout</div>
+        ) : (
+          <div>
+            {itemsToCheckout.map((cartItem) => (
+              <CheckoutItem cartItem={cartItem} key={cartItem.book_id} />
+            ))}
+          </div>
+        )}
         <div className="flex justify-between border-y border-y-blumine-200 py-4 mt-8 text-gray-950">
           <span className="font-medium mx-2 text-blumine-500">Subtotal</span>
           <span className="font-medium mx-2">${calculateTotalPayment()}</span>
@@ -86,12 +90,6 @@ const CheckoutContent = () => {
             </span>
           </div>
         </div>
-        {/* <div>
-          <div className="mt-2">
-            <input type="checkbox" className="mx-2 my-4" />
-            I’ve read and accept the terms & conditions
-          </div>
-        </div> */}
         <div>
           <button className="w-full border py-4 my-4 border-blumine-200 bg-blumine-100 font-semibold text-blumine-500 cursor-default">
             Checkout (
