@@ -55,7 +55,7 @@ const Navbar2 = () => {
               className="flex items-center space-x-3 rtl:space-x-reverse mx-2"
               onClick={scrollToTop}
             >
-              <span className="self-center text-2xl font-BrunoAce font-semibold whitespace-nowrap text-blumine-800">
+              <span className="self-center text-2xl font-BrunoAce font-semibold whitespace-nowrap text-blumine-500">
                 Book Hive.
               </span>
             </Link>
