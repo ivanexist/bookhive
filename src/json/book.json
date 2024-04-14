@@ -8248,42 +8248,9 @@
       }
     ]
   },
+
   {
     "book_id": 242,
-    "title": "Quimica",
-    "caption": "La Ciencia Central",
-    "book_cover": "HealthWellness/Exercise/1-Quimica.jpg",
-    "isbn": "9786074420210",
-    "author": ["Theodore L. Brown"],
-    "categories_title": ["Health & Wellness", "Exercise"],
-    "categories": ["healthWellness", "healthWellness-exercise"],
-    "total_page": "1130",
-    "price": "11.70",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
-    "publish": [
-      {
-        "publisher_name": ["Pearson Educacion"],
-        "published_date": "2009",
-        "published_year": 2009
-      }
-    ],
-    "stock": [
-      {
-        "available": 4,
-        "sold": 18
-      }
-    ],
-    "average_rating": "4.44",
-    "book_review": [
-      {
-        "user": "name",
-        "rate": "5",
-        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
-      }
-    ]
-  },
-  {
-    "book_id": 243,
     "title": "Three Men in a Boat",
     "caption": "",
     "book_cover": "HealthWellness/Exercise/2-Three-Men-in-a-Boat.jpg",
@@ -8317,7 +8284,7 @@
     ]
   },
   {
-    "book_id": 244,
+    "book_id": 243,
     "title": "The Secret Adversary",
     "caption": "",
     "book_cover": "HealthWellness/Exercise/3-The-Secret-Adversary.jpg",
@@ -8351,7 +8318,7 @@
     ]
   },
   {
-    "book_id": 245,
+    "book_id": 244,
     "title": "Treasure Island",
     "caption": "",
     "book_cover": "HealthWellness/Exercise/4-Treasure-Island.jpg",
@@ -8385,7 +8352,7 @@
     ]
   },
   {
-    "book_id": 246,
+    "book_id": 245,
     "title": "The Merchant of Venice",
     "caption": "",
     "book_cover": "HealthWellness/Exercise/5-The-Merchant-of-Venice.jpg",
@@ -8410,6 +8377,346 @@
       }
     ],
     "average_rating": "4.34",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 246,
+    "title": "Nutrition",
+    "caption": "Science and Applications",
+    "book_cover": "HealthWellness/Nutrition/1-Nutrition.jpg",
+    "isbn": "9780030177088",
+    "author": ["Lori A. Smolin"],
+    "categories_title": ["Health & Wellness", "Nutrition"],
+    "categories": ["healthWellness", "healthWellness-nutrition"],
+    "total_page": "795",
+    "price": "47.53",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Saunders College Publishing"],
+        "published_date": "August 1996",
+        "published_year": 1996
+      }
+    ],
+    "stock": [
+      {
+        "available": 4,
+        "sold": 31
+      }
+    ],
+    "average_rating": "4.64",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 247,
+    "title": "In defence of food",
+    "caption": "the myth of nutrition and the pleasures of eating",
+    "book_cover": "HealthWellness/Nutrition/2-In-defence-of-food.jpg",
+    "isbn": "9781846140969",
+    "author": ["Michael Pollan"],
+    "categories_title": ["Health & Wellness", "Nutrition"],
+    "categories": ["healthWellness", "healthWellness-nutrition"],
+    "total_page": "242",
+    "price": "11.29",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Allen Lane"],
+        "published_date": "2008",
+        "published_year": 2008
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 24
+      }
+    ],
+    "average_rating": "4.52",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 248,
+    "title": "The science of nutrition",
+    "caption": "",
+    "book_cover": "HealthWellness/Nutrition/3-The-science-of-nutrition.jpg",
+    "isbn": "9780558916015",
+    "author": ["Janice Thompson"],
+    "categories_title": ["Health & Wellness", "Nutrition"],
+    "categories": ["healthWellness", "healthWellness-nutrition"],
+    "total_page": "274",
+    "price": "11.95",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Pearson Custom Pub."],
+        "published_date": "2011",
+        "published_year": 2011
+      }
+    ],
+    "stock": [
+      {
+        "available": 7,
+        "sold": 14
+      }
+    ],
+    "average_rating": "4.28",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 249,
+    "title": "Fasting can save your life",
+    "caption": "",
+    "book_cover": "HealthWellness/Nutrition/4-Fasting-can-save-your-life.jpg",
+    "isbn": "0914532235",
+    "author": ["Herbert M. Shelton"],
+    "categories_title": ["Health & Wellness", "Nutrition"],
+    "categories": ["healthWellness", "healthWellness-nutrition"],
+    "total_page": "185",
+    "price": "43.97",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Natural Hygiene Press"],
+        "published_date": "1991",
+        "published_year": 1991
+      }
+    ],
+    "stock": [
+      {
+        "available": 10,
+        "sold": 41
+      }
+    ],
+    "average_rating": "4.63",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 250,
+    "title": "Let's eat right to keep fit.",
+    "caption": "",
+    "book_cover": "HealthWellness/Nutrition/5-Lets-eat-right-to-keep-fit.jpg",
+    "isbn": "0046410236",
+    "author": ["Adelle Davis"],
+    "categories_title": ["Health & Wellness", "Nutrition"],
+    "categories": ["healthWellness", "healthWellness-nutrition"],
+    "total_page": "304",
+    "price": "22.49",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Allen & Unwin"],
+        "published_date": "1976",
+        "published_year": 1976
+      }
+    ],
+    "stock": [
+      {
+        "available": 7,
+        "sold": 8
+      }
+    ],
+    "average_rating": "4.63",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 251,
+    "title": "How to win friends and influence people",
+    "caption": "",
+    "book_cover": "HealthWellness/Selfhelp/1-How-to-win-friends-and-influence-people.jpg",
+    "isbn": "0049275236",
+    "author": ["Dale Carnegie"],
+    "categories_title": ["Health & Wellness", "Self-help"],
+    "categories": ["healthWellness", "healthWellness-selfhelp"],
+    "total_page": "246",
+    "price": "7.50",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["World's Work"],
+        "published_date": "1953",
+        "published_year": 1953
+      }
+    ],
+    "stock": [
+      {
+        "available": 6,
+        "sold": 18
+      }
+    ],
+    "average_rating": "4.42",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 252,
+    "title": "Atomic Habits",
+    "caption": "The life-changing million copy bestseller",
+    "book_cover": "HealthWellness/Selfhelp/2-Atomic-Habits.jpg",
+    "isbn": "9781847941831",
+    "author": ["James Clear"],
+    "categories_title": ["Health & Wellness", "Self-help"],
+    "categories": ["healthWellness", "healthWellness-selfhelp"],
+    "total_page": "320",
+    "price": "14.40",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Random House Business"],
+        "published_date": "2018",
+        "published_year": 2018
+      }
+    ],
+    "stock": [
+      {
+        "available": 12,
+        "sold": 89
+      }
+    ],
+    "average_rating": "4.82",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 253,
+    "title": "Think and Grow Rich",
+    "caption": "",
+    "book_cover": "HealthWellness/Selfhelp/3-Think-and-Grow-Rich.jpg",
+    "isbn": "9781463538002",
+    "author": ["Napoleon Hill"],
+    "categories_title": ["Health & Wellness", "Self-help"],
+    "categories": ["healthWellness", "healthWellness-selfhelp"],
+    "total_page": "236",
+    "price": "8.92",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Best Success Books"],
+        "published_date": "2008",
+        "published_year": 2008
+      }
+    ],
+    "stock": [
+      {
+        "available": 7,
+        "sold": 19
+      }
+    ],
+    "average_rating": "4.65",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 254,
+    "title": "The power of positive thinking",
+    "caption": "",
+    "book_cover": "HealthWellness/Selfhelp/4-The-power-of-positive-thinking.jpg",
+    "isbn": "9780749307158",
+    "author": ["Norman Vincent Peale"],
+    "categories_title": ["Health & Wellness", "Self-help"],
+    "categories": ["healthWellness", "healthWellness-selfhelp"],
+    "total_page": "320",
+    "price": "42.09",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["RCA Victor"],
+        "published_date": "1952",
+        "published_year": 1952
+      }
+    ],
+    "stock": [
+      {
+        "available": 4,
+        "sold": 11
+      }
+    ],
+    "average_rating": "4.32",
+    "book_review": [
+      {
+        "user": "name",
+        "rate": "5",
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis cumque accusantium fugit commodi illo ipsa dicta officia facere corrupti praesentium?"
+      }
+    ]
+  },
+  {
+    "book_id": 255,
+    "title": "The Power of Your Subconscious Mind",
+    "caption": "",
+    "book_cover": "HealthWellness/Selfhelp/5-The-Power-of-Your-Subconscious-Mind.jpg",
+    "isbn": "9781434441638",
+    "author": ["Joseph Murphy"],
+    "categories_title": ["Health & Wellness", "Self-help"],
+    "categories": ["healthWellness", "healthWellness-selfhelp"],
+    "total_page": "224",
+    "price": "7.99",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "publish": [
+      {
+        "publisher_name": ["Wildside Press"],
+        "published_date": "2013",
+        "published_year": 2013
+      }
+    ],
+    "stock": [
+      {
+        "available": 8,
+        "sold": 18
+      }
+    ],
+    "average_rating": "4.41",
     "book_review": [
       {
         "user": "name",

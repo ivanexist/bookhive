@@ -30,7 +30,7 @@ const DescReview = () => {
               : "border-b border-b-gray-400 text-gray-400 font-semibold"
           } focus:outline-none`}
         >
-          <span className=" uppercase">Reviews (2)</span>
+          <span className=" uppercase">Reviews (3)</span>
         </motion.button>
       </div>
 
