@@ -129,12 +129,13 @@ const ContactForm = () => (
                       className="pb-1 text-xs uppercase tracking-wider"
                     ></label>
                     <input
-                      type="email"
-                      id="email"
-                      autoComplete="email"
-                      placeholder="Email"
+                      type="text"
+                      id="phoneNumber"
+                      autoComplete="phoneNumber"
+                      placeholder="Phone Number"
                       className="mb-2 w-full border border-blumine-400 py-2 pl-2 pr-4 shadow-sm dark:text-blumine-300 sm:mb-0 focus:outline-blumine-500 placeholder:text-gray-400"
-                      name="email"
+                      name="phoneNumber"
+                      maxLength={13}
                     />
                   </div>
                 </div>

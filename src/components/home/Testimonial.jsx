@@ -1,9 +1,4 @@
-import { motion } from "framer-motion";
 const Testimonial = () => {
-  const variant = {
-    hidden: { y: 50, opacity: 0 },
-    visible: { y: 0, opacity: 1 },
-  };
   return (
     <>
       <section className="bg-white">

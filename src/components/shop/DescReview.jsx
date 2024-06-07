@@ -50,9 +50,7 @@ const DescReview = () => {
               sint deleniti molestias ex ut. Corporis laborum sunt rem nobis id,
               nisi numquam neque fuga omnis corrupti similique deleniti velit
               sed saepe ab at accusamus et quam ipsa explicabo architecto eum,
-            </p>
-            <br />
-            <p className="text-gray-500 text-justify">
+              <br />
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
               itaque odit ullam dolores. Et tempore expedita minus explicabo
               distinctio. Ducimus incidunt ut eum. Vel similique voluptates, ab

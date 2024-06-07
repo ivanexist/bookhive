@@ -149,7 +149,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Routledge", "Taylor & Francis Group"],
+        "publisher_name": ["Routledge"],
         "published_date": "2018",
         "published_year": 2018
       }
@@ -183,7 +183,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Prufrock Press", "Taylor & Francis Group"],
+        "publisher_name": ["Taylor & Francis Group"],
         "published_date": "2007",
         "published_year": 2007
       }
@@ -251,10 +251,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": [
-          "National Council of Teachers of English (NCTE)",
-          "National Council of Teachers of English"
-        ],
+        "publisher_name": ["National Council of Teachers of English"],
         "published_date": "2010",
         "published_year": 2010
       }
@@ -548,7 +545,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Taylor & Francis Group, Routledge"],
+        "publisher_name": ["Taylor & Francis Group"],
         "published_date": "2022",
         "published_year": 2022
       }
@@ -582,12 +579,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": [
-          "abrams",
-          "Amulet Books",
-          "Harry N. Abrams",
-          "Brand: Amulet Books"
-        ],
+        "publisher_name": ["Amulet Books"],
         "published_date": "2009",
         "published_year": 2009
       }
@@ -689,10 +681,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": [
-          "Doubleday Books for Young Readers",
-          "Random House Children's Books"
-        ],
+        "publisher_name": ["Random House Children's Books"],
         "published_date": "2020",
         "published_year": 2020
       }
@@ -726,7 +715,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Holt", "Rinehart and Winston"],
+        "publisher_name": ["Holt"],
         "published_date": "1970",
         "published_year": 1970
       }
@@ -760,9 +749,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": [
-          "McGraw-Hill Book Company, inc. in New York, London"
-        ],
+        "publisher_name": ["McGraw-Hill Book Company"],
         "published_date": "1941",
         "published_year": 1941
       }
@@ -830,7 +817,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Cooper Hewitt", "Smithsonian Design Museum"],
+        "publisher_name": ["Cooper Hewitt"],
         "published_date": "2017",
         "published_year": 2017
       }
@@ -898,7 +885,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Macmillan", "Drama Book"],
+        "publisher_name": ["Macmillan"],
         "published_date": "1985",
         "published_year": 1985
       }
@@ -1136,15 +1123,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": [
-          "Printed by and for D.S. Maurice",
-          "Sold by T. Hughes",
-          "J. Bysh",
-          "J. Cumming",
-          "Dublin",
-          "J. Sutherland",
-          "Edinburgh"
-        ],
+        "publisher_name": ["D.S. Maurice"],
         "published_date": "1988",
         "published_year": 1988
       }
@@ -1212,10 +1191,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": [
-          "Dutton Books",
-          "an imprint of Penguin Group (USA) LLC."
-        ],
+        "publisher_name": ["Dutton Books"],
         "published_date": "2014",
         "published_year": 2014
       }
@@ -1657,7 +1633,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Dutton Adult", "Dutton"],
+        "publisher_name": ["Dutton"],
         "published_date": "August 3, 2006",
         "published_year": 2006
       }
@@ -1691,7 +1667,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Wadsworth/Thomson Learning"],
+        "publisher_name": ["Thomson Learning"],
         "published_date": "2001",
         "published_year": 2001
       }
@@ -1794,7 +1770,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["The Studio", "William Edwin Rudge"],
+        "publisher_name": ["William Edwin Rudge"],
         "published_date": "1930",
         "published_year": 1930
       }
@@ -1828,7 +1804,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Lovell", "Coryell"],
+        "publisher_name": ["Lovell"],
         "published_date": "1800",
         "published_year": 1800
       }
@@ -1862,10 +1838,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": [
-          "Payne Studios",
-          "Distributed by DeRu's Fine Art Books"
-        ],
+        "publisher_name": ["Payne Studios"],
         "published_date": "1985",
         "published_year": 1985
       }
@@ -1933,7 +1906,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Farrar", "Straus and Giroux"],
+        "publisher_name": ["Farrar"],
         "published_date": "1977",
         "published_year": 1977
       }
@@ -1967,7 +1940,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Farrar", "Straus and Giroux"],
+        "publisher_name": ["Farrar"],
         "published_date": "1977",
         "published_year": 1977
       }
@@ -2035,7 +2008,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["DK Pub.", "DK Publishing"],
+        "publisher_name": ["DK Pub."],
         "published_date": "2003",
         "published_year": 2003
       }
@@ -2069,7 +2042,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": ["Little", "Brown"],
+        "publisher_name": ["Little"],
         "published_date": "1987",
         "published_year": 1987
       }
@@ -2137,12 +2110,7 @@
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
     "publish": [
       {
-        "publisher_name": [
-          "Collins",
-          "YOUNG LIONS",
-          "HarperCollins Canada",
-          "Limited"
-        ],
+        "publisher_name": ["HarperCollins Canada"],
         "published_date": "1975",
         "published_year": 1975
       }

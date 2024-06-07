@@ -1,3 +1,4 @@
+"use client";
 import { useRef, useState } from "react";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -41,9 +42,6 @@ const HeroMain = () => {
   };
   return (
     <div className="swiper-container relative">
-      {/* <div className="flex justify-between absolute bg-transparent">
-        <Navbar2 />
-      </div> */}
       <div className="swiper-wrapper">
         <Swiper
           ref={swiperRef}

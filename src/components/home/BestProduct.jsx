@@ -60,23 +60,7 @@ const BestProduct = () => {
               ))}
           </div>
         </div>
-
-        {/* <motion.div
-          initial={{ y: 50, opacity: 0 }}
-          whileInView={{ y: 0, opacity: 1 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.5 }}
-          className="md:col-span-4"
-        >
-          <img
-            src="https://cdn.pixabay.com/photo/2017/08/28/16/10/autumn-2690176_1280.jpg"
-            alt=""
-            className="sm:h-52 md:h-[32rem] w-full pr-8 mr-6 sm:ml-4 lg:ml-0"
-          />
-        </motion.div> */}
       </div>
-
-      {/* <hr className="mr-6 my-8" /> */}
     </div>
   );
 };
