@@ -43,11 +43,12 @@ const DescReview = ({ selectedBook }) => {
             animate={{ opacity: 1 }}
           >
             <p className="text-gray-500 leading-relaxed">
-              {console.log(selectedBook)}
               {selectedBook.descriptions[0].description_1}
-              <br />
+            </p>
+            <p className="text-gray-500 leading-relaxed mt-1">
               {selectedBook.descriptions[0].description_2}
-              <br />
+            </p>
+            <p className="text-gray-500 leading-relaxed mt-1">
               {selectedBook.descriptions[0].description_3}
             </p>
           </motion.div>
