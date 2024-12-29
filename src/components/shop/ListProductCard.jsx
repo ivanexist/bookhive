@@ -29,13 +29,7 @@ const ListProductCard = ({ book, bookId }) => {
     isItemInWishlists ? removeFromWishlist(book) : addToWishlist(book);
 
   return (
-    <motion.div
-    // key={book.book_id}
-    // initial={{ x: 200, opacity: 0 }}
-    // animate={{ x: 0, opacity: 1 }}
-    // exit={{ x: "-100%", opacity: 0 }}
-    // transition={{ duration: 0.7 }}
-    >
+    <motion.div>
       <div className="flex my-4 p-2 w-full hover:shadow-md bg-white">
         <div className="lg:h-full lg:w-52 rounded-md object-center object-cover transition duration-300 ease-in-out hover:rounded-none hover:scale-105 hover:opacity-80 sm:py-2 lg:py-0">
           <Link key={book.book_id} to={`/shop/${book.book_id}`}>

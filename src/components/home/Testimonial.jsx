@@ -99,10 +99,8 @@ const Testimonial = () => {
               </div>
 
               <p className="mt-4 text-gray-500">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa
-                sit rerum incidunt, a consequuntur recusandae ab saepe illo est
-                quia obcaecati neque quibusdam eius accusamus error officiis
-                atque voluptates magnam!
+                As a book lover, I’m impressed by the collection at Book Hive.
+                From classics to the latest releases, they have it all!
               </p>
             </div>
 
@@ -190,10 +188,9 @@ const Testimonial = () => {
               </div>
 
               <p className="mt-4 text-gray-500">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa
-                sit rerum incidunt, a consequuntur recusandae ab saepe illo est
-                quia obcaecati neque quibusdam eius accusamus error officiis
-                atque voluptates magnam!
+                Book Hive is a reader's paradise! The variety of books is
+                incredible, and the user-friendly website makes finding my next
+                read so easy. Highly recommended!
               </p>
             </div>
 
@@ -281,10 +278,9 @@ const Testimonial = () => {
               </div>
 
               <p className="mt-4 text-gray-500">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa
-                sit rerum incidunt, a consequuntur recusandae ab saepe illo est
-                quia obcaecati neque quibusdam eius accusamus error officiis
-                atque voluptates magnam!
+                Book Hive is my go-to for finding rare and popular books alike.
+                The delivery is fast, the packaging is secure, and the prices
+                are unbeatable. Highly recommended!
               </p>
             </div>
           </div>

@@ -12,8 +12,9 @@ const Footer = () => (
             Book Hive.
           </h6>
           <p className="text-left text-gray-500">
-            Here you can use rows and columns to organize your footer content.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Book Hive is your ultimate online bookstore, offering a vast
+            selection of books across all genres, fast delivery, and
+            personalized recommendations to fuel your love for reading.
           </p>
         </div>
         <div className="sm:hidden md:inline-block"></div>

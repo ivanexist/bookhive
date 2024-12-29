@@ -192,14 +192,7 @@ const ProductDetailsCard = ({
                 />
               ) : (
                 <p className="leading-relaxed my-4 text-justify text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic
-                  laboriosam voluptates magni nam cumque dolor repellendus saepe
-                  animi voluptatem culpa quos, amet architecto vel facilis optio
-                  tempore distinctio earum quae? Dolorem enim repellat omnis.
-                  Necessitatibus hic odio beatae soluta maiores dolore itaque
-                  tempore, quo ipsum nostrum iusto cum iure molestias dolores
-                  explicabo nesciunt temporibus qui impedit, quis, ullam
-                  perspiciatis vitae.
+                  {selectedBook.synopsis}
                 </p>
               )}
               <div className="flex items-center pb-2 border-b-2 border-blumine-200 lg:my-4"></div>

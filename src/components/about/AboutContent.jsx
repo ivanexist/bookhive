@@ -17,16 +17,19 @@ const AboutContent = () => (
               Who we are?
             </h1>
           </div>
-          <p className="my-8 text-base leading-7 text-gray-500 text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam Lorem ipsum dolor sit
-            amet. labore et dolore magna aliqua. Ut enim ad minim veniam Lorem
-            ipsum dolor sit amet. amet. labore et dolore magna aliqua. Ut enim
-            ad minim veniam Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-            amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit
-            amet.
+          <p className="mt-8 mb-4 text-base leading-7 text-gray-500 text-justify">
+            At Book Hive, we are more than just an online bookstore—we are a
+            community of book enthusiasts dedicated to connecting readers with
+            stories that inspire, educate, and entertain. Founded with a passion
+            for literature and a commitment to accessibility, we aim to bring
+            the joy of reading to everyone, everywhere.
+          </p>
+          <p className="mt-4 mb-8 text-base leading-7 text-gray-500 text-justify">
+            We believe books have the power to transform lives, and it’s our
+            mission to make that transformation accessible to all. With a
+            user-friendly platform, personalized recommendations, and reliable
+            delivery, Book Hive is here to make your reading journey seamless
+            and enjoyable.
           </p>
           <button
             href="#"
@@ -42,10 +45,9 @@ const AboutContent = () => (
             What we do?
           </div>
           <div className="text-gray-500">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum numquam
-            similique, minus sunt porro, doloribus vitae quis corrupti magnam
-            dicta unde maiores iure a nam quo, suscipit reprehenderit?
-            Cupiditate, ut!
+            At Book Hive, we provide a vast selection of books, personalized
+            recommendations, and fast, reliable delivery to help readers easily
+            discover and enjoy their next great read.
           </div>
         </div>
         <div className="flex flex-col p-2 text-justify">
@@ -53,10 +55,11 @@ const AboutContent = () => (
             Our Mission
           </div>
           <div className="text-gray-500">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum numquam
-            similique, minus sunt porro, doloribus vitae quis corrupti magnam
-            dicta unde maiores iure a nam quo, suscipit reprehenderit?
-            Cupiditate, ut!
+            At Book Hive, our mission is to make the world of books accessible
+            to everyone by offering a vast selection, personalized
+            recommendations, and fast, reliable delivery, all while fostering a
+            love for reading and helping readers find stories that inspire,
+            entertain, and enrich their lives.
           </div>
         </div>
         <div className="flex flex-col p-2 text-justify">
@@ -64,10 +67,11 @@ const AboutContent = () => (
             Our Vision
           </div>
           <div className="text-gray-500">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum numquam
-            similique, minus sunt porro, doloribus vitae quis corrupti magnam
-            dicta unde maiores iure a nam quo, suscipit reprehenderit?
-            Cupiditate, ut!
+            At Book Hive, our vision is to be the leading online bookstore that
+            empowers readers around the world to discover new ideas, explore
+            diverse stories, and connect with the joy of reading. We strive to
+            create a global community where books are more than just
+            products—they are gateways to new worlds and lifelong learning.
           </div>
         </div>
       </div>

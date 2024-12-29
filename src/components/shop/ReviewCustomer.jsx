@@ -70,14 +70,12 @@ const ReviewCustomer = () => (
         </div>
         <div className="flex items-center mt-4 text-gray-950"></div>
         <div className="text-gray-950">
-          <span className="font-bold ">Sapien consequat eleifend!</span>
+          <span className="font-bold ">A Must-Read!</span>
           <p className="mt-1 text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur.
+            This book completely captivated me from start to finish. The
+            characters are so well-developed, and the plot keeps you on the edge
+            of your seat. I couldn’t put it down! Highly recommend to anyone who
+            loves a good mix of suspense and heart.
           </p>
         </div>
         <div className="flex items-center justify-between mt-4 text-sm fill-current">
@@ -166,14 +164,12 @@ const ReviewCustomer = () => (
         </div>
         <div className="flex items-center mt-4 text-gray-800"></div>
         <div className="text-gray-800">
-          <span className="font-bold">Sapien consequat eleifend!</span>
+          <span className="font-bold">An Extraordinary Read</span>
           <p className="mt-1 text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur.
+            From the very first page, I was hooked. The world-building is
+            incredible, and the writing is so immersive. Every chapter unveils
+            new twists and keeps you guessing until the end. One of the best
+            books I’ve read this year.
           </p>
         </div>
         <div className="flex items-center justify-between mt-4 text-sm  fill-current">
@@ -262,14 +258,11 @@ const ReviewCustomer = () => (
         </div>
         <div className="flex items-center mt-4 text-gray-800"></div>
         <div className="text-gray-800">
-          <span className="font-bold">Sapien consequat eleifend!</span>
+          <span className="font-bold">Good, but Could Have Been Better</span>
           <p className="mt-1 text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur.
+            The book had an interesting premise, but I felt some parts were
+            drawn out. I would have liked more development in the middle
+            sections. Still, the ending made it all worthwhile.
           </p>
         </div>
         <div className="flex items-center justify-between mt-4 text-sm fill-current">

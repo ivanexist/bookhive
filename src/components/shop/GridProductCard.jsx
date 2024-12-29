@@ -135,7 +135,7 @@ const GridProductCard = ({ book, bookId }) => {
               src={`https://raw.githubusercontent.com/ivanexist/bookhive/main/public/bookhive/${book.book_cover}`}
               alt={book.caption}
               onClick={scrollToTop}
-              className={` h-full w-full object-center border border-blumine-100 lg:h-full lg:w-full transition duration-300 ease-in-out ${
+              className={`h-full w-full object-center border border-blumine-100 lg:h-full lg:w-full transition duration-300 ease-in-out ${
                 book.stock[0].available === 0 && "opacity-50"
               }`}
             />

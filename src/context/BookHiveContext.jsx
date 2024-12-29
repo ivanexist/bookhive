@@ -182,6 +182,7 @@ const BookHiveProvider = ({ children }) => {
     localStorage.setItem("bookData", JSON.stringify(bookData));
   }, [cartItems, wishlists, bookData]);
 
+  // Fetch Book Data
   useEffect(() => {
     const fetchBookData = async () => {
       // Till the data is fetch using API

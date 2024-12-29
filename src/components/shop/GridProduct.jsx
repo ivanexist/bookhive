@@ -12,7 +12,6 @@ const GridProduct = ({
   onHandlePageChange,
 }) => {
   const { cartItems, wishlists } = useContext(BookHiveContext);
-
   const showNextButton = currentPage !== totalPages - 1;
   const showPrevButton = currentPage !== 0;
 

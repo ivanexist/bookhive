@@ -53,7 +53,7 @@ const Navbar2 = () => {
             <Link
               to="/"
               className="flex items-center space-x-3 rtl:space-x-reverse mx-2"
-              onClick={scrollToTop}
+              c
             >
               <span className="self-center text-2xl font-BrunoAce font-semibold whitespace-nowrap text-blumine-500">
                 Book Hive.
@@ -66,9 +66,9 @@ const Navbar2 = () => {
                 <Link
                   to="/"
                   onClick={scrollToTop}
-                  className={`py-2 px-4  rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                  className={`py-2 px-4 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
                     location.pathname === "/"
-                      ? "font-bold  text-blumine-500"
+                      ? "font-bold text-blumine-500"
                       : "text-gray-400"
                   }`}
                 >
@@ -79,7 +79,7 @@ const Navbar2 = () => {
                 <Link
                   to="/shop"
                   onClick={scrollToTop}
-                  className={`py-2 px-4  rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
+                  className={`py-2 px-4 rounded hover:text-blumine-500 md:hover:bg-transparent md:p-0 ${
                     location.pathname === "/shop" ||
                     location.pathname === `/shop/${bookId}` ||
                     location.pathname === "/shop/cart" ||
@@ -110,7 +110,7 @@ const Navbar2 = () => {
                 <Link
                   to="/contact"
                   onClick={scrollToTop}
-                  className={`py-2 px-4  rounded hover:text-blumine-500  md:p-0 ${
+                  className={`py-2 px-4  rounded hover:text-blumine-500 md:p-0 ${
                     location.pathname === "/contact"
                       ? "font-bold text-blumine-500"
                       : "text-gray-400"
