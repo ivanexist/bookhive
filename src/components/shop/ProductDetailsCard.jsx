@@ -191,7 +191,7 @@ const ProductDetailsCard = ({
                   className="my-4 text-blumine-200"
                 />
               ) : (
-                <p className="leading-relaxed my-4 text-justify text-gray-500">
+                <p className="leading-relaxed my-4 text-gray-500">
                   {selectedBook.synopsis}
                 </p>
               )}
@@ -368,7 +368,7 @@ const ProductDetailsCard = ({
                   <div className="my-4 mt-6 lg:mb-0">
                     <button
                       disabled
-                      className="w-full h-10 p-2 my-2 mr-4 bg-blumine-100 text-blumine-400 font-semibold cursor-not-allowed dark:bg-blumine-400 dark:hover:bg-blumine-400"
+                      className="w-full h-10 p-2 my-2 mr-4 bg-gray-100 text-red-500 font-semibold cursor-not-allowed dark:bg-blumine-400 dark:hover:bg-blumine-400"
                     >
                       SOLD OUT
                     </button>
@@ -424,7 +424,7 @@ const ProductDetailsCard = ({
           </div>
         </div>
       </motion.div>
-      <DescReview />
+      <DescReview selectedBook={selectedBook} />
 
       {/* Bottom Navigation */}
 

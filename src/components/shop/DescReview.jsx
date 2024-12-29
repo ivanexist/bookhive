@@ -2,7 +2,7 @@ import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import ReviewCustomer from "./ReviewCustomer";
 
-const DescReview = () => {
+const DescReview = ({ selectedBook }) => {
   const [activeTab, setActiveTab] = useState("description");
 
   const handleTabClick = (tab) => {
@@ -42,31 +42,12 @@ const DescReview = () => {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
           >
-            <p className="text-gray-500 text-justify">
-              Product description goes here. Lorem ipsum dolor sit, amet
-              consectetur adipisicing elit. Amet blanditiis sapiente quia
-              exercitationem, ratione eius aliquam dolore delectus assumenda
-              modi sed sunt, consectetur, minima maxime temporibus. Obcaecati
-              sint deleniti molestias ex ut. Corporis laborum sunt rem nobis id,
-              nisi numquam neque fuga omnis corrupti similique deleniti velit
-              sed saepe ab at accusamus et quam ipsa explicabo architecto eum,
+            <p className="text-gray-500 leading-relaxed">
+              {selectedBook.descriptions[0].description_1}
               <br />
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-              itaque odit ullam dolores. Et tempore expedita minus explicabo
-              distinctio. Ducimus incidunt ut eum. Vel similique voluptates, ab
-              iste placeat amet officia ipsum at veniam ipsa. Illum quasi
-              delectus ipsum incidunt ullam quaerat quae nesciunt placeat!
-              Ratione quibusdam accusantium cupiditate veniam itaque! Alias
-              exercitationem, pariatur quaerat quia voluptates laudantium
-              aliquid, eligendi dicta aperiam ea nobis ipsum commodi accusamus?
-              Nam necessitatibus hic, distinctio error accusantium ducimus
-              adipisci. Maxime fugiat id, reprehenderit saepe ea earum
-              praesentium repudiandae mollitia, sunt blanditiis qui totam
-              voluptate debitis hic nemo, natus excepturi dicta quidem? Quis
-              voluptate, saepe at alias similique rem molestias laudantium
-              itaque. Vero porro veritatis molestiae molestias? Esse veritatis,
-              quisquam nobis libero natus pariatur laborum nostrum saepe ratione
-              nihil qui earum excepturi, velit sint totam.
+              {selectedBook.descriptions[0].description_2}
+              <br />
+              {selectedBook.descriptions[0].description_3}
             </p>
           </motion.div>
         )}
