@@ -193,7 +193,7 @@ const BookHiveProvider = ({ children }) => {
       try {
         setTimeout(async () => {
           const response = await axios.get(
-            "https://raw.githubusercontent.com/ivanexist/bookhive/main/src/json/book.json"
+            "https://raw.githubusercontent.com/ivanexist/bookhive/refs/heads/main/src/json/book.json"
           );
 
           // After fetching data stored it in bookData state.

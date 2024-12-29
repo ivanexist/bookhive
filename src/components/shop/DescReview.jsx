@@ -43,7 +43,7 @@ const DescReview = ({ selectedBook }) => {
             animate={{ opacity: 1 }}
           >
             <p className="text-gray-500 leading-relaxed">
-              {console.log("description " + selectedBook.descriptions)}
+              {console.log(selectedBook)}
               {selectedBook.descriptions[0].description_1}
               <br />
               {selectedBook.descriptions[0].description_2}
