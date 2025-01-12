@@ -17,14 +17,14 @@ const AboutContent = () => (
               Who we are?
             </h1>
           </div>
-          <p className="mt-8 mb-4 text-base leading-7 text-gray-500 text-justify">
+          <p className="mt-8 mb-4 text-base leading-7 text-gray-500 font-merriweather">
             At Book Hive, we are more than just an online bookstore—we are a
             community of book enthusiasts dedicated to connecting readers with
             stories that inspire, educate, and entertain. Founded with a passion
             for literature and a commitment to accessibility, we aim to bring
             the joy of reading to everyone, everywhere.
           </p>
-          <p className="mt-4 mb-8 text-base leading-7 text-gray-500 text-justify">
+          <p className="mt-4 mb-8 text-base leading-7 text-gray-500 font-merriweather">
             We believe books have the power to transform lives, and it’s our
             mission to make that transformation accessible to all. With a
             user-friendly platform, personalized recommendations, and reliable
@@ -40,21 +40,21 @@ const AboutContent = () => (
         </div>
       </div>
       <div className="grid sm:grid-cols-1 md:grid-cols-3 gap-8 my-20  sm:mx-4 md:mx-0">
-        <div className="flex flex-col p-2 text-justify">
+        <div className="flex flex-col p-2">
           <div className="font-semibold text-2xl my-4 text-blumine-500 uppercase">
             What we do?
           </div>
-          <div className="text-gray-500">
+          <div className="text-gray-500 font-merriweather">
             At Book Hive, we provide a vast selection of books, personalized
             recommendations, and fast, reliable delivery to help readers easily
             discover and enjoy their next great read.
           </div>
         </div>
-        <div className="flex flex-col p-2 text-justify">
+        <div className="flex flex-col p-2">
           <div className="font-semibold text-2xl my-4  text-blumine-500 uppercase">
             Our Mission
           </div>
-          <div className="text-gray-500">
+          <div className="text-gray-500 font-merriweather">
             At Book Hive, our mission is to make the world of books accessible
             to everyone by offering a vast selection, personalized
             recommendations, and fast, reliable delivery, all while fostering a
@@ -62,11 +62,11 @@ const AboutContent = () => (
             entertain, and enrich their lives.
           </div>
         </div>
-        <div className="flex flex-col p-2 text-justify">
+        <div className="flex flex-col p-2">
           <div className="font-semibold text-2xl my-4 text-blumine-500 uppercase">
             Our Vision
           </div>
-          <div className="text-gray-500">
+          <div className="text-gray-500 font-merriweather">
             At Book Hive, our vision is to be the leading online bookstore that
             empowers readers around the world to discover new ideas, explore
             diverse stories, and connect with the joy of reading. We strive to

@@ -69,7 +69,7 @@ const ReviewCustomer = () => (
           </svg>
         </div>
         <div className="flex items-center mt-4 text-gray-950"></div>
-        <div className="text-gray-950">
+        <div className="text-gray-950 font-merriweather">
           <span className="font-bold ">A Must-Read!</span>
           <p className="mt-1 text-gray-500">
             This book completely captivated me from start to finish. The
@@ -163,7 +163,7 @@ const ReviewCustomer = () => (
           </svg>
         </div>
         <div className="flex items-center mt-4 text-gray-800"></div>
-        <div className="text-gray-800">
+        <div className="text-gray-800 font-merriweather">
           <span className="font-bold">An Extraordinary Read</span>
           <p className="mt-1 text-gray-500">
             From the very first page, I was hooked. The world-building is
@@ -257,7 +257,7 @@ const ReviewCustomer = () => (
           </svg>
         </div>
         <div className="flex items-center mt-4 text-gray-800"></div>
-        <div className="text-gray-800">
+        <div className="text-gray-800 font-merriweather">
           <span className="font-bold">Good, but Could Have Been Better</span>
           <p className="mt-1 text-gray-500">
             The book had an interesting premise, but I felt some parts were

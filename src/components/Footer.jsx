@@ -11,7 +11,7 @@ const Footer = () => (
             <FaBookOpen className="mr-2" />
             Book Hive.
           </h6>
-          <p className="text-left text-gray-500">
+          <p className="text-left text-gray-500 font-merriweather">
             Book Hive is your ultimate online bookstore, offering a vast
             selection of books across all genres, fast delivery, and
             personalized recommendations to fuel your love for reading.
@@ -22,7 +22,7 @@ const Footer = () => (
           <h6 className="mb-4 flex justify-start font-semibold uppercase text-blumine-600">
             Business Hours
           </h6>
-          <div className="flex flex-col justify-start text-gray-500">
+          <div className="flex flex-col justify-start text-gray-500 font-merriweather">
             <p className="mb-2 text-left">Mon - Fri: 9AM - 10PM</p>
             <p className="mb-2 text-left">Weekend: 9AM - 12PM</p>
           </div>
@@ -32,7 +32,7 @@ const Footer = () => (
           <h6 className="flex justify-start font-semibold mb-2 uppercase text-blumine-600">
             Contact Us
           </h6>
-          <div className="flex flex-col justify-start ">
+          <div className="flex flex-col justify-start font-merriweather">
             <div className="flex my-2">
               <span>
                 <svg

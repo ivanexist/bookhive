@@ -38,7 +38,7 @@ const DescReview = ({ selectedBook }) => {
         {activeTab === "description" && (
           <motion.div
             key={activeTab}
-            className="mt-4 p-4 text-blumine-950"
+            className="mt-4 p-4 text-blumine-950 font-merriweather"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
           >

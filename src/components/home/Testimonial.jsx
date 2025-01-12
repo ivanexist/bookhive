@@ -98,7 +98,7 @@ const Testimonial = () => {
                 </div>
               </div>
 
-              <p className="mt-4 text-gray-500">
+              <p className="mt-4 text-gray-500 font-merriweather">
                 As a book lover, I’m impressed by the collection at Book Hive.
                 From classics to the latest releases, they have it all!
               </p>
@@ -187,7 +187,7 @@ const Testimonial = () => {
                 </div>
               </div>
 
-              <p className="mt-4 text-gray-500">
+              <p className="mt-4 text-gray-500 font-merriweather">
                 Book Hive is a reader's paradise! The variety of books is
                 incredible, and the user-friendly website makes finding my next
                 read so easy. Highly recommended!
@@ -277,7 +277,7 @@ const Testimonial = () => {
                 </div>
               </div>
 
-              <p className="mt-4 text-gray-500">
+              <p className="mt-4 text-gray-500 font-merriweather">
                 Book Hive is my go-to for finding rare and popular books alike.
                 The delivery is fast, the packaging is secure, and the prices
                 are unbeatable. Highly recommended!

@@ -33,6 +33,7 @@ export default {
       },
       fontFamily: {
         Baskervville: ["Baskervville", "sans-serif"],
+        merriweather: ["Merriweather", "sans-serif"],
       },
     },
     screens: {

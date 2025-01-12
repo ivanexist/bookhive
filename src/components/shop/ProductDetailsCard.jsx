@@ -191,7 +191,7 @@ const ProductDetailsCard = ({
                   className="my-4 text-blumine-200"
                 />
               ) : (
-                <p className="leading-relaxed my-4 text-gray-500">
+                <p className="leading-relaxed my-4 text-gray-500 font-merriweather">
                   {selectedBook.synopsis}
                 </p>
               )}
