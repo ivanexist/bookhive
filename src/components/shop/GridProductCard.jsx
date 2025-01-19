@@ -153,7 +153,7 @@ const GridProductCard = ({ book, bookId }) => {
         <div className="mt-1 p-2 flex flex-col justify-between">
           <div>
             <h3
-              className="text-sm font-medium mb-2 text-gray-800"
+              className="text-sm font-medium mb-2 text-gray-800 font-se"
               title={book.title}
             >
               {book.title.length > 20
