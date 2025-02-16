@@ -8228,12 +8228,19 @@
     "caption": "implications for marketing strategy",
     "book_cover": "BusinessFinance/Finance/5-consumer-behavior.jpg",
     "isbn": "9780471180036",
-    "author": ["Peter Lynch"],
+    "author": ["Del I. Hawkin"],
     "categories_title": ["Business & Finance", "Finance"],
     "categories": ["businessFinance", "businessFinance-Finance"],
     "total_page": "645",
     "price": "10.00",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Consumer Behavior by Del I. Hawkins provides a comprehensive analysis of how and why consumers make purchasing decisions. The book explores key psychological, social, and cultural factors that influence buying behavior, including perception, motivation, attitudes, and decision-making processes. It also examines how marketers can use consumer insights to develop effective strategies, enhance brand engagement, and drive customer loyalty. With real-world examples, case studies, and data-driven research, Consumer Behavior serves as an essential resource for students, marketers, and business professionals looking to understand and predict consumer actions in a rapidly evolving marketplace.",
+    "descriptions": [
+      {
+        "description_1": "Consumer Behavior by Del I. Hawkins is a comprehensive textbook that explores the psychological, social, and cultural factors influencing how consumers make purchasing decisions. The book delves into key concepts such as perception, motivation, attitude formation, decision-making processes, and brand loyalty, providing a deep understanding of consumer psychology. By examining how individuals interact with products, brands, and marketing strategies, the book helps students and professionals develop insights into effective consumer engagement.",
+        "description_2": "A key strength of this book is its research-driven approach, incorporating the latest findings from behavioral science, marketing research, and real-world case studies. Hawkins presents detailed analyses of consumer trends, the impact of digital media, and the role of emotions in shaping buying behaviors. The book also explores external influences such as culture, social class, and group dynamics, helping readers understand how societal factors shape consumption patterns. These insights are essential for businesses looking to craft compelling marketing strategies and enhance customer experiences.",
+        "description_3": "Beyond theory, Consumer Behavior provides practical applications for marketers, business leaders, and entrepreneurs. It equips readers with the tools needed to analyze market segments, predict consumer preferences, and develop effective branding and communication strategies. With its blend of academic rigor and practical insights, this book is an essential resource for anyone interested in understanding and influencing consumer behavior in today's competitive market."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Business Publications"],
@@ -8258,8 +8265,8 @@
   },
   {
     "book_id": 202,
-    "title": "Journal of a weak child",
-    "caption": "Nigel blair",
+    "title": "Diary of a Wimpy Kid",
+    "caption": "Jeff Kinney",
     "book_cover": "Children/KidsBooks/1-diary-of-a-wimpy-kid.jpg",
     "isbn": "9780141358048",
     "author": ["Carol Cox"],
@@ -8267,7 +8274,14 @@
     "categories": ["childrens", "childrens-kidsBooks"],
     "total_page": "214",
     "price": "5.39",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Diary of a Wimpy Kid by Jeff Kinney is a humorous and relatable novel that follows the daily life of Greg Heffley, a middle schooler trying to navigate the awkward and often frustrating challenges of growing up. Written in a diary format with doodles and cartoons, Greg shares his thoughts on school, friendships, family, and his endless attempts to become popular. However, his self-centered schemes and misadventures often backfire, leading to laugh-out-loud moments. With its witty storytelling and engaging illustrations, Diary of a Wimpy Kid captures the ups and downs of adolescence in a way that resonates with readers of all ages.",
+    "descriptions": [
+      {
+        "description_1": "Diary of a Wimpy Kid by Jeff Kinney is a humorous and relatable novel that follows the life of Greg Heffley, a middle school student navigating the awkwardness of adolescence. Written in a unique diary format with handwritten-style text and comic-style illustrations, the book captures Greg’s thoughts, experiences, and misadventures as he tries to fit in, gain popularity, and survive the challenges of school and family life. His often self-centered yet hilarious perspective makes for an entertaining and engaging read for young audiences.",
+        "description_2": "The book explores themes of friendship, family dynamics, peer pressure, and self-identity, making it highly relatable to kids and preteens. Greg’s interactions with his best friend, Rowley, his annoying older brother, Rodrick, and his well-meaning but clueless parents create plenty of laugh-out-loud moments. Through a mix of funny situations and life lessons, the book subtly teaches readers about the ups and downs of growing up while emphasizing the importance of being true to oneself.",
+        "description_3": "Since its release, Diary of a Wimpy Kid has become a global phenomenon, spawning multiple sequels, movies, and a dedicated fan base. Its lighthearted storytelling and engaging visuals make it an enjoyable read for both reluctant and avid readers. With its blend of humor, relatable characters, and everyday school adventures, this book continues to be a favorite among young readers worldwide."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Travis"],
@@ -8301,7 +8315,14 @@
     "categories": ["childrens", "childrens-kidsBooks"],
     "total_page": "488",
     "price": "10.17",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "The School for Good and Evil by Soman Chainani is a fantasy novel that follows best friends Sophie and Agatha, who are unexpectedly taken to a magical school where children are trained to become either fairy-tale heroes or villains. Sophie, who dreams of being a princess, is shocked when she is placed in the School for Evil, while Agatha, with her dark demeanor, is sent to the School for Good. As they struggle to find their true destinies, they uncover secrets about the school, question the nature of good and evil, and realize that their fates may not be as simple as they once believed. With its twists, magical adventures, and deep exploration of friendship and identity, the book is a thrilling and enchanting tale that challenges the traditional fairy-tale formula.",
+    "descriptions": [
+      {
+        "description_1": "The School for Good and Evil by Soman Chainani is a captivating fantasy novel that reimagines the classic fairy tale world. The story follows two best friends, Sophie and Agatha, who are unexpectedly whisked away to the legendary School for Good and Evil, where children are trained to become fairy tale heroes or villains. While Sophie, who dreams of being a princess, expects to be placed in the School for Good, and Agatha, who prefers solitude and darkness, seems destined for the School for Evil, their roles are shockingly reversed. This twist sets off an exciting and thought-provoking journey about destiny, identity, and the blurred lines between good and evil.",
+        "description_2": "The novel explores themes of friendship, self-discovery, and the true nature of morality, challenging the traditional fairy tale idea that good and evil are absolute. Sophie and Agatha must navigate their new world, facing magical lessons, dangerous trials, and an ever-growing tension between them as they question who they really are. Chainani weaves an engaging narrative filled with rich world-building, humor, and unexpected twists, making the book both thrilling and thought-provoking.",
+        "description_3": "With its unique take on fairy tales, strong character development, and action-packed storytelling, The School for Good and Evil has captivated readers of all ages. It’s the first book in a best-selling series that expands on the adventures of Sophie and Agatha, drawing readers into a beautifully crafted world where heroes and villains are not always what they seem. Perfect for fans of fantasy and magical school stories, this book is an exciting and imaginative read that keeps audiences eagerly turning the pages."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Harper Collins Children's"],
@@ -8335,7 +8356,14 @@
     "categories": ["childrens", "childrens-kidsBooks"],
     "total_page": "57",
     "price": "24.65",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "The Giving Tree by Shel Silverstein is a timeless and heartfelt story about the unconditional love between a tree and a boy. The tree selflessly provides for the boy throughout his life, offering shade, apples, branches, and even its trunk to fulfill his needs and desires. As the boy grows older, he takes more from the tree without considering its well-being, until nothing remains but a stump. Yet, even in its final state, the tree continues to give, offering the boy—now an old man—a place to sit and rest. Through its simple yet profound narrative, the book explores themes of selflessness, generosity, love, and the passage of time, leaving readers with a deeply emotional and thought-provoking message about relationships and giving.",
+    "descriptions": [
+      {
+        "description_1": "The Giving Tree by Shel Silverstein is a timeless and deeply moving children's book that explores the themes of unconditional love, selflessness, and the passage of time. The story follows the relationship between a young boy and a generous tree that gives everything it has to make him happy. As the boy grows older, he continuously takes from the tree—its apples, branches, and trunk—until nothing remains but a stump. Despite this, the tree continues to give without expecting anything in return, illustrating the depth of true generosity.",
+        "description_2": "Through its simple yet powerful storytelling and minimalistic illustrations, the book delivers a profound message about love, sacrifice, and human nature. It raises thought-provoking questions about giving and taking, the nature of happiness, and the cost of selflessness. While some interpret the story as a beautiful tale of parental love, others see it as a cautionary reflection on human consumption and appreciation. This open-ended meaning allows readers of all ages to take away different lessons from the book.",
+        "description_3": "Since its publication in 1964, The Giving Tree has remained one of the most beloved and widely discussed children's books. Its emotional depth and timeless message continue to resonate with readers young and old. Whether viewed as a heartwarming story of unconditional love or a bittersweet reflection on the sacrifices we make for others, this book remains a powerful and unforgettable reading experience."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Harper & Row"],
@@ -8369,7 +8397,14 @@
     "categories": ["childrens", "childrens-kidsBooks"],
     "total_page": "30",
     "price": "5.97",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "The Gruffalo by Julia Donaldson is a delightful children’s story about a clever little mouse who outsmarts the predators in the deep, dark wood. As he encounters a fox, an owl, and a snake—all eager to eat him—he invents a terrifying creature called the Gruffalo to scare them away. But when the imaginary Gruffalo turns out to be real, the mouse must use his quick thinking once again to escape danger. With rhythmic storytelling, charming illustrations by Axel Scheffler, and a fun twist, The Gruffalo is a beloved tale about wit, courage, and the power of storytelling.",
+    "descriptions": [
+      {
+        "description_1": "The Gruffalo by Julia Donaldson is a delightful and imaginative children's picture book that follows the clever journey of a small mouse through the deep, dark woods. As the mouse encounters various predators—a fox, an owl, and a snake—each eager to eat him, he outsmarts them by inventing a fearsome creature called the Gruffalo to scare them away. The twist comes when the imaginary Gruffalo turns out to be real, forcing the mouse to use his quick thinking once again to avoid becoming a meal.",
+        "description_2": "With its rhythmic, rhyming text and charming illustrations by Axel Scheffler, The Gruffalo captivates young readers while teaching valuable lessons about wit, courage, and problem-solving. The repetitive structure makes it engaging and easy for children to follow, encouraging participation and anticipation of what comes next. The story also reinforces the idea that intelligence and creativity can overcome physical strength, making it an empowering tale for young audiences.",
+        "description_3": "Since its publication, The Gruffalo has become a modern classic, loved by children and parents worldwide. It has inspired adaptations, including stage plays, animated films, and educational activities. With its humor, engaging storytelling, and lovable characters, this book remains a favorite bedtime read, sparking the imaginations of children while imparting a timeless message about cleverness and bravery."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Macmillan Children's Books"],
