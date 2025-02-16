@@ -14,7 +14,7 @@ const Hero1 = () => (
         stiffness: 100,
       }}
     >
-      <div className=" grid grid-cols-4 gap-4 mx-auto max-w-screen-xl">
+      <div className="grid grid-cols-4 gap-4 mx-auto max-w-screen-xl">
         <div className="sm:col-span-1 lg:col-span-2"></div>
         <div className="flex flex-col sm:my-20 md:my-36 pr-2 col-span-2">
           <div className="flex justify-center items-center lg:justify-end lg:items-end my-2">

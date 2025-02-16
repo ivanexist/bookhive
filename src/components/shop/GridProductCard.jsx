@@ -60,7 +60,7 @@ const GridProductCard = ({ book, bookId }) => {
             className="absolute flex justify-end items-end flex-col top-4 ml-4"
           >
             {/* add to cart */}
-            <div className="flex items-center border border-transparent justify-center md:p-3 md:mb-3 sm:p-4 sm:mb-4 transition-all  bg-white text-blumine-500 hover:text-white hover:bg-blumine-600 hover:border-blumine-600 cursor-pointer">
+            <div className="flex items-center border border-transparent justify-center md:p-3 md:mb-3 sm:p-4 sm:mb-4 transition-all bg-white text-blumine-500 hover:text-white hover:bg-blumine-600 hover:border-blumine-600 cursor-pointer">
               {console.log(bookId)}
               <button
                 className="cursor-pointer"

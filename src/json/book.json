@@ -7003,7 +7003,14 @@
     "categories": ["scienceMathematics", "scienceMathematics-programming"],
     "total_page": "472",
     "price": "14.13",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke is a comprehensive guide to JavaScript, blending fundamental programming concepts with hands-on coding exercises. Geared toward both beginners and experienced developers, the book covers essential topics such as functions, data structures, asynchronous programming, and object-oriented design. Through clear explanations and interactive examples, it emphasizes writing clean, efficient code while exploring modern JavaScript features like ES6 and beyond. With practical projects and a problem-solving approach, Eloquent JavaScript serves as both a learning resource and a reference for mastering the language.",
+    "descriptions": [
+      {
+        "description_1": "Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke is a widely acclaimed book that serves as both an introduction to JavaScript and a comprehensive guide to modern programming concepts. Written in an engaging and accessible style, the book is ideal for beginners who want to build a solid foundation in coding, as well as for experienced developers looking to refine their JavaScript skills. It covers fundamental topics such as variables, functions, and loops, gradually progressing to more complex subjects like asynchronous programming, higher-order functions, and object-oriented design.",
+        "description_2": "What sets this book apart is its interactive and hands-on approach. Each chapter introduces key programming concepts with clear explanations, followed by exercises and projects that encourage readers to apply what they’ve learned. The book also includes a built-in coding environment, allowing readers to experiment with code directly in their browsers. This practical focus helps readers develop a deeper understanding of JavaScript by writing and debugging real code rather than just reading theory.",
+        "description_3": "Beyond JavaScript itself, Eloquent JavaScript explores essential programming principles that apply to various languages and paradigms. It delves into topics like functional programming, data structures, and algorithms, making it a valuable resource for those looking to improve their problem-solving skills. With its well-structured content, engaging examples, and real-world applications, this book remains a favorite among programmers who seek both clarity and depth in their learning journey."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["No Starch Press"],
@@ -7037,7 +7044,14 @@
     "categories": ["scienceMathematics", "scienceMathematics-programming"],
     "total_page": "210",
     "price": "33.79",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Clean Code: A Code of Conduct for Professional Programmers by Robert C. Martin is a must-read for software developers who strive to write high-quality, maintainable code. The book emphasizes the principles, patterns, and best practices that separate good code from bad, guiding programmers toward writing cleaner, more efficient, and more readable software. Through real-world examples, refactoring techniques, and practical advice, Martin illustrates how to improve code structure, eliminate technical debt, and foster a disciplined approach to software development. Whether you're a beginner or an experienced developer, Clean Code provides valuable insights into writing code that is not only functional but also elegant and sustainable.",
+    "descriptions": [
+      {
+        "description_1": "Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin is a must-read for software developers who strive to write high-quality, maintainable code. The book emphasizes the importance of writing clean, readable, and efficient code, arguing that good coding practices lead to better software and more productive teams. Martin, a seasoned software engineer and one of the creators of the Agile Manifesto, provides a clear philosophy on software craftsmanship, stressing that writing code is not just about making it work but making it elegant and understandable.",
+        "description_2": "The book is structured into three main sections. The first part discusses the principles, patterns, and best practices of writing clean code, including meaningful naming, proper function structuring, and the avoidance of unnecessary complexity. The second part consists of case studies, where real-world code is analyzed and improved to demonstrate how theoretical principles can be applied in practice. The final section highlights the importance of continuous improvement and discipline in software development, offering insights into the habits of successful programmers.",
+        "description_3": "More than just a technical guide, Clean Code encourages a mindset of professionalism and responsibility among developers. It challenges programmers to think beyond simply writing functional code and to consider long-term maintainability, readability, and efficiency. With its mix of practical examples, real-world case studies, and actionable advice, the book remains an essential resource for developers who want to elevate their coding skills and contribute to a higher standard of software development."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Prentice Hall"],
@@ -7071,7 +7085,14 @@
     "categories": ["scienceMathematics", "scienceMathematics-programming"],
     "total_page": "456",
     "price": "13.42",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Pro Git by Scott Chacon and Ben Straub is a comprehensive guide to Git, the widely used version control system that has become essential for software development and collaboration. The book covers everything from the basics of setting up and using Git to more advanced topics like branching, merging, rebasing, and distributed workflows. It also explores Git internals, helping readers understand how Git works under the hood. Written in a clear and accessible style, Pro Git is ideal for beginners looking to master Git as well as experienced developers seeking deeper insights into version control best practices.",
+    "descriptions": [
+      {
+        "description_1": "Pro Git by Scott Chacon and Ben Straub is a comprehensive guide to Git, the most widely used version control system in modern software development. The book provides an in-depth exploration of Git’s architecture, commands, and best practices, making it suitable for both beginners and experienced developers. It starts with the basics of version control and gradually introduces advanced topics like branching, merging, rebasing, and distributed workflows. Written in a clear and engaging style, Pro Git helps readers develop a deep understanding of how Git works under the hood.",
+        "description_2": "One of the book’s key strengths is its practical approach. Each chapter includes real-world examples, command-line instructions, and explanations of how different Git features can be used effectively in various development scenarios. The book also covers essential topics such as collaborating with remote repositories, managing large projects, and using Git in team environments. By providing hands-on experience and step-by-step guidance, Pro Git ensures that readers can confidently apply Git to their daily workflows.",
+        "description_3": "Beyond just a technical manual, Pro Git also explores the philosophy behind distributed version control and why Git has become the industry standard. It delves into topics like Git internals, custom workflows, and integrations with popular platforms like GitHub and GitLab. With its detailed yet accessible content, this book is an invaluable resource for developers, DevOps engineers, and anyone looking to master Git for efficient and reliable software development."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Apress"],
@@ -7105,7 +7126,14 @@
     "categories": ["scienceMathematics", "scienceMathematics-programming"],
     "total_page": "466",
     "price": "9.82",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Python for Data Analysis by Wes McKinney is a comprehensive guide to data manipulation, processing, and analysis using Python. Written by the creator of the pandas library, the book covers essential tools and techniques for working with structured data, including NumPy, pandas, and matplotlib. It introduces fundamental data wrangling concepts, such as cleaning, transforming, and visualizing datasets, making it an essential resource for analysts, data scientists, and anyone working with data. With practical examples and hands-on exercises, the book provides a clear, step-by-step approach to solving real-world data problems, making it a go-to reference for both beginners and experienced professionals.",
+    "descriptions": [
+      {
+        "description_1": "Python for Data Analysis by Wes McKinney is a foundational guide for anyone looking to use Python for data manipulation, analysis, and visualization. Written by the creator of the pandas library, the book provides a hands-on introduction to essential data science tools, including NumPy, pandas, Matplotlib, and Jupyter Notebooks. It covers key concepts such as data cleaning, transformation, aggregation, and time series analysis, making it an excellent resource for both beginners and experienced analysts who want to improve their workflow efficiency.",
+        "description_2": "One of the book’s strengths is its practical approach, with real-world datasets and examples that demonstrate how to apply Python to solve common data problems. Readers learn how to import, clean, and analyze data effectively, as well as how to visualize insights using Python’s rich ecosystem of libraries. The book also emphasizes best practices for writing efficient, readable, and reproducible code, ensuring that users can handle large datasets with ease.",
+        "description_3": "Beyond basic data analysis, Python for Data Analysis introduces more advanced topics, such as performance optimization and working with big data frameworks. It serves as both a tutorial and a reference, making it an essential guide for data scientists, analysts, and anyone working with data in Python. With its clear explanations and hands-on exercises, this book is a must-read for those looking to leverage Python for powerful and efficient data analysis."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["O'Reilly Media"],
@@ -7139,7 +7167,14 @@
     "categories": ["scienceMathematics", "scienceMathematics-programming"],
     "total_page": "431",
     "price": "35.01",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Refactoring: Improving the Design of Existing Code by Martin Fowler is a classic guide that teaches software developers how to improve code structure without changing its functionality. The book introduces the concept of refactoring, a disciplined process of restructuring code to enhance readability, maintainability, and performance. Through real-world examples and step-by-step transformations, Fowler demonstrates how small, incremental changes can lead to significant improvements in software quality. The book covers key refactoring techniques, code smells, and best practices, making it an essential resource for developers aiming to write cleaner, more efficient, and more sustainable code.",
+    "descriptions": [
+      {
+        "description_1": "Refactoring: Improving the Design of Existing Code by Martin Fowler is a classic software development book that teaches programmers how to enhance the structure and maintainability of their code without altering its functionality. The book introduces the concept of refactoring, a disciplined approach to improving code readability, reducing technical debt, and making future modifications easier. Fowler emphasizes that clean, well-structured code is not just a luxury but a necessity for long-term software sustainability.",
+        "description_2": "The book is structured around practical examples, primarily using Java, to illustrate different refactoring techniques. Fowler presents a catalog of refactoring patterns, each with a detailed explanation of when and how to apply them. These include renaming variables for clarity, breaking down large functions into smaller ones, and simplifying complex conditional logic. By following these techniques, developers can transform messy, hard-to-maintain code into elegant, modular, and efficient structures.",
+        "description_3": "Beyond just a set of techniques, Refactoring promotes a mindset of continuous improvement in software development. It encourages developers to regularly assess and refine their code, leading to more robust and scalable applications. With its clear explanations, real-world examples, and actionable strategies, this book is an essential resource for programmers, software architects, and anyone committed to writing high-quality, maintainable code."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Addison-Wesley Professional"],
@@ -7173,7 +7208,14 @@
     "categories": ["businessFinance", "businessFinance-management"],
     "total_page": "256",
     "price": "13.99",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel explores the often-overlooked behavioral aspects of finance, emphasizing that managing money is more about psychology than mathematical formulas. Through engaging stories and real-world examples, Housel illustrates how emotions, personal experiences, and human biases shape financial decisions. The book challenges conventional wisdom by showing that wealth accumulation is not just about intelligence or strategy but about mindset, patience, and avoiding common pitfalls like greed and fear. With timeless lessons on saving, investing, and financial independence, The Psychology of Money offers practical insights that help readers develop a healthier and more sustainable relationship with money.",
+    "descriptions": [
+      {
+        "description_1": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness by Morgan Housel explores the deeply psychological and behavioral aspects of financial decision-making. Rather than focusing on technical investment strategies or economic theories, the book delves into how human emotions, biases, and life experiences shape our relationship with money. Housel argues that financial success is not just about knowledge and intelligence but also about discipline, patience, and understanding one’s own psychological tendencies.",
+        "description_2": "Through engaging storytelling and real-world examples, Housel presents 19 short lessons that highlight key principles about wealth and personal finance. He explains why people make irrational financial choices, the importance of long-term thinking, and how factors like luck, risk, and personal values influence financial outcomes. The book emphasizes that money management is more about behavior than math, making it accessible and insightful for readers from all backgrounds, whether they are seasoned investors or just starting their financial journey.",
+        "description_3": "Beyond personal finance, The Psychology of Money offers timeless wisdom on living a balanced and fulfilling life. It encourages readers to rethink traditional notions of wealth and success, focusing instead on financial independence, security, and personal happiness. With its easy-to-read style and thought-provoking insights, this book has become a favorite among those looking to develop a healthier, more mindful approach to money and financial well-being."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Lulu Press, Inc."],
@@ -7207,7 +7249,14 @@
     "categories": ["businessFinance", "businessFinance-management"],
     "total_page": "254",
     "price": "24.30",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "It Doesn't Have to Be Crazy at Work by Jason Fried and David Heinemeier Hansson challenges the modern hustle culture and advocates for a calmer, more sustainable approach to work. The authors, founders of Basecamp, argue that excessive overtime, constant meetings, and an always-on mentality are not signs of productivity but of poor management. Through practical insights and real-world examples, they propose a workplace built on focus, trust, and efficiency—where employees can do great work without sacrificing their well-being. With its straightforward and refreshing perspective, the book serves as a guide for creating a healthier, more balanced work environment.",
+    "descriptions": [
+      {
+        "description_1": "It Doesn't Have to Be Crazy at Work by Jason Fried and David Heinemeier Hansson challenges the modern work culture of overwork, stress, and constant hustle. The authors, founders of the successful software company Basecamp, argue that the prevailing idea of long hours, endless meetings, and workplace chaos is not only unnecessary but also counterproductive. Instead, they advocate for a calm, sustainable work environment where employees can be productive without burning out.",
+        "description_2": "Through a series of short, insightful essays, the book presents practical strategies for creating a healthier work culture. It emphasizes the importance of setting boundaries, eliminating excessive meetings, reducing distractions, and fostering deep, focused work. Fried and Hansson reject the glorification of busyness and instead promote a work philosophy centered on efficiency, trust, and respect for personal time. Their approach encourages leaders and employees alike to rethink traditional work norms and embrace a more balanced, fulfilling professional life.",
+        "description_3": "More than just a business book, It Doesn't Have to Be Crazy at Work is a manifesto for a new way of working—one that prioritizes well-being and long-term success over short-term hustle. The authors draw from their own experiences running Basecamp, proving that companies can thrive without chaos and burnout. With its straightforward, no-nonsense advice, this book is a must-read for entrepreneurs, managers, and anyone seeking a more sustainable and enjoyable work life."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["HarperCollins"],
@@ -7241,7 +7290,14 @@
     "categories": ["businessFinance", "businessFinance-management"],
     "total_page": "235",
     "price": "15.98",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "High Output Management by Andrew S. Grove is a practical and insightful guide to effective leadership and productivity in the workplace. Drawing from his experience as the former CEO of Intel, Grove breaks down the core principles of management, focusing on how to maximize team output, improve decision-making, and create scalable processes. He emphasizes the importance of leveraging leverage—ensuring that a manager’s time and effort produce the highest possible impact. Through real-world examples, he covers topics like performance measurement, delegation, team dynamics, and efficient meetings. With its clear, no-nonsense approach, High Output Management remains an essential read for leaders, entrepreneurs, and anyone looking to build high-performing teams.",
+    "descriptions": [
+      {
+        "description_1": "High Output Management by Andrew S. Grove is a classic guide to effective leadership and management, written by the former CEO of Intel. Drawing from his decades of experience in the tech industry, Grove presents a practical, no-nonsense approach to maximizing team productivity and organizational efficiency. He emphasizes that a manager’s primary role is to create the highest possible output—not by working harder, but by improving processes, optimizing decision-making, and leveraging the strengths of their team.",
+        "description_2": "The book breaks down essential management concepts such as goal setting, performance measurement, and decision-making. Grove introduces the idea of leverage in management, where small, well-planned actions can lead to significant improvements in efficiency and output. He also covers topics like one-on-one meetings, delegation, and the importance of structured training. By using clear examples from manufacturing and technology, High Output Management provides actionable insights that apply across industries and leadership levels.",
+        "description_3": "Beyond just management theory, Grove’s book serves as a practical playbook for anyone in a leadership role, from startup founders to corporate executives. It highlights the importance of adaptability, strategic thinking, and continuous learning in an ever-changing business landscape. With its timeless wisdom and real-world applications, High Output Management remains one of the most influential books on leadership, making it an essential read for managers looking to improve their effectiveness and drive better results."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Random House"],
@@ -7275,7 +7331,14 @@
     "categories": ["businessFinance", "businessFinance-management"],
     "total_page": "446",
     "price": "7.61",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "The Personal MBA: Master the Art of Business by Josh Kaufman is a comprehensive guide to essential business principles, designed for those who want to gain practical business knowledge without the time and cost of a traditional MBA. The book distills key concepts from economics, marketing, leadership, sales, and strategy into clear, actionable insights that anyone can apply. Kaufman argues that real-world business success comes from understanding fundamental principles rather than memorizing complex theories. By focusing on mental models, decision-making frameworks, and effective management techniques, The Personal MBA equips readers with the skills needed to start, run, or improve a business efficiently. Whether you're an entrepreneur, executive, or simply curious about business, this book offers a no-nonsense approach to mastering the art of business.",
+    "descriptions": [
+      {
+        "description_1": "The Personal MBA: Master the Art of Business by Josh Kaufman is a comprehensive guide that distills the core principles of business into an accessible and practical format. Instead of pursuing a traditional and expensive MBA, Kaufman argues that anyone can master business fundamentals through self-education. The book covers essential topics such as marketing, sales, finance, operations, and strategy, providing readers with a clear understanding of how successful businesses operate.",
+        "description_2": "Kaufman organizes the book into concise, easy-to-digest chapters that present key concepts and mental models for making better business decisions. He explains complex ideas in simple language, offering practical insights on topics like value creation, customer acquisition, and system optimization. By focusing on universal principles rather than academic theory, The Personal MBA equips readers with actionable knowledge they can immediately apply to their businesses or careers.",
+        "description_3": "More than just a business guide, The Personal MBA promotes a mindset of continuous learning and independent thinking. Kaufman emphasizes that real-world experience and practical knowledge are more valuable than a formal degree in today’s fast-paced business environment. Whether you're an aspiring entrepreneur, a seasoned professional, or simply curious about how business works, this book offers a powerful framework for understanding and succeeding in the world of business."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Portfolio Trade"],
@@ -7309,7 +7372,14 @@
     "categories": ["businessFinance", "businessFinance-management"],
     "total_page": "969",
     "price": "44.45",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Strategic Management by Fred R. David is a comprehensive textbook that explores the principles, frameworks, and real-world applications of strategic planning and decision-making in business. Covering essential topics such as competitive analysis, strategy formulation, implementation, and evaluation, the book provides a structured approach to achieving long-term business success. With a strong focus on case studies and practical examples, it helps readers understand how organizations navigate complex environments, adapt to change, and sustain competitive advantages. Designed for students, professionals, and business leaders, this book serves as a valuable resource for mastering the art and science of strategic management.",
+    "descriptions": [
+      {
+        "description_1": "Strategic Management: A Competitive Advantage Approach, Concepts and Cases by Fred R. David is a widely respected textbook that provides a comprehensive framework for understanding and applying strategic management principles. The book explores how organizations formulate, implement, and evaluate strategies to achieve long-term success in a competitive business environment. With a focus on real-world applications, it equips students and professionals with the tools needed to analyze industries, assess company performance, and make strategic decisions.",
+        "description_2": "One of the book’s key strengths is its structured approach, which breaks down strategic management into three core stages: strategy formulation, strategy implementation, and strategy evaluation. It covers essential topics such as external and internal analysis, competitive advantage, business ethics, and global strategy. The book also features numerous case studies from a variety of industries, allowing readers to see how strategic principles are applied in real companies, from startups to multinational corporations.",
+        "description_3": "Beyond theory, Strategic Management emphasizes practical decision-making and critical thinking. It includes various analytical tools and frameworks, such as SWOT analysis, Porter’s Five Forces, and the Balanced Scorecard, to help readers develop strategic plans effectively. Whether used in an academic setting or by professionals seeking to refine their strategic skills, this book remains an essential resource for anyone looking to understand and apply strategic management in today’s dynamic business world."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Merrill"],
@@ -7343,7 +7413,14 @@
     "categories": ["businessFinance", "businessFinance-enterpreneurship"],
     "total_page": "400",
     "price": "16.90",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. <Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Elon Musk by Ashlee Vance is a compelling biography that explores the life, vision, and relentless ambition of one of the most influential entrepreneurs of our time. The book traces Musk’s journey from his childhood in South Africa to his rise as the driving force behind PayPal, Tesla, SpaceX, and other groundbreaking ventures. Vance provides an in-depth look at Musk’s relentless work ethic, risk-taking mindset, and unyielding pursuit of innovation, revealing both his brilliance and the challenges he faces. Through exclusive interviews with Musk, his family, and colleagues, the book offers a fascinating portrait of a man determined to push humanity toward a future of space exploration, sustainable energy, and advanced technology.",
+    "descriptions": [
+      {
+        "description_1": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance is a gripping biography that delves into the life and career of one of the most ambitious and visionary entrepreneurs of our time. The book chronicles Musk’s journey from his childhood in South Africa to becoming the driving force behind groundbreaking companies like Tesla, SpaceX, SolarCity, and Neuralink. Through extensive interviews with Musk, his family, and colleagues, Vance provides an in-depth look at the man behind the innovations that are shaping the future of technology and space exploration.",
+        "description_2": "Vance explores Musk’s relentless work ethic, risk-taking mentality, and unyielding belief in his bold visions. The book sheds light on the challenges he faced—both personal and professional—including near-bankruptcies, intense criticism, and the struggle to bring his revolutionary ideas to life. Whether it’s launching reusable rockets, transforming the electric vehicle industry, or aiming to colonize Mars, Musk’s ability to defy the odds and push technological boundaries is a central theme throughout the biography.",
+        "description_3": "Beyond just a business story, Elon Musk offers insight into what drives a modern-day innovator. It captures his complex personality, leadership style, and the sacrifices required to pursue world-changing goals. With a fast-paced narrative and behind-the-scenes details, the book is an inspiring read for anyone interested in entrepreneurship, technology, and the power of audacious thinking."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Harper Collins"],
@@ -7377,7 +7454,14 @@
     "categories": ["businessFinance", "businessFinance-enterpreneurship"],
     "total_page": "224",
     "price": "14.89",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel offers unconventional insights into innovation, entrepreneurship, and building groundbreaking businesses. Thiel, co-founder of PayPal and an early investor in Facebook, argues that true progress comes from creating something entirely new—going from 'zero to one'—rather than simply iterating on existing ideas. The book challenges conventional business wisdom, emphasizing the importance of monopoly, long-term vision, and unique thinking in building a successful startup. With thought-provoking ideas on competition, technology, and the future of innovation, Zero to One serves as a guide for entrepreneurs looking to create truly revolutionary companies.",
+    "descriptions": [
+      {
+        "description_1": "Zero to One: Notes on Startups, Or How to Build the Future by Peter Thiel, co-founder of PayPal and Palantir, is a thought-provoking guide on innovation, entrepreneurship, and building groundbreaking businesses. Thiel argues that true innovation happens when companies create something entirely new (going from 'zero to one') rather than merely improving existing ideas (going from 'one to n'). The book challenges conventional startup wisdom and offers a unique perspective on what it takes to build a truly successful and monopolistic company.",
+        "description_2": "Thiel presents several unconventional ideas, such as the importance of monopoly over competition, why founders should focus on creating something unique rather than trying to disrupt existing markets, and the role of long-term vision in startup success. He also discusses key principles like the power of proprietary technology, network effects, economies of scale, and branding. Drawing from his experiences at PayPal and other ventures, Thiel provides practical insights into how startups can achieve sustainable growth and avoid common pitfalls.",
+        "description_3": "More than just a business book, Zero to One encourages readers to think critically about the future and their role in shaping it. Thiel emphasizes that progress is not inevitable—it requires bold thinking, risk-taking, and a willingness to challenge conventional wisdom. With its deep insights and contrarian viewpoints, this book is a must-read for aspiring entrepreneurs, investors, and anyone looking to create something truly transformative."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Harper Collins"],
@@ -7411,7 +7495,14 @@
     "categories": ["businessFinance", "businessFinance-enterpreneurship"],
     "total_page": "641",
     "price": "18.89",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Entrepreneurship: Starting, Developing, and Managing a New Enterprise is a comprehensive guide that provides aspiring entrepreneurs with the essential knowledge and tools to successfully launch and grow a business. The book covers key aspects of entrepreneurship, including identifying opportunities, developing business plans, securing funding, managing operations, and scaling ventures. It emphasizes practical strategies for navigating challenges such as competition, financial risks, and market uncertainties while also highlighting the importance of innovation, leadership, and adaptability. With real-world case studies and actionable insights, this book serves as a valuable resource for anyone looking to build and sustain a successful enterprise in today’s dynamic business environment.",
+    "descriptions": [
+      {
+        "description_1": "Entrepreneurship: Starting, Developing, and Managing a New Enterprise is a comprehensive guide that provides aspiring entrepreneurs with the knowledge and skills needed to successfully launch and grow a business. The book covers the entire entrepreneurial journey, from identifying business opportunities and developing a viable business plan to securing funding, managing operations, and scaling a company. It blends theoretical concepts with real-world applications, making it a valuable resource for students, startup founders, and business professionals.",
+        "description_2": "One of the book’s key strengths is its practical approach to entrepreneurship. It explores essential topics such as market research, business model development, financial planning, and risk management. Readers gain insights into different business structures, legal considerations, and strategies for sustaining competitive advantage. Case studies and real-life examples from various industries help illustrate how successful entrepreneurs navigate challenges and seize opportunities in an ever-changing business landscape.",
+        "description_3": "Beyond just business fundamentals, Entrepreneurship emphasizes the mindset and skills required for long-term success. It highlights the importance of innovation, leadership, adaptability, and resilience in building and managing a thriving enterprise. Whether used as a textbook in an academic setting or as a guide for aspiring business owners, this book serves as a valuable roadmap for turning ideas into successful ventures."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Irwin"],
@@ -7445,7 +7536,14 @@
     "categories": ["businessFinance", "businessFinance-enterpreneurship"],
     "total_page": "132",
     "price": "6.21",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Rich Dad Poor Dad for Teens: The Secrets About Money – That You Don’t Learn in School! by Robert T. Kiyosaki is a practical and engaging guide that introduces young readers to the fundamentals of financial literacy. Adapted from the bestselling Rich Dad Poor Dad, this book simplifies key lessons about money, investing, and smart financial decision-making in a way that is relatable to teenagers. Through personal stories and easy-to-understand concepts, Kiyosaki contrasts the mindset of his 'rich dad,' who teaches him about wealth-building, with his poor dad,' who follows traditional financial beliefs. The book covers essential topics like earning passive income, managing expenses, and thinking like an entrepreneur rather than just working for a paycheck. Designed to empower teens with financial confidence, this book encourages young readers to develop smart money habits early and take control of their financial future.",
+    "descriptions": [
+      {
+        "description_1": "Rich Dad Poor Dad for Teens: The Secrets About Money – That You Don’t Learn in School! by Robert T. Kiyosaki is a simplified and engaging version of the bestselling Rich Dad Poor Dad, designed specifically for younger readers. The book introduces fundamental financial concepts in an easy-to-understand way, helping teenagers develop a smart mindset about money, saving, and investing. Through relatable storytelling, Kiyosaki contrasts the financial advice of his 'Rich Dad' (his mentor) with that of his 'Poor Dad' (his biological father), highlighting key lessons about wealth and financial independence.",
+        "description_2": "The book covers essential topics such as the importance of financial education, the difference between assets and liabilities, and how to develop a mindset for financial success. It encourages teens to think beyond the traditional path of getting a job and instead explore opportunities for entrepreneurship, investing, and passive income. Using real-life examples, interactive exercises, and practical advice, Kiyosaki makes financial literacy fun and accessible, empowering young readers to make smarter money decisions early in life.",
+        "description_3": "More than just a book about money, Rich Dad Poor Dad for Teens teaches valuable life skills such as critical thinking, goal setting, and financial responsibility. By breaking down complex financial principles into simple, actionable steps, it provides teens with the confidence and knowledge to start building their financial future. Whether they want to start a business, invest, or simply learn how to manage their money wisely, this book offers a strong foundation for lifelong financial success."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Warner Books"],
@@ -7479,7 +7577,14 @@
     "categories": ["businessFinance", "businessFinance-enterpreneurship"],
     "total_page": "132",
     "price": "26.31",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "I Will Teach You to Be Rich by Ramit Sethi is a practical, no-nonsense guide to personal finance, designed for young professionals looking to take control of their money without sacrificing their lifestyle. Sethi lays out a six-week plan covering essential topics like budgeting, saving, investing, and automating finances, all while debunking common financial myths. With a focus on guilt-free spending, he teaches readers how to grow wealth by making smart financial choices—such as optimizing credit cards, negotiating bills, and investing in low-cost index funds. Blending humor, psychology, and actionable advice, this book offers a refreshing and realistic approach to achieving financial freedom and long-term wealth.",
+    "descriptions": [
+      {
+        "description_1": "I Will Teach You to Be Rich by Ramit Sethi is a practical and engaging personal finance book that offers a step-by-step guide to building wealth without sacrificing the joys of life. Aimed at young professionals and beginners, the book breaks down complex financial topics into simple, actionable advice. Sethi emphasizes that financial success is not about extreme budgeting or cutting out lattes but about making smart, automated decisions that lead to long-term wealth and financial freedom.",
+        "description_2": "The book covers essential topics such as saving, investing, budgeting, and managing credit cards effectively. Sethi introduces the concept of a 'conscious spending plan,' which allows readers to enjoy their money while still saving and investing wisely. He also provides insights into choosing the right bank accounts, automating finances, and using credit strategically to maximize rewards. Through a mix of humor, real-world examples, and no-nonsense advice, Sethi makes personal finance approachable and easy to implement.",
+        "description_3": "More than just a financial guide, I Will Teach You to Be Rich focuses on creating a rich life based on individual goals and priorities. Sethi encourages readers to take control of their finances so they can spend on what they love—whether it's travel, dining, or hobbies—without guilt. With its fresh, practical approach and emphasis on long-term financial habits, this book is a must-read for anyone looking to build wealth and live a financially stress-free life."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Workman Pub."],
@@ -7513,7 +7618,14 @@
     "categories": ["businessFinance", "businessFinance-businessEconomics"],
     "total_page": "270",
     "price": "10.57",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "SuperFreakonomics by Steven D. Levitt and Stephen J. Dubner is a fascinating follow-up to Freakonomics, exploring unexpected and unconventional insights into human behavior through the lens of economics. Using data-driven analysis and real-world case studies, the authors tackle intriguing topics such as why suicide bombers should buy life insurance, how simple fixes can solve complex global problems, and what incentives drive human decision-making. With a mix of wit, storytelling, and counterintuitive conclusions, SuperFreakonomics challenges readers to rethink the world around them, proving that economics can explain far more than just money—it can uncover the hidden forces shaping society.",
+    "descriptions": [
+      {
+        "description_1": "SuperFreakonomics by Steven D. Levitt and Stephen J. Dubner is a thought-provoking follow-up to their bestselling book Freakonomics. This sequel continues to explore the hidden side of everyday life, using economic principles to analyze unexpected and often controversial topics. The authors apply data-driven insights to questions ranging from why walking drunk is more dangerous than driving drunk to how simple incentives can solve some of the world’s biggest problems. Their unconventional approach challenges conventional wisdom and reveals surprising connections between seemingly unrelated events.",
+        "description_2": "Through engaging storytelling and real-world case studies, SuperFreakonomics dives into subjects such as climate change, terrorism, medical advancements, and even the economics of prostitution. Levitt and Dubner show how human behavior is often influenced by incentives—both intended and unintended—leading to outcomes that defy common expectations. The book also highlights how small, counterintuitive changes can have a massive impact, making it a fascinating read for those who enjoy thinking outside the box.",
+        "description_3": "More than just a book on economics, SuperFreakonomics is a study of human nature and the unexpected consequences of our choices. With its mix of humor, sharp analysis, and engaging storytelling, it encourages readers to look at the world differently and question widely accepted beliefs. Whether you're a fan of economics or just enjoy learning about the quirky realities of life, this book offers a fresh perspective on how the world really works."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Allen Lane"],
@@ -7547,7 +7659,14 @@
     "categories": ["businessFinance", "businessFinance-businessEconomics"],
     "total_page": "688",
     "price": "17.70",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Money: Master the Game by Tony Robbins is a comprehensive guide to achieving financial freedom through smart investing and wealth management. Based on insights from some of the world’s top financial experts, including Warren Buffett and Ray Dalio, Robbins breaks down complex financial strategies into simple, actionable steps. The book covers topics such as saving, investing, asset allocation, and avoiding common financial pitfalls. With a focus on long-term security, Money: Master the Game provides readers with a clear roadmap to building and protecting wealth, no matter their income level. Through practical advice, real-life case studies, and expert interviews, Robbins empowers readers to take control of their financial future and create lasting financial independence.",
+    "descriptions": [
+      {
+        "description_1": "Money: Master the Game by Tony Robbins is a comprehensive personal finance book that provides readers with a roadmap to financial freedom. Drawing from interviews with some of the world's top investors, including Warren Buffett and Ray Dalio, Robbins distills their strategies into actionable steps that anyone can follow. The book emphasizes the importance of smart investing, minimizing financial risks, and creating a long-term plan to build wealth.",
+        "description_2": "Robbins breaks down complex financial concepts into easy-to-understand principles, covering topics such as asset allocation, passive income, tax efficiency, and retirement planning. He introduces the '7 Simple Steps to Financial Freedom,' which guide readers through setting financial goals, mastering saving habits, and making strategic investment decisions. Unlike many finance books that focus solely on theory, Money: Master the Game provides practical tools, including checklists, strategies, and specific investment recommendations to help readers take control of their financial future.",
+        "description_3": "More than just a guide to wealth accumulation, Money: Master the Game encourages a shift in mindset about money, security, and long-term success. Robbins stresses that financial independence is not just about how much money you make, but how you manage and grow it over time. With its combination of expert advice, real-world case studies, and motivational insights, this book is an essential read for anyone looking to achieve financial security and freedom."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Simon & Schuster"],
@@ -7581,7 +7700,14 @@
     "categories": ["businessFinance", "businessFinance-businessEconomics"],
     "total_page": "789",
     "price": "69.03",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Economics by Richard G. Lipsey is a comprehensive and authoritative textbook that provides a deep understanding of economic principles, theories, and real-world applications. Covering both microeconomics and macroeconomics, the book explores essential topics such as supply and demand, market structures, economic policy, inflation, unemployment, and international trade. Known for its clear explanations and logical structure, Economics balances theoretical concepts with practical examples, making it accessible for students and professionals alike. With its emphasis on critical thinking and policy analysis, this book serves as a foundational resource for anyone looking to grasp the complexities of economic systems and their impact on society.",
+    "descriptions": [
+      {
+        "description_1": "Economics by Richard G. Lipsey is a comprehensive and widely respected textbook that provides a thorough introduction to economic principles and theories. Covering both microeconomics and macroeconomics, the book explains fundamental concepts such as supply and demand, market structures, inflation, unemployment, and economic growth. With clear explanations and real-world examples, it helps students and readers develop a strong foundation in economic thinking and analysis.",
+        "description_2": "One of the key strengths of this book is its balanced approach, combining theoretical models with practical applications. Lipsey presents economic concepts in a way that is accessible to beginners while still being rigorous enough for advanced learners. The book also explores contemporary economic issues, including globalization, environmental sustainability, and government policies, making it relevant for understanding today's economic challenges.",
+        "description_3": "Beyond just theory, Economics encourages critical thinking and problem-solving by showing how economic principles apply to everyday life and decision-making. It is widely used in universities and serves as an essential resource for students, policymakers, and anyone interested in understanding how economies function. With its structured approach and engaging content, this book remains a cornerstone for learning economics."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Harper & Row"],
@@ -7615,7 +7741,14 @@
     "categories": ["businessFinance", "businessFinance-businessEconomics"],
     "total_page": "759",
     "price": "8.59",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Economics of Regulation and Antitrust explores the principles and policies behind government regulation and antitrust laws, analyzing their impact on markets, businesses, and consumers. The book examines key economic theories related to market failures, monopolies, competition, and government intervention, offering a comprehensive view of how regulations shape industries. Through real-world case studies and empirical analysis, it explains the rationale behind antitrust enforcement, price controls, and public utility regulations. Balancing theory with practical applications, this book serves as an essential resource for students, policymakers, and professionals seeking to understand the role of regulation in promoting fair competition and economic efficiency.",
+    "descriptions": [
+      {
+        "description_1": "Economics of Regulation and Antitrust is a comprehensive book that explores the economic principles behind government regulation and competition policy. It provides an in-depth analysis of how markets function, why regulations are needed, and how antitrust laws promote fair competition. By examining both historical and modern case studies, the book helps readers understand the impact of regulatory policies on industries such as telecommunications, healthcare, and finance.",
+        "description_2": "The book covers key topics such as market failures, monopoly power, price regulation, and the role of government intervention in ensuring economic efficiency. It explains how antitrust laws, like those enforced by the Federal Trade Commission (FTC) and the Department of Justice, prevent anti-competitive behavior such as cartels, mergers that reduce competition, and predatory pricing. With a mix of theoretical insights and real-world applications, the book offers valuable knowledge for students, policymakers, and business professionals.",
+        "description_3": "Beyond just theory, Economics of Regulation and Antitrust encourages critical thinking about the effectiveness of different regulatory approaches. It examines the trade-offs between government control and market freedom, highlighting the complexities of balancing consumer protection with economic growth. With its detailed analysis and practical case studies, this book is an essential resource for anyone interested in the intersection of economics, law, and public policy."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["D.C. Heath"],
@@ -7649,7 +7782,14 @@
     "categories": ["businessFinance", "businessFinance-businessEconomics"],
     "total_page": "719",
     "price": "10.00",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Economic Development is a comprehensive book that examines the theories, policies, and real-world challenges related to economic growth and progress, particularly in developing countries. It explores key topics such as poverty, income inequality, sustainability, industrialization, and the role of institutions in shaping economic outcomes. The book provides a balanced approach by combining classical and modern economic theories with empirical data and case studies from around the world. By analyzing factors like education, health, technology, and globalization, Economic Development offers valuable insights into how nations can achieve sustainable and inclusive growth. It serves as an essential resource for students, policymakers, and professionals seeking to understand and address the complexities of economic progress.",
+    "descriptions": [
+      {
+        "description_1": "Economic Development is a widely respected textbook that provides a comprehensive overview of the theories, policies, and challenges associated with economic growth and progress. It explores how nations develop economically, the factors that drive long-term growth, and the role of institutions, markets, and government policies in shaping economic outcomes. Covering topics such as poverty reduction, income inequality, and sustainability, the book serves as an essential resource for students, policymakers, and professionals interested in global development.",
+        "description_2": "One of the key strengths of this book is its balanced approach, combining classical and modern economic theories with real-world case studies. It examines the experiences of both developed and developing countries, offering insights into why some economies thrive while others struggle. The book also explores contemporary issues such as globalization, environmental sustainability, and the impact of technological advancements on economic growth, making it highly relevant to today's economic landscape.",
+        "description_3": "Beyond just theory, Economic Development encourages critical thinking and problem-solving by presenting data-driven analysis and policy recommendations. It helps readers understand the complexities of fostering economic progress while addressing social and environmental challenges. With its structured approach and engaging content, this book remains a foundational text for anyone looking to understand and contribute to global economic development."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Longman"],

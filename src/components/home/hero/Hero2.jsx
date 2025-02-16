@@ -14,7 +14,7 @@ const Hero2 = () => (
         stiffness: 100,
       }}
     >
-      <div className=" grid grid-cols-4 gap-4 mx-auto max-w-screen-xl">
+      <div className="grid grid-cols-4 gap-4 mx-auto max-w-screen-xl">
         <div className="sm:col-span-1 lg:col-span-2 sm:my-20 md:my-40 pr-2">
           <div className="sm:hidden lg:block">
             <div className="flex sm:justify-center sm:items-center lg:justify-start lg:items-start my-2">
@@ -66,57 +66,6 @@ const Hero2 = () => (
               </div>
             </motion.div>
           </div>
-        </div>
-
-        <div className="flex-col sm:my-32 md:my-36 pr-2 col-span-2 sm:flex">
-          <div className="sm:flex lg:hidden sm:justify-center sm:items-center my-2">
-            <h1 className="font-semibold text-lg uppercase text-blumine-950">
-              New Arrivals
-            </h1>
-          </div>
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 1, delay: 1.3 }}
-            className="w-full my-4 flex  lg:justify-start sm:text-2xl lg:text-4xl font-semibold uppercase text-center lg:text-left text-blumine-950 lg:hidden "
-          >
-            <p>Notre Dame Cathedral</p>
-          </motion.div>
-          <motion.div
-            initial={{ x: 100, opacity: 0 }}
-            animate={{ x: 0, opacity: 1 }}
-            transition={{ duration: 0.8, delay: 1.7 }}
-            exit={{ opacity: 0 }}
-            className="w-full mb-4 mt-2 lg:my-8 flex lg:justify-start lg:text-left text-base text-blumine-950 lg:hidden "
-          >
-            <p>
-              Since its construction, Notre Dame Cathedral has played a central
-              role in French cultural identity.{" "}
-              <span className="sm:hidden lg:inline">
-                In the wake of the tragic fire of 2019, questions of how to
-                restore the fabric of this quintessential French monument are
-                once more at the forefront.
-              </span>
-            </p>
-          </motion.div>
-
-          <motion.div
-            initial={{ y: -100, opacity: 0 }}
-            exit={{ opacity: 0 }}
-            animate={{ y: 0, opacity: 1 }}
-            transition={{
-              delay: 2.4,
-              type: "tween",
-              stiffness: 110,
-              duration: 1,
-            }}
-          >
-            <div className="lg:w-1/3 cursor-pointer py-3 px-6 my-8 border-2 text-blumine-950 border-blumine-950 text-lg font-semibold justify-center flex hover:text-white hover:bg-blumine-950 lg:hidden transition duration-300">
-              <Link to="/shop">
-                <p>Shop Now</p>
-              </Link>
-            </div>
-          </motion.div>
         </div>
       </div>
     </motion.div>
