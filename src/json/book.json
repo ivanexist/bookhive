@@ -8438,7 +8438,14 @@
     "categories": ["childrens", "childrens-kidsBooks"],
     "total_page": "60",
     "price": "9.71",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Dr. Seuss’s ABC is a playful and engaging alphabet book that introduces young readers to letters through whimsical rhymes and imaginative illustrations. Each page features a letter, accompanied by alliterative phrases and quirky characters—like Aunt Annie’s alligator for 'A' and a fuzzy Zizzer-Zazzer-Zuzz for 'Z'—making learning fun and memorable. With its signature Seussian rhythm and humor, the book helps children develop phonics skills while enjoying a colorful and energetic reading experience.",
+    "descriptions": [
+      {
+        "description_1": "Dr. Seuss’s ABC is a lively and imaginative alphabet book that introduces young readers to letters through playful rhymes and whimsical illustrations. Each page is filled with fun, alliterative phrases that help children associate letters with sounds, making learning the alphabet an exciting adventure. The book’s rhythmic flow and humorous tone keep kids engaged while reinforcing early literacy skills.",
+        "description_2": "The book follows Dr. Seuss’s signature style of quirky characters and absurd situations, making it both educational and entertaining. From “Aunt Annie’s Alligator” to “Zizzer-Zazzer-Zuzz,” every letter is brought to life with exaggerated and comical elements that captivate young minds. The vibrant, bold illustrations add to the book’s charm, creating a visually stimulating experience that encourages children to explore letters and words with enthusiasm.",
+        "description_3": "Dr. Seuss’s ABC has remained a beloved classic for generations, helping countless children develop foundational reading skills. Its engaging format and playful language make it an excellent choice for parents and educators looking to make learning fun. Whether read aloud or explored independently, this book continues to be a delightful and effective introduction to the world of letters and language."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Harper Collins"],
@@ -8472,7 +8479,14 @@
     "categories": ["childrens", "childrens-storiesInRhyme"],
     "total_page": "12",
     "price": "4.71",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "A Visit from St. Nicholas, also known as ’Twas the Night Before Christmas, is a classic poem that captures the magic of Christmas Eve. The story follows a father who wakes up to the sound of Santa Claus arriving with his reindeer-drawn sleigh, silently delivering presents to children while they sleep. Through vivid imagery and rhythmic verse, the poem describes Santa’s jolly appearance, his swift and cheerful work, and his joyful departure with the famous exclamation, “Happy Christmas to all, and to all a good night!” This timeless tale has become a cherished holiday tradition, shaping modern depictions of Santa Claus and bringing warmth and wonder to generations of readers.",
+    "descriptions": [
+      {
+        "description_1": "A Visit from St. Nicholas, commonly known as 'Twas the Night Before Christmas, is a timeless holiday poem that has shaped the modern image of Santa Claus. Written by Clement Clarke Moore in 1823, the poem tells the magical story of Santa’s arrival on Christmas Eve. With its rhythmic and enchanting verses, it captures the excitement and wonder of the holiday season, painting a vivid picture of Santa, his sleigh, and his eight reindeer as they land on the rooftop to deliver presents.",
+        "description_2": "The poem’s charming descriptions of St. Nicholas—his jolly laughter, twinkling eyes, and iconic red suit—have influenced popular culture’s portrayal of Santa for generations. Each line builds anticipation as the narrator, a father awakened by the sound of Santa’s arrival, secretly observes the magical visit. The detailed imagery and playful rhymes make it an engaging and memorable read, especially for children eagerly awaiting Christmas morning.",
+        "description_3": "More than just a festive story, A Visit from St. Nicholas has become an essential part of Christmas traditions worldwide. Families continue to read it aloud on Christmas Eve, passing down the joy and nostalgia it brings. Its enduring popularity speaks to the poem’s ability to capture the spirit of giving, warmth, and holiday magic, making it a beloved classic that stands the test of time."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["L. Prang"],
@@ -8506,7 +8520,14 @@
     "categories": ["childrens", "childrens-storiesInRhyme"],
     "total_page": "46",
     "price": "7.76",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Revolting Rhymes by Roald Dahl is a darkly humorous collection of six twisted fairy tale retellings that put a clever and unexpected spin on classic stories like Cinderella, Snow White, and Little Red Riding Hood. Unlike the traditional versions, Dahl’s versions are filled with sharp wit, surprising plot twists, and a touch of mischief, often leading to hilariously shocking endings. Accompanied by Quentin Blake’s lively illustrations, the book offers a fresh and entertaining take on well-known tales, making it a favorite for readers who enjoy a mix of humor, satire, and playful rebellion against convention.",
+    "descriptions": [
+      {
+        "description_1": "Revolting Rhymes by Roald Dahl is a darkly humorous collection of six twisted fairy tales that reimagine classic stories in unexpected and often shocking ways. Unlike traditional fairy tales with their happily-ever-afters, Dahl injects his signature wit and mischief, turning familiar characters into cunning, unpredictable, and sometimes even ruthless figures. Through clever rhymes and exaggerated storytelling, he transforms tales like Cinderella, Snow White, and Jack and the Beanstalk into hilariously subversive versions that surprise and entertain readers.",
+        "description_2": "The book’s playful yet sharp-edged tone is complemented by Quentin Blake’s lively illustrations, which add to the humor and absurdity of the stories. Dahl’s use of vivid, exaggerated language and unexpected plot twists keeps readers engaged, making them laugh while also challenging their expectations of traditional storytelling. Instead of passive princesses and heroic princes, the characters in Revolting Rhymes often take matters into their own hands, leading to unexpected and amusing outcomes.",
+        "description_3": "Since its publication, Revolting Rhymes has delighted both children and adults with its clever wordplay and wicked sense of humor. While it maintains the fun and rhythm of classic rhyming tales, it also offers a fresh and satirical take on well-known stories. The book serves as a reminder that fairy tales don’t always have to follow predictable patterns—and sometimes, a little rebellion makes them even more fun."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Puffin"],
@@ -8540,7 +8561,14 @@
     "categories": ["childrens", "childrens-storiesInRhyme"],
     "total_page": "64",
     "price": "5.28",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "How the Grinch Stole Christmas! by Dr. Seuss is a heartwarming tale about the Grinch, a grumpy, green creature who despises Christmas and schemes to ruin it for the joyful residents of Whoville. Believing that Christmas is only about presents and decorations, he sneaks into town on Christmas Eve, stealing gifts, food, and festive decorations. However, when Christmas morning arrives, the Whos celebrate with happiness despite their losses, showing the Grinch that the holiday spirit comes from love and togetherness, not material things. Overcome with a change of heart, he returns everything and joins in the celebration, embracing the true meaning of Christmas.",
+    "descriptions": [
+      {
+        "description_1": "How the Grinch Stole Christmas! by Dr. Seuss is a beloved holiday classic that tells the story of the Grinch, a grouchy, green creature who despises Christmas and decides to steal it from the cheerful residents of Whoville. Living alone on Mount Crumpit, the Grinch is irritated by the Whos' joyous celebrations and sets out on Christmas Eve to take away their presents, decorations, and feast. Disguised as Santa Claus, he sneaks into their homes, believing that without material gifts, Christmas will be ruined.",
+        "description_2": "However, the Grinch is shocked to discover that the Whos still celebrate Christmas with happiness and song, even without their presents. Realizing that Christmas is about more than material things, he undergoes a heartwarming transformation, growing to understand the true meaning of the holiday. This touching moment is a turning point in the story, as the Grinch returns everything he stole and even joins the Whos in their celebrations, embracing kindness and generosity.",
+        "description_3": "With its playful rhymes, whimsical illustrations, and timeless message, How the Grinch Stole Christmas! has become a holiday favorite for generations. Dr. Seuss masterfully blends humor with a heartfelt lesson about the spirit of Christmas, emphasizing love, community, and the joy of giving. Whether read aloud as a family tradition or enjoyed individually, the story continues to remind readers that the holiday season is about togetherness and goodwill, not just presents and decorations."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Random House"],
@@ -8574,7 +8602,14 @@
     "categories": ["childrens", "childrens-storiesInRhyme"],
     "total_page": "36",
     "price": "11.21",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "A Squash and a Squeeze by Julia Donaldson is a charming rhyming story about a little old woman who feels that her house is too small. Seeking advice, she turns to a wise old man, who suggests bringing her farm animals inside one by one—a hen, a goat, a pig, and even a cow. As the house becomes increasingly crowded and chaotic, she realizes how much space she actually had before. When she finally removes the animals, she gains a fresh perspective and appreciates her home more than ever. With its playful rhymes, engaging repetition, and a heartwarming message about gratitude, this delightful tale teaches young readers to appreciate what they have.",
+    "descriptions": [
+      {
+        "description_1": "A Squash and a Squeeze by Julia Donaldson is a delightful rhyming picture book that tells the story of an old woman who feels that her house is too small. Seeking advice, she turns to a wise old man who gives her a rather unusual solution—he tells her to bring various farm animals into her home, one by one. As she follows his instructions, her tiny house becomes increasingly chaotic, leaving her feeling more cramped than ever.",
+        "description_2": "However, when the old man finally advises her to remove the animals, the woman is surprised to find that her home suddenly feels much more spacious than before. Through this clever and humorous approach, the story teaches an important lesson about gratitude and perspective. Sometimes, what we have is enough, and appreciating it can make all the difference in how we see the world.",
+        "description_3": "With Julia Donaldson’s signature rhythmic storytelling and Axel Scheffler’s charming illustrations, A Squash and a Squeeze is a fun and engaging read for young children. The lively rhymes make it perfect for reading aloud, while the playful characters and witty moral encourage kids to think about appreciating what they already have. It’s a heartwarming tale that blends humor, wisdom, and a touch of mischief in a way that has made it a favorite among families and educators alike."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Maxwell Macmillan International"],
@@ -8608,7 +8643,14 @@
     "categories": ["childrens", "childrens-storiesInRhyme"],
     "total_page": "44",
     "price": "8.20",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Fox in Socks by Dr. Seuss is a playful and tongue-twisting story that follows the mischievous Fox as he challenges his friend, Mr. Knox, to a series of increasingly difficult rhymes. Through a whirlwind of alliteration and absurd wordplay, Fox introduces tricky phrases involving socks, chicks, bricks, and more, while poor Knox struggles to keep up. As the tongue twisters grow more complex, the story builds to a hilarious and chaotic climax. With its fast-paced rhythm, clever rhymes, and silly illustrations, Fox in Socks is both a fun read-aloud book and a delightful challenge for kids and adults alike, encouraging language play and phonetic awareness in an entertaining way.",
+    "descriptions": [
+      {
+        "description_1": "Fox in Socks by Dr. Seuss is a playful and tongue-twisting adventure that challenges readers with its clever rhymes and fast-paced wordplay. The book follows the mischievous Fox, who enthusiastically presents increasingly difficult tongue twisters to his reluctant companion, Mr. Knox. As the phrases become more complex, the story turns into a hilarious challenge, pushing both characters—and readers—to keep up with the tricky sounds and rhythms.",
+        "description_2": "Dr. Seuss’s signature humor and imaginative storytelling shine through in the book’s lively illustrations and absurd scenarios. From 'Chicks with bricks and blocks and clocks' to 'Luke Luck likes lakes,' the rhymes are both entertaining and educational, helping young readers develop phonemic awareness and confidence in pronunciation. The escalating difficulty makes it a fun read-aloud experience, often resulting in laughter as adults and children alike stumble over the words.",
+        "description_3": "With its witty language, vibrant characters, and engaging rhythm, Fox in Socks remains a beloved classic for families and educators. It not only provides endless fun but also encourages early literacy skills in a dynamic and entertaining way. Whether read slowly for beginners or at high speed for a challenge, this book is a timeless favorite that proves learning can be as amusing as it is educational."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Random House"],
@@ -8642,7 +8684,14 @@
     "categories": ["childrens", "childrens-babyBooks"],
     "total_page": "48",
     "price": "4.97",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Mildred and Sam by Sharleen Collicott is a heartwarming early reader book about two gentle mice with big dreams. Mildred, a timid but thoughtful mouse, often worries about the world beyond their cozy home, while her husband, Sam, encourages her to dream big. As they prepare for the arrival of their babies, Mildred wonders what adventures her little ones will have. Through beautifully illustrated pages and a sweet, comforting narrative, the story explores themes of imagination, courage, and the love parents have for their children. Perfect for young readers, this charming tale gently inspires curiosity and confidence in embracing the unknown.",
+    "descriptions": [
+      {
+        "description_1": "Mildred and Sam by Sharleen Collicott is a heartwarming early reader book about two mice with very different perspectives on life. Mildred, a gentle and thoughtful mouse, often dreams of adventure and wonders about the world beyond their cozy home. Meanwhile, Sam, her practical and cautious husband, prefers the comfort of their quiet life. Their contrasting personalities create a charming dynamic as they navigate their small yet meaningful world together.",
+        "description_2": "The story follows Mildred’s curiosity and imagination as she dreams of exploring the sky, the ocean, and faraway places. Sam, though initially hesitant, begins to see the beauty in her dreams. Alongside their adventures, the book also introduces a sweet subplot about the arrival of their baby mice, bringing warmth and a sense of family to the tale. With its simple yet engaging language, the book is perfect for young readers developing their confidence in reading.",
+        "description_3": "With whimsical illustrations and a gentle, reassuring tone, Mildred and Sam is a delightful addition to the I Can Read series. It not only encourages independent reading but also highlights themes of love, curiosity, and the importance of dreams. The book’s blend of adventure and tenderness makes it a comforting and inspiring read for children who are beginning to explore stories on their own."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Harper Trophy"],
@@ -8676,7 +8725,14 @@
     "categories": ["childrens", "childrens-babyBooks"],
     "total_page": "582",
     "price": "6.92",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "The Developing Child by Helen L. Bee is a comprehensive textbook that explores the physical, cognitive, emotional, and social development of children from infancy through adolescence. Grounded in psychological research and developmental theories, the book provides an in-depth understanding of how children grow and change over time. It is widely used in academic settings to help students, educators, and caregivers gain insights into child development and the factors that influence it.",
+    "descriptions": [
+      {
+        "description_1": "Helen L. Bee’s The Developing Child presents a well-organized and engaging exploration of child development, covering key aspects such as genetic influences, learning processes, and social interactions. The book integrates classic and contemporary research, providing a balanced view of various developmental theories, including those of Piaget, Erikson, and Vygotsky. Through clear explanations and real-life examples, it helps readers connect theoretical concepts with everyday experiences, making complex ideas more accessible.",
+        "description_2": "A notable strength of the book is its focus on the interplay between nature and nurture in shaping a child’s growth. Bee examines how biological factors, family dynamics, cultural influences, and environmental conditions contribute to development. Each chapter includes case studies, research findings, and critical thinking questions that encourage deeper engagement with the material. The book also highlights practical applications, helping readers understand how developmental psychology can be applied in education, parenting, and child care.",
+        "description_3": "With its thorough yet reader-friendly approach, The Developing Child remains a trusted resource for students and professionals in psychology, education, and child development fields. The book’s structured format, engaging writing style, and emphasis on real-world applications make it an essential tool for anyone interested in understanding how children learn, grow, and develop into individuals."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Harper & Row"],
@@ -8710,7 +8766,14 @@
     "categories": ["childrens", "childrens-babyBooks"],
     "total_page": "65",
     "price": "4.98",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "In Katie the Kitten Fairy by Daisy Meadows, Katie is one of the seven Pet Fairies who protect magical pets in Fairyland. But when Jack Frost and his mischievous goblins steal the special pets, Katie’s kitten, Shimmer, goes missing. Without her, fairy magic is in trouble! Rachel and Kirsty, two best friends who often help the fairies, must work together with Katie to find Shimmer and bring her home before the goblins cause more chaos.",
+    "descriptions": [
+      {
+        "description_1": "Katie the Kitten Fairy is a charming installment in the Rainbow Magic series, blending adventure and friendship with a touch of magic. The story follows Katie as she teams up with Rachel and Kirsty to track down her lost kitten, Shimmer, who has been taken by Jack Frost’s goblins. As the girls work together, they encounter magical challenges and clever obstacles that make their journey exciting and engaging for young readers.",
+        "description_2": "The book is filled with colorful descriptions and delightful moments, making it perfect for children who love fairies and animals. Katie’s bond with Shimmer highlights the importance of love and responsibility for pets, while the teamwork between the characters reinforces themes of friendship, bravery, and problem-solving. The mischievous goblins add humor and suspense, keeping readers eager to see how Katie and her friends will outsmart them.",
+        "description_3": "With its simple yet engaging storytelling, Katie the Kitten Fairy is a great choice for early readers transitioning into chapter books. The book’s magical setting, lovable characters, and gentle life lessons make it a delightful read, sparking imagination and excitement in young readers who enjoy fairy tales and adventure stories."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Scholastic Inc."],
@@ -8744,7 +8807,14 @@
     "categories": ["childrens", "childrens-babyBooks"],
     "total_page": "32",
     "price": "13.98",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur vel, quam deserunt molestias similique velit nulla cumque aliquam, debitis rerum quasi ipsum. Atque sint, itaque qui accusamus adipisci accusantium obcaecati minus deserunt vel tempore minima? Repellat modi aliquam possimus quibusdam enim, consequuntur ea, pariatur suscipit repudiandae voluptate itaque praesentium. Quia.",
+    "synopsis": "Is Your Mama a Llama? by Deborah Guarino is a charming rhyming picture book that follows a young llama named Lloyd as he asks his animal friends about their mothers. Through a series of playful riddles and clues, Lloyd learns about different animals and their unique characteristics before finally discovering what makes his own mama special.",
+    "descriptions": [
+      {
+        "description_1": "With its rhythmic and engaging text, Is Your Mama a Llama? introduces children to a variety of animals in a fun and interactive way. As Lloyd asks each friend—like a bat, a swan, and a seal—if their mama is a llama, they respond with descriptive hints about their mothers before revealing their true identity. This question-and-answer format encourages young readers to make predictions and participate in the storytelling process.",
+        "description_2": "The book’s gentle rhymes and repetition make it an excellent read-aloud choice, helping to develop early literacy skills. Complemented by Steven Kellogg’s warm and detailed illustrations, each page is filled with expressive animal characters and beautiful nature scenes that bring the story to life. The artwork enhances the text, making it easy for children to connect the clues with the correct animals.",
+        "description_3": "Beyond its educational value, Is Your Mama a Llama? carries a heartfelt message about family and belonging. Lloyd’s journey to understand different mothers ultimately leads him back to his own, reinforcing the comfort and love of parental bonds. With its blend of playful learning and affectionate storytelling, this book remains a beloved favorite for young children and parents alike."
+      }
+    ],
     "publish": [
       {
         "publisher_name": ["Scholastic Inc."],
